@@ -52,7 +52,6 @@
       "Electronics and Devices/BJT Amplifiers/Amplification/Current gain",
       "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype",
       "Electronics and Devices/BJT Amplifiers",
-      "Electronics and Devices/BJT Amplifiers/Amplifier Classification",
       "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Signal Injection and Extraction",
       "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)"
     ],
@@ -65,8 +64,6 @@
   },
   "expandedSpaces": [
     null,
-    "Advanced English",
-    "/",
     null
   ],
   "folderRank": {

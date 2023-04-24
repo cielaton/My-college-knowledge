@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"type":"file","file":"Discrete mathematics/Discrete mathematics.md","id":"372bfa1396bdd57d","x":-289,"y":320,"width":400,"height":400},
-		{"type":"file","file":"Computer programming 2/Computer programming 2.md","id":"71d01997c82f2585","x":-820,"y":320,"width":400,"height":400},
-		{"type":"file","file":"Electronics and Devices/Electronics and Devices.md","id":"f2defeb7795e8caa","x":260,"y":320,"width":400,"height":400},
-		{"id":"ec025bf442639369","x":-214,"y":120,"width":250,"height":60,"type":"text","text":"Index"}
+		{"type":"text","text":"Index","id":"ec025bf442639369","x":-214,"y":120,"width":250,"height":60},
+		{"type":"file","file":"Computer programming 2/Computer programming 2.md","id":"71d01997c82f2585","x":-1080,"y":320,"width":400,"height":400},
+		{"type":"file","file":"Electronics and Devices/Electronics and Devices.md","id":"f2defeb7795e8caa","x":440,"y":320,"width":400,"height":400},
+		{"type":"file","file":"Discrete mathematics/Discrete mathematics.md","id":"372bfa1396bdd57d","x":-580,"y":520,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"09b9510126dcf977","fromNode":"ec025bf442639369","fromSide":"bottom","toNode":"71d01997c82f2585","toSide":"top"},

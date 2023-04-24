@@ -5,3 +5,4 @@
 5. [[DC and AC analysis]]
 6. [[Small-signal models for BJT]]
 7. [[The Common-Emitter (C-E) amplifier]]
+8. [[Amplifier Classification]]
