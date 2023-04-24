@@ -1,0 +1,98 @@
+{
+  "defaultInitialization": false,
+  "filePreviewOnHover": false,
+  "markSans": false,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "makerMode": true,
+  "inlineStylerColors": false,
+  "editorFlow": true,
+  "internalLinkClickFlow": true,
+  "contextEnabled": true,
+  "saveAllContextToFrontmatter": true,
+  "editorFlowStyle": "seamless",
+  "autoOpenFileContext": false,
+  "activeView": "root",
+  "hideFrontmatter": true,
+  "activeSpace": "",
+  "spacesCompactMode": false,
+  "defaultDateFormat": "MMM dd yyyy",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "collapsedTags": [],
+  "enableFolderNote": false,
+  "folderIndentationLines": true,
+  "revealActiveFile": false,
+  "spacesStickers": true,
+  "spaceRowHeight": 29,
+  "spacesDisablePatch": false,
+  "folderNoteInsideFolder": true,
+  "sidebarTabs": true,
+  "showRibbon": true,
+  "deleteFileOption": "trash",
+  "expandedFolders": {
+    "/": [
+      "Discrete mathematics/Sets and Logic",
+      "Computer programming 2/Assignment 4",
+      "Electronics and Devices/BJT Amplifiers",
+      "Electronics and Devices/Introduction to Digital Electronics",
+      "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype"
+    ],
+    "Discrete mathematics": [
+      "Discrete mathematics/Proofs/Mathematical Systems, Direct Proofs, and Counterexamples",
+      "Discrete mathematics/Proofs/More Methods of Proof",
+      "Discrete mathematics/Proofs",
+      "Discrete mathematics/Proofs/Resolution Proofs"
+    ],
+    "Electronics and Devices": [
+      "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Design Objectives",
+      "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype/Fanout limitations/Fanout Limit for Output voltage = V_L",
+      "Electronics and Devices/BJT Amplifiers/Amplification/Voltage gain",
+      "Electronics and Devices/BJT Amplifiers/Amplification/Current gain",
+      "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype",
+      "Electronics and Devices/BJT Amplifiers",
+      "Electronics and Devices/BJT Amplifiers/Amplifier Classification",
+      "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Signal Injection and Extraction",
+      "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)"
+    ],
+    "Computer programming 2": [
+      "Computer programming 2/Assignment 4"
+    ]
+  },
+  "expandedSpaces": [
+    null,
+    "/",
+    null
+  ],
+  "folderRank": {
+    "node": "root",
+    "children": [],
+    "isFolder": true
+  },
+  "openFolders": [],
+  "fileIcons": [],
+  "spaces": [],
+  "pinnedSpaces": [],
+  "menuTriggerChar": "/",
+  "emojiTriggerChar": ":",
+  "folderContextFile": "context",
+  "tagContextFolder": "Context",
+  "hiddenFiles": [
+    "Context"
+  ],
+  "lineNumbers": false,
+  "hiddenExtensions": [
+    "mdb"
+  ],
+  "vaultSort": [
+    "created",
+    false
+  ],
+  "inlineBacklinks": true,
+  "inlineContext": true,
+  "inlineBacklinksExpanded": true,
+  "inlineContextExpanded": true,
+  "dataviewInlineContext": false,
+  "inlineContextNameLayout": "vertical"
+}

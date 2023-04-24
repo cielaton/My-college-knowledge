@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Electronics and Devices\"",
+      "color": {
+        "a": 1,
+        "rgb": 15495115
+      }
+    },
+    {
+      "query": "path:\"Discrete mathematics\"",
+      "color": {
+        "a": 1,
+        "rgb": 6074608
+      }
+    },
+    {
+      "query": "path:\"Computer programming 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.453125,
+  "repelStrength": 9.47916666666667,
+  "linkStrength": 1,
+  "linkDistance": 194,
+  "scale": 0.06610038586480407,
+  "close": true
+}

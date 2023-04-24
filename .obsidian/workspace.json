@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "40abe1960c7b6879",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a0c4f9e95dd8b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5c9d5a5d6b57780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced English/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29723c802c07c8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f372fa0be789290b",
+        "type": "tabs",
+        "dimension": 62.89370078740157,
+        "children": [
+          {
+            "id": "9f1e38fcebc82a6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b189070fedb83ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e86fe9949aa19163",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "25c7f2d5354f5831",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2ef7a3f21d3be403",
+        "type": "tabs",
+        "dimension": 37.10629921259843,
+        "children": [
+          {
+            "id": "21a132be76e67910",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286
+  },
+  "right": {
+    "id": "38fad986ac2c2ce1",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b894664d52b4e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2844acc0af2b4e6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Advanced English/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35a4d56ed1d34e54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d66170a81a9ca7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Advanced English/Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "3062c2ec42c8b10a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8928af42b277224d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Advanced English/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b5c9d5a5d6b57780",
+  "lastOpenFiles": [
+    "Index.md",
+    "Advanced English/Untitled.md",
+    "Advanced English",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423145041.png",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Common-Base (C-B).md",
+    "Pasted image 20230423144837.png",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423144753.png",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Pasted image 20230423144048.png",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Pasted image 20230423144140.png",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Common-Collector (C-C).md",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Common-Emitter (C-E).md",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Pasted image 20230423143733.png",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Pasted image 20230423143811.png",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Signal Injection and Extraction/Signal Injection and Extraction.md",
+    "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
+    "Electronics and Devices/BJT Amplifiers/Small-signal models for BJT/Pasted image 20230423140447.png",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Signal Injection and Extraction",
+    "Electronics and Devices/BJT Amplifiers/The Common-Emitter (C-E) amplifier/The Common-Emitter (C-E) amplifier.md",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification",
+    "Electronics and Devices/BJT Amplifiers/Small-signal models for BJT/Small-signal models for BJT.md",
+    "Electronics and Devices/BJT Amplifiers/DC and AC analysis/Example.md",
+    "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
+    "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
+    "Electronics and Devices/BJT Amplifiers/The Transistor as an Amplifier/The BJT Amplifier/The BJT Amplifier.md",
+    "Electronics and Devices/BJT Amplifiers/Mismatched Source and Load Resistances/Mismatched source and load resistances.md",
+    "Electronics and Devices/BJT Amplifiers/The Transistor as an Amplifier/The Transistor as an Amplifier.md",
+    "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+    "Electronics and Devices/BJT Amplifiers/The Common-Emitter (C-E) amplifier/Pasted image 20230422203537.png",
+    "Electronics and Devices/BJT Amplifiers/The Common-Emitter (C-E) amplifier/Pasted image 20230422203657.png",
+    "Pasted image 20230422202643.png.md",
+    "Electronics and Devices/BJT Amplifiers/The Common-Emitter (C-E) amplifier",
+    "Electronics and Devices/BJT Amplifiers/Small-signal models for BJT",
+    "Electronics and Devices/BJT Amplifiers/DC and AC analysis",
+    "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors",
+    "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype/Fanout limitations/Fanout limitations.md",
+    "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype/Fanout limitations/Fanout Limit for Output voltage = V_L/Fanout Limit for Output voltage = V_L.md",
+    "Computer programming 2/Assignment 4/Assignment 4.md",
+    "Computer programming 2/Computer programming 2.md",
+    "Computer programming 2/Assignment 4/Exercise 7.md",
+    "Computer programming 2/Assignment 4/Exercise 6.md",
+    "Computer programming 2/Assignment 4/Exercise 5.md",
+    "Computer programming 2/Assignment 4/Exercise 4.md",
+    "Electronics and Devices/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

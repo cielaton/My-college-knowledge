@@ -1,0 +1,8 @@
+1. [[Computer programming 2/Assignment 3/Exercise 1]]
+2. [[Computer programming 2/Assignment 3/Exercise 2]]
+3. [[Computer programming 2/Assignment 3/Exercise 3]]
+4. [[Computer programming 2/Assignment 3/Exercise 4]]
+5. [[Computer programming 2/Assignment 3/Exercise 5]]
+6. [[Computer programming 2/Assignment 3/Exercise 6]]
+7. [[Computer programming 2/Assignment 3/Exercise 7]]
+9. [[Computer programming 2/Assignment 3/Exercise 8]]
