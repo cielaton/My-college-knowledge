@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286
+    "width": 450
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -183,8 +183,8 @@
   },
   "active": "b5c9d5a5d6b57780",
   "lastOpenFiles": [
-    "Index.md",
     "Advanced English/Untitled.md",
+    "Index.md",
     "Advanced English",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423145041.png",
