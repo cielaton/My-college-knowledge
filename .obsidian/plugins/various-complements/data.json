@@ -62,5 +62,14 @@
   },
   "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {}
+  "selectionHistoryTree": {
+    "Analysis of diodes operating in the breakdown region": {
+      "Analysis of diodes operating in the breakdown region": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682332234862
+        }
+      }
+    }
+  }
 }

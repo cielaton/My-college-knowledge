@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced English/Homework 5/Process 1.md",
+                "file": "Advanced English/Homework 5/Process 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37ea26785df6a3b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced English/Homework 5/Process 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -118,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Advanced English/Homework 5/Process 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Advanced English/Homework 5/Process 2.md"
+              }
             }
           },
           {
@@ -164,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advanced English/Homework 5/Process 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,11 +210,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "25c7f2d5354f5831",
+  "active": "9f1e38fcebc82a6a",
   "lastOpenFiles": [
+    "Advanced English/Homework 5/Pasted image 20230424171000.png",
+    "Untitled.md",
+    "Advanced English/Homework 5/Process 2.md",
     "Advanced English/Homework 5/Process 1.md",
     "Advanced English/Homework 5",
-    "Pasted image 20230424171000.png",
     "Index.canvas",
     "Index.md",
     "Advanced English",
@@ -240,8 +258,6 @@
     "Computer programming 2/Assignment 4/Assignment 4.md",
     "Computer programming 2/Computer programming 2.md",
     "Computer programming 2/Assignment 4/Exercise 7.md",
-    "Computer programming 2/Assignment 4/Exercise 6.md",
-    "Computer programming 2/Assignment 4/Exercise 5.md",
     "Electronics and Devices/Untitled.canvas"
   ]
 }
