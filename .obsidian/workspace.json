@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced English/Untitled.md",
+                "file": "Advanced English/Homework 5/Process 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced English/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Advanced English/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced English/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,12 +194,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "19e399da0e5d9c0c",
+  "active": "25c7f2d5354f5831",
   "lastOpenFiles": [
+    "Advanced English/Homework 5/Process 1.md",
+    "Advanced English/Homework 5",
     "Pasted image 20230424171000.png",
     "Index.canvas",
     "Index.md",
-    "Advanced English/Untitled.md",
     "Advanced English",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423145041.png",
@@ -234,12 +231,10 @@
     "Electronics and Devices/BJT Amplifiers/The Transistor as an Amplifier/The Transistor as an Amplifier.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
     "Electronics and Devices/BJT Amplifiers/The Common-Emitter (C-E) amplifier/Pasted image 20230422203537.png",
-    "Electronics and Devices/BJT Amplifiers/The Common-Emitter (C-E) amplifier/Pasted image 20230422203657.png",
     "Pasted image 20230422202643.png.md",
     "Electronics and Devices/BJT Amplifiers/The Common-Emitter (C-E) amplifier",
     "Electronics and Devices/BJT Amplifiers/Small-signal models for BJT",
     "Electronics and Devices/BJT Amplifiers/DC and AC analysis",
-    "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors",
     "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype/Fanout limitations/Fanout limitations.md",
     "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype/Fanout limitations/Fanout Limit for Output voltage = V_L/Fanout Limit for Output voltage = V_L.md",
     "Computer programming 2/Assignment 4/Assignment 4.md",
