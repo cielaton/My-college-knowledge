@@ -3,5 +3,8 @@
   "obsidian-languagetool-plugin",
   "make-md",
   "obsidian-git",
-  "obsidian-tracker"
+  "obsidian-tracker",
+  "markdown-prettifier",
+  "quick-latex",
+  "various-complements"
 ]

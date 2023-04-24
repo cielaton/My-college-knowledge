@@ -1,6 +1,6 @@
 {
   "defaultInitialization": false,
-  "filePreviewOnHover": false,
+  "filePreviewOnHover": true,
   "markSans": false,
   "makeMenuPlaceholder": true,
   "mobileMakeBar": true,
@@ -82,7 +82,7 @@
   "hiddenFiles": [
     "Context"
   ],
-  "lineNumbers": false,
+  "lineNumbers": true,
   "hiddenExtensions": [
     "mdb"
   ],
