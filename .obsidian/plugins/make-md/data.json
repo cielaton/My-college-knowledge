@@ -33,12 +33,11 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Discrete mathematics/Sets and Logic",
       "Computer programming 2/Assignment 4",
       "Electronics and Devices/BJT Amplifiers",
       "Electronics and Devices/Introduction to Digital Electronics",
       "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype",
-      "Advanced English"
+      "Discrete mathematics"
     ],
     "Discrete mathematics": [
       "Discrete mathematics/Proofs/Mathematical Systems, Direct Proofs, and Counterexamples",
