@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7fad55d8d90dcd9d",
+            "id": "4d6e50d3b2f1b1af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4d6e50d3b2f1b1af",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -198,55 +190,55 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "7fad55d8d90dcd9d",
+  "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
+    "textgenerator/prompts/awesomechatgpt/academicianAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/etymologistAwesome.md",
+    "Testting.md",
+    "textgenerator/prompts/awesomechatgpt/standupcomedianAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/sqlterminalAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/screenwriterAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/stackoverflowpostAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/spongebobsmagicconchshellAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/wikipediapageAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/titlegeneratorforwrittenpiecesAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/spokenenglishteacherandimproverAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/techreviewerAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/uxuideveloperAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/technologytransfererAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/socraticmethodAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/softwarequalityassurancetesterAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/timetravelguideAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/statisticianAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/unconstrainedaimodeldanAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/yogiAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/socratAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/tictactoegameAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/travelguideAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/socialmediamanagerAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/promptgeneratorAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/textbasedadventuregameAwesome.md",
+    "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "Pasted image 20230426111413.png",
-    "Advanced English/Homework 5/Process 1.md",
-    "Testting.md",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
-    "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
-    "Advanced English/Advanced English.md",
-    "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/getIdeas.md",
-    "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/default/rewrite.md",
-    "textgenerator/prompts/default/simplify.md",
-    "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/getEmailPos.md",
-    "textgenerator/prompts/default/getOutline.md",
-    "textgenerator/prompts/default/getEmailNeg.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
-    "Advanced English/Homework 5/Homework 5.md",
     "Index.canvas",
-    "Advanced English/Homework 5/Process 2.md",
     "Advanced English/Homework 5/Pasted image 20230424174031.png",
     "Advanced English/Homework 5/Pasted image 20230424171000.png",
     "Advanced English/Homework 5",
-    "Index.md",
     "Advanced English",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423145041.png",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Common-Base (C-B).md",
     "Pasted image 20230423144837.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423144753.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Pasted image 20230423144048.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Pasted image 20230423144140.png",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Common-Collector (C-C).md",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Common-Emitter (C-E).md",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Pasted image 20230423143733.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Pasted image 20230423143811.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Signal Injection and Extraction/Signal Injection and Extraction.md",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Signal Injection and Extraction",
-    "Electronics and Devices/BJT Amplifiers/The Common-Emitter (C-E) amplifier/The Common-Emitter (C-E) amplifier.md",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification",
-    "Electronics and Devices/BJT Amplifiers/Small-signal models for BJT/Small-signal models for BJT.md",
-    "Electronics and Devices/BJT Amplifiers/DC and AC analysis/Example.md",
     "Electronics and Devices/Untitled.canvas"
   ]
 }
