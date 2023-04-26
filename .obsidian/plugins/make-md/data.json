@@ -102,7 +102,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 0,
+  "spacesAutoBackupLast": 1682482712901,
   "spacesUseAlias": false,
   "folderRank": {
     "node": "root",
