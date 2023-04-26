@@ -25,7 +25,8 @@
     "ith",
     "phasor",
     "d\n",
-    "Transconductance"
+    "Transconductance",
+    "MOSFET"
   ],
   "vimMode": true,
   "promptDelete": false,

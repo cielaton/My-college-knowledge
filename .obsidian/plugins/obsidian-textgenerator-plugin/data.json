@@ -1,5 +1,6 @@
 {
-  "api_key": "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",
+  "endpoint": "https://api.openai.com",
+  "api_key": "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",
   "engine": "gpt-3.5-turbo",
   "max_tokens": 500,
   "temperature": 0.7,
@@ -8,6 +9,7 @@
   "showStatusBar": true,
   "outputToBlockQuote": false,
   "promptsPath": "textgenerator/prompts",
+  "prefix": "\n\n",
   "context": {
     "includeTitle": false,
     "includeStaredBlocks": true,
@@ -18,7 +20,7 @@
     "includeHighlights": true,
     "includeExtractions": false
   },
-  "timeout": 30000,
+  "requestTimeout": 300000,
   "options": {
     "generate-text": true,
     "generate-text-with-metadata": true,
@@ -51,5 +53,6 @@
     "AudioExtractor": false
   },
   "displayErrorInEditor": false,
+  "timeout": 30000,
   "models": {}
 }

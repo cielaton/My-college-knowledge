@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced English/Homework 5/Process 1.md",
+                "file": "Testting.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "25c7f2d5354f5831",
+            "id": "d3231d2caf1ab20b",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced English/Homework 5/Process 1.md",
+                "file": "Testting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced English/Homework 5/Process 1.md"
+                "file": "Testting.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced English/Homework 5/Process 1.md",
+                "file": "Testting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,9 +200,12 @@
   },
   "active": "7fad55d8d90dcd9d",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Pasted image 20230426111413.png",
+    "Advanced English/Homework 5/Process 1.md",
+    "Testting.md",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
     "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
-    "Advanced English/Homework 5/Process 1.md",
     "Advanced English/Advanced English.md",
     "textgenerator/prompts/default/getParagraph.md",
     "textgenerator/prompts/default/getIdeas.md",
@@ -222,7 +225,6 @@
     "Advanced English/Homework 5/Process 2.md",
     "Advanced English/Homework 5/Pasted image 20230424174031.png",
     "Advanced English/Homework 5/Pasted image 20230424171000.png",
-    "Untitled.md",
     "Advanced English/Homework 5",
     "Index.md",
     "Advanced English",
@@ -240,7 +242,6 @@
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Pasted image 20230423143811.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Signal Injection and Extraction/Signal Injection and Extraction.md",
-    "Electronics and Devices/BJT Amplifiers/Small-signal models for BJT/Pasted image 20230423140447.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Signal Injection and Extraction",
     "Electronics and Devices/BJT Amplifiers/The Common-Emitter (C-E) amplifier/The Common-Emitter (C-E) amplifier.md",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification",
