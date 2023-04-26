@@ -1,2 +1,2 @@
 # My-college-knowledge
-Just for backup and for people who interest.
+Some syntax of the file only support in Obsidian, so the best way to read is to open this repo in obsidian as a Vault.
