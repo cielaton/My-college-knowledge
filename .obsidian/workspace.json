@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testting.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testting.md",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testting.md"
+                "file": "Testing.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testting.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,9 +192,11 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
+    "Pasted image 20230426165920.png",
+    "Advanced English/Homework 5/Process 1.md",
+    "Testing.md",
     "Pasted image 20230426153610.png",
     "README.md",
-    "Testting.md",
     "textgenerator/prompts/awesomechatgpt/academicianAwesome.md",
     "textgenerator/prompts/awesomechatgpt/etymologistAwesome.md",
     "textgenerator/prompts/awesomechatgpt/standupcomedianAwesome.md",
@@ -217,7 +219,6 @@
     "textgenerator/prompts/awesomechatgpt/socratAwesome.md",
     "textgenerator/prompts/awesomechatgpt/tictactoegameAwesome.md",
     "textgenerator/prompts/awesomechatgpt/travelguideAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/socialmediamanagerAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "Pasted image 20230426111413.png",
@@ -237,7 +238,6 @@
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Pasted image 20230423144140.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Pasted image 20230423143733.png",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Pasted image 20230423143811.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)",
     "Electronics and Devices/Untitled.canvas"
   ]

@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "all",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -64,7 +64,9 @@
     "Computer programming 2": [
       "Computer programming 2/Assignment 4"
     ],
-    "Advanced English": []
+    "Advanced English": [
+      "Advanced English/Homework 5"
+    ]
   },
   "expandedSpaces": [
     null,
@@ -106,7 +108,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1682498171756,
+  "spacesAutoBackupLast": 1682503161995,
   "spacesUseAlias": false,
   "folderRank": {
     "node": "root",
