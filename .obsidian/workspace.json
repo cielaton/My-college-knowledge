@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Testting.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Testting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Testting.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Testting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +192,9 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
-    "Testting.md",
+    "Pasted image 20230426153610.png",
     "README.md",
+    "Testting.md",
     "textgenerator/prompts/awesomechatgpt/academicianAwesome.md",
     "textgenerator/prompts/awesomechatgpt/etymologistAwesome.md",
     "textgenerator/prompts/awesomechatgpt/standupcomedianAwesome.md",
@@ -217,7 +218,6 @@
     "textgenerator/prompts/awesomechatgpt/tictactoegameAwesome.md",
     "textgenerator/prompts/awesomechatgpt/travelguideAwesome.md",
     "textgenerator/prompts/awesomechatgpt/socialmediamanagerAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/promptgeneratorAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "Pasted image 20230426111413.png",

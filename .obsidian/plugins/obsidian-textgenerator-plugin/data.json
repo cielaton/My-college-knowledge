@@ -1,6 +1,6 @@
 {
   "endpoint": "https://api.openai.com",
-  "api_key": "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",
+  "api_key": "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",
   "engine": "gpt-3.5-turbo",
   "max_tokens": 500,
   "temperature": 0.7,
@@ -39,12 +39,13 @@
     "calculate-tokens-for-template": true
   },
   "autoSuggestOptions": {
-    "status": false,
+    "isEnabled": false,
     "delay": 300,
     "numberOfSuggestions": 5,
     "triggerPhrase": "  ",
     "stop": ".",
-    "showStatus": true
+    "showStatus": true,
+    "status": false
   },
   "extractorsOptions": {
     "PDFExtractor": true,
