@@ -11,11 +11,14 @@
             "id": "4d6e50d3b2f1b1af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
-                "mode": "source",
-                "source": false
+                "file": "Index.canvas",
+                "viewState": {
+                  "x": -90,
+                  "y": 520,
+                  "zoom": -0.7519998268378885
+                }
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
+                "file": "Index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md"
+                "file": "Index.canvas"
               }
             }
           },
@@ -159,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
+                "file": "Index.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,13 +195,14 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
+    "Electronics and Devices/Electronics and Devices.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
     "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Reverse characteristic/Reverse characteristic.md",
     "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Foward characteristics/Foward characteristics.md",
     "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/The transport model for the npn transistor.md",
     "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
     "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Rectifier comparison and design tradeoffs/Rectifier comparison and design tradeoffs.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Full-wave bridge rectification/Full-wave bridge rectification.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Full-wave rectifier circuits/Full-wave rectifier circuits.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Half-wave rectifier circuits/Half-wave rectifier circuits.md",
@@ -221,7 +225,6 @@
     "textgenerator/prompts/awesomechatgpt/wikipediapageAwesome.md",
     "textgenerator/prompts/awesomechatgpt/titlegeneratorforwrittenpiecesAwesome.md",
     "textgenerator/prompts/awesomechatgpt/spokenenglishteacherandimproverAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/techreviewerAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "textgenerator/prompts/default",
