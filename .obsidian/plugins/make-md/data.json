@@ -40,7 +40,6 @@
       "Electronics and Devices/BJT Amplifiers",
       "Electronics and Devices/Introduction to Digital Electronics",
       "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype",
-      "Discrete mathematics",
       "textgenerator",
       "textgenerator/prompts",
       "textgenerator/prompts/awesomechatgpt"
@@ -70,9 +69,8 @@
   },
   "expandedSpaces": [
     null,
-    "Advanced English",
-    "/",
-    null
+    null,
+    "/"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -108,7 +106,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1682503161995,
+  "spacesAutoBackupLast": 1682596088579,
   "spacesUseAlias": false,
   "folderRank": {
     "node": "root",

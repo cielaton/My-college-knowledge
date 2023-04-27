@@ -11,11 +11,14 @@
             "id": "4d6e50d3b2f1b1af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Advanced English/Homework 5/Process 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Index.canvas",
+                "viewState": {
+                  "x": -120,
+                  "y": 394.9648348106374,
+                  "zoom": -0.7671067192280967
+                }
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced English/Homework 5/Process 1.md",
+                "file": "Index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced English/Homework 5/Process 1.md"
+                "file": "Index.canvas"
               }
             }
           },
@@ -159,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced English/Homework 5/Process 1.md",
+                "file": "Index.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,10 +195,11 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
-    "Testing.md",
+    "Pasted image 20230426111413.png",
+    "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
     "Advanced English/Homework 5/Process 1.md",
-    "Pasted image 20230426153610.png",
+    "Testing.md",
     "README.md",
     "textgenerator/prompts/awesomechatgpt/academicianAwesome.md",
     "textgenerator/prompts/awesomechatgpt/etymologistAwesome.md",
@@ -221,7 +225,6 @@
     "textgenerator/prompts/awesomechatgpt/travelguideAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
-    "Pasted image 20230426111413.png",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
