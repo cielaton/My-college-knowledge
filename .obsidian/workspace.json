@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "Advanced English/Homework 5/Process 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Advanced English/Homework 5/Process 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "Advanced English/Homework 5/Process 1.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "Advanced English/Homework 5/Process 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,9 +192,9 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
+    "Testing.md",
     "Pasted image 20230426165920.png",
     "Advanced English/Homework 5/Process 1.md",
-    "Testing.md",
     "Pasted image 20230426153610.png",
     "README.md",
     "textgenerator/prompts/awesomechatgpt/academicianAwesome.md",
@@ -237,7 +237,6 @@
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Pasted image 20230423144048.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Pasted image 20230423144140.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Pasted image 20230423143733.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)",
     "Electronics and Devices/Untitled.canvas"
   ]
