@@ -56,9 +56,9 @@
       "Electronics and Devices/BJT Amplifiers/Amplification/Voltage gain",
       "Electronics and Devices/BJT Amplifiers/Amplification/Current gain",
       "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype",
-      "Electronics and Devices/BJT Amplifiers",
       "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Signal Injection and Extraction",
-      "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)"
+      "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)",
+      "Electronics and Devices/Bipolar junction transistors"
     ],
     "Computer programming 2": [
       "Computer programming 2/Assignment 4"
@@ -70,7 +70,8 @@
   "expandedSpaces": [
     null,
     null,
-    "/"
+    "/",
+    "Electronics and Devices"
   ],
   "openFolders": [],
   "fileIcons": [],

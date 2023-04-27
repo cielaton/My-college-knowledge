@@ -11,14 +11,11 @@
             "id": "4d6e50d3b2f1b1af",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": -120,
-                  "y": 394.9648348106374,
-                  "zoom": -0.7671067192280967
-                }
+                "file": "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.canvas",
+                "file": "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.canvas"
+                "file": "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md"
               }
             }
           },
@@ -162,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.canvas",
+                "file": "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +192,15 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
+    "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Rectifier comparison and design tradeoffs/Rectifier comparison and design tradeoffs.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Full-wave bridge rectification/Full-wave bridge rectification.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Full-wave rectifier circuits/Full-wave rectifier circuits.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Half-wave rectifier circuits/Half-wave rectifier circuits.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Analysis of diodes operating in the breakdown region/Analysis of diodes operating in the breakdown region.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
+    "Index.canvas",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
@@ -216,19 +222,11 @@
     "textgenerator/prompts/awesomechatgpt/technologytransfererAwesome.md",
     "textgenerator/prompts/awesomechatgpt/socraticmethodAwesome.md",
     "textgenerator/prompts/awesomechatgpt/softwarequalityassurancetesterAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/timetravelguideAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/statisticianAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/unconstrainedaimodeldanAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/yogiAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/socratAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/tictactoegameAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/travelguideAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
-    "Index.canvas",
     "Advanced English/Homework 5/Pasted image 20230424174031.png",
     "Advanced English/Homework 5/Pasted image 20230424171000.png",
     "Advanced English/Homework 5",
