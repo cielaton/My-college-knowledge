@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
+                "file": "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Reverse characteristic/Reverse characteristic.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
+                "file": "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Reverse characteristic/Reverse characteristic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md"
+                "file": "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Reverse characteristic/Reverse characteristic.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
+                "file": "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Reverse characteristic/Reverse characteristic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,9 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
+    "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Foward characteristics/Foward characteristics.md",
+    "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/The transport model for the npn transistor.md",
+    "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
     "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Rectifier comparison and design tradeoffs/Rectifier comparison and design tradeoffs.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
@@ -219,9 +222,6 @@
     "textgenerator/prompts/awesomechatgpt/spokenenglishteacherandimproverAwesome.md",
     "textgenerator/prompts/awesomechatgpt/techreviewerAwesome.md",
     "textgenerator/prompts/awesomechatgpt/uxuideveloperAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/technologytransfererAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/socraticmethodAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/softwarequalityassurancetesterAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "textgenerator/prompts/default",
