@@ -11,14 +11,11 @@
             "id": "4d6e50d3b2f1b1af",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": -90,
-                  "y": 520,
-                  "zoom": -0.7519998268378885
-                }
+                "file": "Testing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.canvas",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.canvas"
+                "file": "Testing.md"
               }
             }
           },
@@ -162,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.canvas",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +192,7 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
+    "Index.canvas",
     "Electronics and Devices/Electronics and Devices.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
     "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Reverse characteristic/Reverse characteristic.md",
@@ -208,7 +206,6 @@
     "Electronics and Devices/Solid-State diodes and Diode circuits/Half-wave rectifier circuits/Half-wave rectifier circuits.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Analysis of diodes operating in the breakdown region/Analysis of diodes operating in the breakdown region.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
-    "Index.canvas",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
@@ -224,7 +221,6 @@
     "textgenerator/prompts/awesomechatgpt/spongebobsmagicconchshellAwesome.md",
     "textgenerator/prompts/awesomechatgpt/wikipediapageAwesome.md",
     "textgenerator/prompts/awesomechatgpt/titlegeneratorforwrittenpiecesAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/spokenenglishteacherandimproverAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "textgenerator/prompts/default",

@@ -41,7 +41,12 @@
   ],
   "openFolders": [],
   "fileIcons": [],
-  "cachedSpaces": [],
+  "cachedSpaces": [
+    "Advanced English",
+    "Computer programming 2",
+    "Electronics and Devices",
+    "Discrete mathematics"
+  ],
   "menuTriggerChar": "/",
   "emojiTriggerChar": ":",
   "folderContextFile": "context",
@@ -59,7 +64,7 @@
   ],
   "inlineBacklinks": false,
   "inlineContext": true,
-  "inlineBacklinksExpanded": false,
+  "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
