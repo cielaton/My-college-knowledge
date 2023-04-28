@@ -1,6 +1,6 @@
 {
   "defaultInitialization": false,
-  "filePreviewOnHover": true,
+  "filePreviewOnHover": false,
   "flowMenuEnabled": true,
   "markSans": false,
   "blinkEnabled": true,
@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "all",
+  "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -23,7 +23,7 @@
   "spacesEnabled": true,
   "spacesPerformance": false,
   "collapsedTags": [],
-  "enableFolderNote": false,
+  "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
   "spacesStickers": true,
@@ -34,54 +34,14 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {
-    "/": [
-      "Computer programming 2/Assignment 4",
-      "Electronics and Devices/BJT Amplifiers",
-      "Electronics and Devices/Introduction to Digital Electronics",
-      "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype",
-      "textgenerator",
-      "textgenerator/prompts",
-      "textgenerator/prompts/awesomechatgpt"
-    ],
-    "Discrete mathematics": [
-      "Discrete mathematics/Proofs/Mathematical Systems, Direct Proofs, and Counterexamples",
-      "Discrete mathematics/Proofs/More Methods of Proof",
-      "Discrete mathematics/Proofs",
-      "Discrete mathematics/Proofs/Resolution Proofs"
-    ],
-    "Electronics and Devices": [
-      "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Design Objectives",
-      "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype/Fanout limitations/Fanout Limit for Output voltage = V_L",
-      "Electronics and Devices/BJT Amplifiers/Amplification/Voltage gain",
-      "Electronics and Devices/BJT Amplifiers/Amplification/Current gain",
-      "Electronics and Devices/Introduction to Digital Electronics/A Transistor-Transistor logic (TTL) prototype",
-      "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Signal Injection and Extraction",
-      "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)",
-      "Electronics and Devices/Bipolar junction transistors",
-      "Electronics and Devices/Solid-State diodes and Diode circuits"
-    ],
-    "Computer programming 2": [
-      "Computer programming 2/Assignment 4"
-    ],
-    "Advanced English": [
-      "Advanced English/Homework 5"
-    ]
-  },
+  "expandedFolders": {},
   "expandedSpaces": [
-    null,
-    null,
     "/",
-    "Electronics and Devices"
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
-  "cachedSpaces": [
-    "Advanced English",
-    "Computer programming 2",
-    "Electronics and Devices",
-    "Discrete mathematics"
-  ],
+  "cachedSpaces": [],
   "menuTriggerChar": "/",
   "emojiTriggerChar": ":",
   "folderContextFile": "context",
@@ -89,17 +49,17 @@
   "hiddenFiles": [
     "Context"
   ],
-  "lineNumbers": true,
+  "lineNumbers": false,
   "hiddenExtensions": [
     "mdb"
   ],
   "vaultSort": [
-    "created",
-    false
+    "rank",
+    true
   ],
-  "inlineBacklinks": true,
+  "inlineBacklinks": false,
   "inlineContext": true,
-  "inlineBacklinksExpanded": true,
+  "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
@@ -108,13 +68,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1682596088579,
-  "spacesUseAlias": false,
-  "folderRank": {
-    "node": "root",
-    "children": [],
-    "isFolder": true
-  },
-  "spaces": [],
-  "pinnedSpaces": []
+  "spacesAutoBackupLast": 0,
+  "spacesUseAlias": false
 }
