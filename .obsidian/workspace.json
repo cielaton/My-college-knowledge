@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,6 +73,14 @@
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "b25f0bb089d7b5c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -94,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311
+    "width": 242
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md"
               }
             }
           },
@@ -159,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,11 +179,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,9 +201,13 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
-    "Index.canvas",
-    "Electronics and Devices/Electronics and Devices.md",
+    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
+    "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
+    "Index.canvas",
+    "README.md",
+    "Testing.md",
+    "Electronics and Devices/Electronics and Devices.md",
     "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Reverse characteristic/Reverse characteristic.md",
     "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Foward characteristics/Foward characteristics.md",
     "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/The transport model for the npn transistor.md",
@@ -210,8 +223,6 @@
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
     "Advanced English/Homework 5/Process 1.md",
-    "Testing.md",
-    "README.md",
     "textgenerator/prompts/awesomechatgpt/academicianAwesome.md",
     "textgenerator/prompts/awesomechatgpt/etymologistAwesome.md",
     "textgenerator/prompts/awesomechatgpt/standupcomedianAwesome.md",
@@ -220,7 +231,6 @@
     "textgenerator/prompts/awesomechatgpt/stackoverflowpostAwesome.md",
     "textgenerator/prompts/awesomechatgpt/spongebobsmagicconchshellAwesome.md",
     "textgenerator/prompts/awesomechatgpt/wikipediapageAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/titlegeneratorforwrittenpiecesAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "textgenerator/prompts/default",

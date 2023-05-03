@@ -34,9 +34,18 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "/": [
+      "Electronics and Devices",
+      "Electronics and Devices",
+      "Electronics and Devices/BJT Amplifiers",
+      "Electronics and Devices",
+      "Electronics and Devices/BJT Amplifiers"
+    ]
+  },
   "expandedSpaces": [
     "/",
+    null,
     null
   ],
   "openFolders": [],
