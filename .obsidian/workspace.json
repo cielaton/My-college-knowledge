@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md"
+                "file": "Testing.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +201,7 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
+    "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Common-Emitter (C-E).md",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
     "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
@@ -230,7 +231,6 @@
     "textgenerator/prompts/awesomechatgpt/sqlterminalAwesome.md",
     "textgenerator/prompts/awesomechatgpt/screenwriterAwesome.md",
     "textgenerator/prompts/awesomechatgpt/stackoverflowpostAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/spongebobsmagicconchshellAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "textgenerator/prompts/default",
