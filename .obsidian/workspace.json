@@ -11,9 +11,11 @@
             "id": "4d6e50d3b2f1b1af",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Electronics and Devices/BJT Amplifiers"
+                "file": "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md"
+              }
             }
           },
           {
@@ -162,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
