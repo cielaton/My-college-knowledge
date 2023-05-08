@@ -1,7 +1,7 @@
 {
   "endpoint": "https://api.openai.com",
-  "api_key": "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",
-  "engine": "gpt-4",
+  "api_key": "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",
+  "engine": "gpt-3.5-turbo",
   "max_tokens": 500,
   "temperature": 0.7,
   "frequency_penalty": 0.5,
