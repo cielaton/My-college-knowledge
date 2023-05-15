@@ -1,9 +1,88 @@
-Modern radio tuners use a [superheterodyne receiver](https://en.wikipedia.org/wiki/Superheterodyne_receiver) with tuning selected by adjustment of the frequency of a local oscillator. This system shifts the radio frequency of interest to a fixed frequency so that it can be tuned with fixed-frequency [band-pass filter](https://en.wikipedia.org/wiki/Band-pass_filter).​
+For this problem, you will write a program that lets the user play against the computer in a variation of the popular blackjack card game. In this variation of the game, two six-sided dice are used instead of cards. The dice are rolled, and the player tries to beat the computer’s hidden total without going over 21.  
+Here are some suggestions for the game’s design:  
+- Each round of the game is performed as an iteration of a loop that repeats as long as the player agrees to roll the dice, and the player’s total does not exceed 21.
+- At the beginning of each round, the program will ask the users whether they want to roll the dice to accumulate points.  
+- During each round, the program simulates the rolling of two six-sided dice. It rolls the dice first for the computer, and then it asks the user if he or she wants to roll. (Use the Die class that was demonstrated in problem 8).  
+- The loop keeps a running total of both the computer and the user’s points.  
+- The computer’s total should remain hidden until the loop has finished.  
+- After the loop has finished, the computer’s total is revealed, and the player with the most points without going over 21 wins.
 
-Hãy giải thích cho tôi kiến thức trên một cách dễ hiểu và chi tiết 
+Write the solution for above problem in C++
 
 
 
-Trong các bộ đón radio hiện đại, chúng ta sử dụng một loại bộ thu tần số cao cấp gọi là superheterodyne receiver. Bộ này hoạt động bằng cách tinh chỉnh tần số của một bộ phát sóng nội địa để chuyển đổi tín hiệu radio đến một tần số cố định nhất định. Sau khi được chuyển đổi, tín hiệu này có thể được lọc qua một bộ lọc qua băng thông cố định, giúp cho người dùng có thể điều chỉnh và chọn được các kênh radio mong muốn. 
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+using namespace std;
 
-Tóm lại, các bộ thu radio hiện đại sử dụng công nghệ superheterodyne receiver để chuyển đổi tín hiệu radio thành tần số cố định, giúp cho việc điều chỉnh và chọn kênh trở nên dễ dàng hơn.
+class Die {
+private:
+    int value;
+public:
+    Die() {
+        value = 1;
+    }
+    void roll() {
+        value = rand() % 6 + 1;
+    }
+    int getValue() const {
+        return value;
+    }
+};
+
+int main() {
+    srand(time(0));
+    
+    cout << "Welcome to Dice Blackjack!" << endl;
+    
+    int computerTotal = 0, playerTotal = 0;
+    
+    do {
+        cout << "Computer is rolling dice..." << endl;
+        
+        Die die1, die2;
+        
+        die1.roll();
+        die2.roll();
+        
+        computerTotal += die1.getValue() + die2.getValue();
+        
+        cout << "Computer total: ???" << endl;
+        
+        cout << "Do you want to roll the dice? (y/n) ";
+        
+        char choice;
+        cin >> choice;
+        
+        if (choice == 'y') {
+            cout << "Rolling dice..." << endl;
+            
+            Die playerDie1, playerDie2;
+            
+            playerDie1.roll();
+            playerDie2.roll();
+            
+            playerTotal += playerDie1.getValue() + playerDie2.getValue();
+            
+            cout << "Your total: " << playerTotal << endl; 
+        }
+        
+    } while (playerTotal <= 21 && choice == 'y');
+    
+    cout << "Computer total: " << computerTotal << endl;
+    
+    if (computerTotal > 21) {
+        cout << "Computer busts! You win!" << endl;
+    } else if (playerTotal > 21) {
+        cout << "You bust! Computer wins!" << endl; 
+    } else if (computerTotal > playerTotal) {
+        cout << "Computer wins!" << endl; 
+    } else if (playerTotal > computerTotal) {
+        cout << "You win!" << endl; 
+    } else {
+        cout << "It's a tie!" << endl; 
+    }
+    
+    return 0;
+}
