@@ -39,13 +39,20 @@
       "Electronics and Devices/BJT Amplifiers",
       "Electronics and Devices/BJT Amplifiers"
     ],
-    "Electronics and Devices": []
+    "Electronics and Devices": [],
+    "Computer programming 2": [
+      "Computer programming 2/Assignment 0",
+      "Computer programming 2/Assignment 1",
+      "Computer programming 2/Assignment 2",
+      "Computer programming 2/Assignment 4"
+    ]
   },
   "expandedSpaces": [
     "/",
     null,
     "Electronics and Devices",
-    null
+    null,
+    "Computer programming 2"
   ],
   "openFolders": [],
   "fileIcons": [],

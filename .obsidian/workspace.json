@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "Computer programming 2/Assignment 1/Exercise 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Computer programming 2/Assignment 1/Exercise 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "Computer programming 2/Assignment 1/Exercise 1.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "Computer programming 2/Assignment 1/Exercise 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,38 +211,38 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2b189070fedb83ff",
+  "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
-    "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)/Common-Emitter (C-E).md",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Amplifier Classification.md",
-    "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
+    "Computer programming 2/Assignment 0/Chapter 1.md",
+    "Computer programming 2/Assignment 3/Exercise 8.md",
+    "Computer programming 2/Assignment 3/Exercise 7.md",
+    "Computer programming 2/Assignment 3/Exercise 6.md",
+    "Computer programming 2/Assignment 3/Exercise 5.md",
+    "Computer programming 2/Assignment 3/Exercise 4.md",
+    "Computer programming 2/Assignment 3/Exercise 3.md",
+    "Computer programming 2/Assignment 3/Exercise 2.md",
+    "Computer programming 2/Assignment 3/Exercise 1.md",
+    "Computer programming 2/Assignment 4/Exercise 7.md",
+    "Computer programming 2/Assignment 4/Exercise 6.md",
+    "Computer programming 2/Assignment 4/Exercise 5.md",
+    "Computer programming 2/Assignment 4/Exercise 3.md",
+    "Computer programming 2/Assignment 4/Exercise 1.md",
+    "Computer programming 2/Assignment 4/Exercise 2.md",
+    "Computer programming 2/Assignment 2/Exercise 7.md",
+    "Computer programming 2/Assignment 2/Exercise 6.md",
+    "Computer programming 2/Assignment 2/Exercise 5.md",
+    "Computer programming 2/Assignment 2/Exercise 4.md",
+    "Computer programming 2/Assignment 2/Exercise 3.md",
+    "Computer programming 2/Assignment 2/Exercise 2.md",
+    "Computer programming 2/Assignment 2/Exercise 1.md",
+    "Computer programming 2/Assignment 1/Exercise 8.md",
+    "Computer programming 2/Assignment 1/Exercise 5.md",
+    "Computer programming 2/Assignment 1/Exercise 4.md",
+    "Computer programming 2/Assignment 1/Exercise 7.md",
     "Index.canvas",
-    "README.md",
-    "Testing.md",
-    "Electronics and Devices/Electronics and Devices.md",
-    "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Reverse characteristic/Reverse characteristic.md",
-    "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/Foward characteristics/Foward characteristics.md",
-    "Electronics and Devices/Bipolar junction transistors/The transport model for the npn transistor/The transport model for the npn transistor.md",
-    "Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
-    "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Rectifier comparison and design tradeoffs/Rectifier comparison and design tradeoffs.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Full-wave bridge rectification/Full-wave bridge rectification.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Full-wave rectifier circuits/Full-wave rectifier circuits.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Half-wave rectifier circuits/Half-wave rectifier circuits.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Analysis of diodes operating in the breakdown region/Analysis of diodes operating in the breakdown region.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
-    "Advanced English/Homework 5/Process 1.md",
-    "textgenerator/prompts/awesomechatgpt/academicianAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/etymologistAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/standupcomedianAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/sqlterminalAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/screenwriterAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/stackoverflowpostAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "textgenerator/prompts/default",
