@@ -1,6 +1,6 @@
 {
   "endpoint": "https://api.openai.com",
-  "api_key": "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",
+  "api_key": "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",
   "engine": "gpt-3.5-turbo",
   "max_tokens": 500,
   "temperature": 0.7,
