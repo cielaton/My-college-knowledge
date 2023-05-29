@@ -38,5 +38,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "Bipolar junction transistors/The transport model for the npn transistor"
+  "attachmentFolderPath": "Bipolar junction transistors/The transport model for the npn transistor",
+  "spellcheck": false
 }
