@@ -1,37 +1,5 @@
-Write a bool function that uses recursion to determine if a string argument is a palindrome. The function should return true if the argument reads the same forward and backward.
-Write the solution in Cpp using recursive and make sure there is no error.
+The game of “Jump It” consists of a board with n positive integers in a row, except for the first column, which always contains 0. These numbers represent the cost to enter each column. The object of the game is to move from the first column to the last column with the lowest total cost. The number in each column represents the cost to enter that column. You always start the game in the first column and have two types of moves. You can either move to the adjacent column or jump over the adjacent column to land two columns over. The cost of a game is the  sum of the costs of the columns visited. 
 
+Write a recursive solution to this problem that computes the lowest cost of the game and outputs this value for an arbitrarily large game board represented as an array. Your program doesn’t have to output the actual sequence of jumps, only the lowest cost of this sequence. After making sure that your solution works on small arrays, test it on boards of larger and larger values of n to get a feel for the scalability and efficiency of your solution.
 
-
-```cpp
-#include <iostream>
-#include <string>
-
-using namespace std;
-
-bool isPalindrome(string str, int start, int end) {
-    if (start >= end) {
-        return true;
-    }
-    if (str[start] != str[end]) {
-        return false;
-    }
-    return isPalindrome(str, start + 1, end - 1);
-}
-
-int main() {
-    string str = "racecar";
-    bool palindrome = isPalindrome(str, 0, str.length() - 1);
-    if (palindrome) {
-        cout << str << " is a palindrome." << endl;
-    } else {
-        cout << str << " is not a palindrome." << endl;
-    }
-    return 0;
-}
-``` 
-
-Output:
-```
-racecar is a palindrome.
-```
+Write the solution for

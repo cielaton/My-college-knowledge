@@ -4,34 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "42a0c4f9e95dd8b9",
-        "type": "tabs",
+        "id": "d811b3101dce9ad2",
+        "type": "split",
         "children": [
           {
-            "id": "4d6e50d3b2f1b1af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing.md",
-                "mode": "source",
-                "source": false
+            "id": "42a0c4f9e95dd8b9",
+            "type": "tabs",
+            "dimension": 63.87795275590551,
+            "children": [
+              {
+                "id": "4d6e50d3b2f1b1af",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Testing.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4662a5046f705c78",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Testing.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "4662a5046f705c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing.md",
-                "mode": "source",
-                "source": false
+            "id": "6b35c51582879427",
+            "type": "tabs",
+            "dimension": 36.12204724409449,
+            "children": [
+              {
+                "id": "19e399da0e5d9c0c",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -166,14 +189,6 @@
             }
           },
           {
-            "id": "19e399da0e5d9c0c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "8928af42b277224d",
             "type": "leaf",
             "state": {
@@ -191,12 +206,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,12 +227,14 @@
   },
   "active": "4d6e50d3b2f1b1af",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Testing.md",
+    "2023-05-30.md",
     "Computer programming 2/Assignment 4/Exercise 5.md",
     "Computer programming 2/Assignment 4/Exercise 4.md",
     "Computer programming 2/Assignment 4/Exercise 3.md",
     "Computer programming 2/Assignment 4/Exercise 2.md",
     "Computer programming 2/Assignment 4/Exercise 1.md",
-    "Testing.md",
     "Computer programming 2/Assignment 1/Exercise 1.md",
     "Computer programming 2/Assignment 1/Exercise 2.md",
     "Computer programming 2/Assignment 1/Assignment 1.md",
@@ -237,8 +253,6 @@
     "Computer programming 2/Assignment 2/Exercise 4.md",
     "Computer programming 2/Assignment 2/Exercise 3.md",
     "Computer programming 2/Assignment 2/Exercise 2.md",
-    "Computer programming 2/Assignment 2/Exercise 1.md",
-    "Computer programming 2/Assignment 1/Exercise 8.md",
     "Index.canvas",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
