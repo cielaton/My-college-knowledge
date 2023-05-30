@@ -2,4 +2,4 @@ The game of “Jump It” consists of a board with n positive integers in a row,
 
 Write a recursive solution to this problem that computes the lowest cost of the game and outputs this value for an arbitrarily large game board represented as an array. Your program doesn’t have to output the actual sequence of jumps, only the lowest cost of this sequence. After making sure that your solution works on small arrays, test it on boards of larger and larger values of n to get a feel for the scalability and efficiency of your solution.
 
-Write the solution for a b
+Write the solution for a bc
