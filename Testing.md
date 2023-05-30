@@ -4,8 +4,6 @@ Write a recursive solution to this problem that computes the lowest cost of the 
 
 Write the solution for the above problem in Cpp using recursion, make sure there is no error.
 
-
-
 Here is a possible solution in C++:
 
 ```cpp
