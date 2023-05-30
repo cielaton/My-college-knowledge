@@ -35,7 +35,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "6b35c51582879427",
@@ -152,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Testing.md"
+              }
             }
           },
           {
@@ -190,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +225,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4d6e50d3b2f1b1af",
+  "active": "4662a5046f705c78",
   "lastOpenFiles": [
     "Testing.md",
     "Untitled.canvas",
