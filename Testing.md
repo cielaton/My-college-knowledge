@@ -98,12 +98,21 @@ template <class T> T interactiveProduct(T arr[], int size) {
 
 template <class T> T recursiveProduct(T arr[], int size) {
   if (size <= 0) return 0;
+  
   else if (size == 1) 
       return arr[0];
   return arr[size - 1] * recursiveProduct(arr,size - 1);
 }
 
+int intArr[] = {1, 2, 3, 4, 5};
 
+func(arr, 5)
+	return arr[4] * 24 // func(arr, 4)
+		return arr[3] * 6 //func(arr, 3)
+			return arr[2] * 2 //func(arr, 2)
+				return arr[1] * 1  //func(arr, 1) 
+										-> 1
+					// func(arr, 0)
 
 int main() {
   int intArr[] = {1, 2, 3, 4, 5};
