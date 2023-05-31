@@ -103,6 +103,8 @@ template <class T> T recursiveProduct(T arr[], int size) {
   return arr[size - 1] * recursiveProduct(arr,size - 1);
 }
 
+
+
 int main() {
   int intArr[] = {1, 2, 3, 4, 5};
   // cout << (sizeof(intArr) / sizeof(int)) - 1;
