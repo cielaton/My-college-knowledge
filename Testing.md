@@ -45,9 +45,12 @@ private:
   int nbSeat;
 
 public:
-  void setNbSeat(int nbSeat) { this->nbSeat = nbSeat; }
+  void setNbSeat(int nbSeat) { this->nbSeat = nbSeat; 
+	  if (nbSeat < 0) throw "A Hùng Ngu";
+  }
   int getNbSeat() { return nbSeat; }
 
+	Car (int nbSeat) {};
   Car(int nbSeat, int id, string name, float weight)
       : Vehicle(id, name, weight) {
     if (nbSeat < 0)
