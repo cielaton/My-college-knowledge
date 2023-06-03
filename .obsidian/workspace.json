@@ -37,9 +37,21 @@
                     }
                   }
                 }
+              },
+              {
+                "id": "ed29250eb74866ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Testing.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "6b35c51582879427",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.canvas",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.canvas"
+                "file": "Testing.md"
               }
             }
           },
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.canvas",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,8 +241,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4662a5046f705c78",
+  "active": "ed29250eb74866ac",
   "lastOpenFiles": [
+    "README.md",
+    "Index.canvas",
+    "Untitled.md",
     "Testing.md",
     "Untitled.canvas",
     "2023-05-30.md",
@@ -256,8 +271,6 @@
     "Computer programming 2/Assignment 2/Exercise 5.md",
     "Computer programming 2/Assignment 2/Exercise 4.md",
     "Computer programming 2/Assignment 2/Exercise 3.md",
-    "Computer programming 2/Assignment 2/Exercise 2.md",
-    "Index.canvas",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
