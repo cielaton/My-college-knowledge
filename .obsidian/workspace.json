@@ -42,11 +42,14 @@
                 "id": "ed29250eb74866ac",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "Testing.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Index.canvas",
+                    "viewState": {
+                      "x": 135.13195731371064,
+                      "y": 402.53854441326837,
+                      "zoom": -0.729775587299599
+                    }
                   }
                 }
               }
@@ -168,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "Index.canvas"
               }
             }
           },
@@ -209,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "Index.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,10 +246,10 @@
   },
   "active": "ed29250eb74866ac",
   "lastOpenFiles": [
+    "Testing.md",
     "README.md",
     "Index.canvas",
     "Untitled.md",
-    "Testing.md",
     "Untitled.canvas",
     "2023-05-30.md",
     "Computer programming 2/Assignment 4/Exercise 5.md",
