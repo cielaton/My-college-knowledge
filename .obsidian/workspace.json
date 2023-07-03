@@ -42,14 +42,11 @@
                 "id": "ed29250eb74866ac",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "Index.canvas",
-                    "viewState": {
-                      "x": 137.1392473174257,
-                      "y": 510.59047880947026,
-                      "zoom": -1.0831089206329323
-                    }
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -171,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -212,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,8 +244,8 @@
   "active": "ed29250eb74866ac",
   "lastOpenFiles": [
     "Testing.md",
-    "README.md",
     "Index.canvas",
+    "README.md",
     "Untitled.md",
     "Untitled.canvas",
     "2023-05-30.md",
@@ -273,7 +270,6 @@
     "Computer programming 2/Assignment 2/Exercise 6.md",
     "Computer programming 2/Assignment 2/Exercise 5.md",
     "Computer programming 2/Assignment 2/Exercise 4.md",
-    "Computer programming 2/Assignment 2/Exercise 3.md",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
