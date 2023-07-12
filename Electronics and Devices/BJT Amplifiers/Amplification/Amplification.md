@@ -12,8 +12,9 @@ $$v_o = V_o \sin(\omega_it + \theta)$$
 1. [[Voltage gain]]
 2. [[Current gain]]
 
+
 The **power gain** $A_p$ is defined as the ratio of the output power $P_o$ delivered to the load, to the power $P_i$ delivered from the source:
-$$A_P = \frac{P_o}{P_i} = \frac{V_o}{V_i}\frac{I_o}{I_i} = |A_v||A_i|$$
+$$A_P = \frac{P_o}{P_i} = \frac{V_o}{V_i}\frac{I_o}{I_i} = |A_v||A_{i|}$$
 
 ---
 

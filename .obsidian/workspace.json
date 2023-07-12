@@ -27,14 +27,11 @@
                 "id": "4662a5046f705c78",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "Index.canvas",
-                    "viewState": {
-                      "x": -90,
-                      "y": 520,
-                      "zoom": -0.37644225396626574
-                    }
+                    "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               },
@@ -44,14 +41,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Testing.md",
+                    "file": "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "6b35c51582879427",
@@ -152,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242
+    "width": 408
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -168,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md"
               }
             }
           },
@@ -209,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,11 +238,20 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ed29250eb74866ac",
+  "active": "4662a5046f705c78",
   "lastOpenFiles": [
-    "README.md",
-    "Testing.md",
+    "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
+    "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
+    "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
     "Index.canvas",
+    "Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
+    "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
+    "Electronics and Devices/BJT Amplifiers/DC and AC analysis/Example.md",
+    "Electronics and Devices/BJT Amplifiers/Amplification/Pasted image 20230420185747.png",
+    "Testing.md",
+    "README.md",
     "Untitled.md",
     "Untitled.canvas",
     "2023-05-30.md",
@@ -263,13 +269,6 @@
     "Computer programming 2/Assignment 3/Exercise 6.md",
     "Computer programming 2/Assignment 3/Exercise 5.md",
     "Computer programming 2/Assignment 3/Exercise 4.md",
-    "Computer programming 2/Assignment 3/Exercise 3.md",
-    "Computer programming 2/Assignment 3/Exercise 2.md",
-    "Computer programming 2/Assignment 3/Exercise 1.md",
-    "Computer programming 2/Assignment 2/Exercise 7.md",
-    "Computer programming 2/Assignment 2/Exercise 6.md",
-    "Computer programming 2/Assignment 2/Exercise 5.md",
-    "Computer programming 2/Assignment 2/Exercise 4.md",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
@@ -287,7 +286,6 @@
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423144753.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Pasted image 20230423144048.png",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Pasted image 20230423144140.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)",
     "Electronics and Devices/Untitled.canvas"

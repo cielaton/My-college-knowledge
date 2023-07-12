@@ -39,13 +39,18 @@
       "Electronics and Devices/BJT Amplifiers",
       "Electronics and Devices/BJT Amplifiers"
     ],
-    "Electronics and Devices": [],
+    "Electronics and Devices": [
+      "Electronics and Devices/BJT Amplifiers/Amplification",
+      "Electronics and Devices/BJT Amplifiers/DC and AC analysis",
+      "Electronics and Devices/Bipolar junction transistors"
+    ],
     "Computer programming 2": []
   },
   "expandedSpaces": [
     null,
+    "/",
     null,
-    "/"
+    "Electronics and Devices"
   ],
   "openFolders": [],
   "fileIcons": [],
