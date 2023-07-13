@@ -27,7 +27,8 @@
     "d\n",
     "Transconductance",
     "MOSFET",
-    "LoRa"
+    "LoRa",
+    "PHDR"
   ],
   "vimMode": true,
   "promptDelete": false,
