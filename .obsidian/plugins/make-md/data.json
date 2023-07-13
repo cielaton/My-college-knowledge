@@ -37,7 +37,8 @@
   "expandedFolders": {
     "/": [
       "Electronics and Devices/BJT Amplifiers",
-      "Electronics and Devices/BJT Amplifiers"
+      "Electronics and Devices/BJT Amplifiers",
+      "LoRa"
     ],
     "Electronics and Devices": [
       "Electronics and Devices/BJT Amplifiers/Amplification",
@@ -48,13 +49,13 @@
   },
   "expandedSpaces": [
     null,
-    "/",
     null,
-    "Electronics and Devices"
+    "LoRa"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "LoRa",
     "Advanced English",
     "Computer programming 2",
     "Electronics and Devices",
@@ -86,6 +87,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1685784584310,
+  "spacesAutoBackupLast": 1689224687415,
   "spacesUseAlias": false
 }

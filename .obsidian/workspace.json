@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+                    "file": "LoRa/Fundamentals/Fundamentals.md",
                     "mode": "source",
                     "source": false
                   }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+                "file": "LoRa/Fundamentals/Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md"
+                "file": "LoRa/Fundamentals/Fundamentals.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+                "file": "LoRa/Fundamentals/Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,6 +240,13 @@
   },
   "active": "4662a5046f705c78",
   "lastOpenFiles": [
+    "LoRa/Index.md",
+    "LoRa/Fundamentals/Fundamentals.md",
+    "LoRa/Fundamentals",
+    "LoRa/Untitled.canvas",
+    "LoRa/LoRa.md",
+    "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+    "LoRa",
     "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
     "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
     "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
@@ -265,10 +272,6 @@
     "Computer programming 2/Assignment 1/Assignment 1.md",
     "Computer programming 2/Assignment 0/Chapter 1.md",
     "Computer programming 2/Assignment 3/Exercise 8.md",
-    "Computer programming 2/Assignment 3/Exercise 7.md",
-    "Computer programming 2/Assignment 3/Exercise 6.md",
-    "Computer programming 2/Assignment 3/Exercise 5.md",
-    "Computer programming 2/Assignment 3/Exercise 4.md",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
@@ -286,8 +289,6 @@
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423144753.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)/Pasted image 20230423144048.png",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Collector (C-C)",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Emitter (C-E)",
     "Electronics and Devices/Untitled.canvas"
   ]
 }
