@@ -26,7 +26,8 @@
     "phasor",
     "d\n",
     "Transconductance",
-    "MOSFET"
+    "MOSFET",
+    "LoRa"
   ],
   "vimMode": true,
   "promptDelete": false,
