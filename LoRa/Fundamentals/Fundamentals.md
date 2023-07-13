@@ -25,3 +25,4 @@ Coding rate can be \*/5 or  \*/8.
 So if CR is 4/8 we are transmitting twice as many bits as the ones containing information.
 
 ---
+

@@ -13,42 +13,18 @@
             "dimension": 80.31496062992126,
             "children": [
               {
-                "id": "4d6e50d3b2f1b1af",
-                "type": "leaf",
-                "state": {
-                  "type": "diff-view",
-                  "state": {
-                    "file": ".gitignore",
-                    "staged": false
-                  }
-                }
-              },
-              {
                 "id": "4662a5046f705c78",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "LoRa/Fundamentals/Fundamentals.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ed29250eb74866ac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
+                    "file": "LoRa/Fundamentals/LoRa frame format.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "6b35c51582879427",
@@ -165,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoRa/Fundamentals/Fundamentals.md",
+                "file": "LoRa/Fundamentals/LoRa frame format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LoRa/Fundamentals/Fundamentals.md"
+                "file": "LoRa/Fundamentals/LoRa frame format.md"
               }
             }
           },
@@ -206,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoRa/Fundamentals/Fundamentals.md",
+                "file": "LoRa/Fundamentals/LoRa frame format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,8 +216,12 @@
   },
   "active": "4662a5046f705c78",
   "lastOpenFiles": [
-    "LoRa/Index.md",
+    "LoRa/Fundamentals/LoRa frame format.md",
     "LoRa/Fundamentals/Fundamentals.md",
+    "README.md",
+    "Testing.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
+    "LoRa/Index.md",
     "LoRa/Fundamentals",
     "LoRa/Untitled.canvas",
     "LoRa/LoRa.md",
@@ -250,15 +230,12 @@
     "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
     "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
     "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
     "Index.canvas",
     "Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
     "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
     "Electronics and Devices/BJT Amplifiers/DC and AC analysis/Example.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Pasted image 20230420185747.png",
-    "Testing.md",
-    "README.md",
     "Untitled.md",
     "Untitled.canvas",
     "2023-05-30.md",
@@ -271,7 +248,6 @@
     "Computer programming 2/Assignment 1/Exercise 2.md",
     "Computer programming 2/Assignment 1/Assignment 1.md",
     "Computer programming 2/Assignment 0/Chapter 1.md",
-    "Computer programming 2/Assignment 3/Exercise 8.md",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
