@@ -23,8 +23,19 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "8529245d3b9d26c3",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.3.7"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "6b35c51582879427",
@@ -210,7 +221,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "21a132be76e67910",
+  "active": "8529245d3b9d26c3",
   "lastOpenFiles": [
     "LoRa/Fundamentals/LoRa frame format.md",
     "LoRa/Fundamentals/Pasted image 20230713125158.png",
