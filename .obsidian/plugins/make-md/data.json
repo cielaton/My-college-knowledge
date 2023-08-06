@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "all",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -54,7 +54,8 @@
   },
   "expandedSpaces": [
     null,
-    null
+    null,
+    "/"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -91,6 +92,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689227537116,
+  "spacesAutoBackupLast": 1691336699041,
   "spacesUseAlias": false
 }
