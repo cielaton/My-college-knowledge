@@ -12,7 +12,14 @@
 - Sinh viên giỏi cả năm: Lê Quốc Duy
 
 ---
-## Bầu ban cán sự mới, nêu ý kiến về 
+## Bầu ban cán sự mới, nêu ý kiến về cách làm việc của ban cán sự nhiệm kỳ vừa qua.
 
 --- 
 
+## Thông báo, nhắc nhở
+- Lớp đã hoàn thành việc đánh giá rèn luyện mà không gặp bất cứ trục trặc nào
+- Nhắc nhở về việc thi chứng chỉ tiếng Anh chuẩn đầu ra: 
+	- Cử nhân: IELTS **5.5** hoặc TOEFL iBT **46** hoặc TOEFL ITP **500**.
+	- Kỹ sư: IELTS **6.0** hoặc TOEFL iBT **71** hoặc TOEFL ITP **530**
+- Nhắc nhở về hạn nộp báo cáo sinh hoạt công dân.
+- Năm vừa rồi mọi người đã làm rất tốt việc tổng hợp minh chứng mỗi lần tham gia sự kiện hoặc làm cộng tác viên cho các hoạt động trong khoa
