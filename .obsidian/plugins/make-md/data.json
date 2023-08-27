@@ -38,7 +38,6 @@
     "/": [
       "Electronics and Devices/BJT Amplifiers",
       "Electronics and Devices/BJT Amplifiers",
-      "LoRa",
       "LoRa/Fundamentals"
     ],
     "Electronics and Devices": [
@@ -54,8 +53,8 @@
   },
   "expandedSpaces": [
     null,
-    null,
-    "/"
+    "/",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -92,6 +91,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691336699041,
+  "spacesAutoBackupLast": 1692961476299,
   "spacesUseAlias": false
 }
