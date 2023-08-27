@@ -49,21 +49,22 @@
     "LoRa": [
       "LoRa/Fundamentals",
       "LoRa/Fundamentals"
+    ],
+    "21ES": [
+      "21ES/Họp chủ nhiệm"
     ]
   },
   "expandedSpaces": [
     null,
-    "/",
-    null
+    null,
+    "21ES"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "21ES",
     "LoRa",
-    "Advanced English",
-    "Computer programming 2",
-    "Electronics and Devices",
-    "Discrete mathematics"
+    "Electronics and Devices"
   ],
   "menuTriggerChar": "/",
   "emojiTriggerChar": ":",
@@ -91,6 +92,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1692961476299,
+  "spacesAutoBackupLast": 1693119870377,
   "spacesUseAlias": false
 }

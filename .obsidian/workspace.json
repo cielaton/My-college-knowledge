@@ -31,9 +31,11 @@
                 "id": "451c4e7be8516ca9",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "markdown",
                   "state": {
-                    "file": "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md"
+                    "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
+                "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md"
+                "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md"
               }
             }
           },
@@ -196,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
+                "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +233,12 @@
   },
   "active": "451c4e7be8516ca9",
   "lastOpenFiles": [
-    "Index.canvas",
     "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
+    "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
+    "21ES/Họp lớp chủ nhiệm.md",
+    "21ES/Họp chủ nhiệm",
+    "21ES",
+    "Index.canvas",
     "Excalidraw",
     "Bài tập.md",
     "Untitled.md",
@@ -263,7 +269,6 @@
     "Computer programming 2/Assignment 4/Exercise 2.md",
     "Computer programming 2/Assignment 4/Exercise 1.md",
     "Computer programming 2/Assignment 1/Exercise 1.md",
-    "Computer programming 2/Assignment 1/Exercise 2.md",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
@@ -274,8 +279,6 @@
     "textgenerator",
     "Advanced English/Homework 5/Pasted image 20230424174031.png",
     "Advanced English/Homework 5/Pasted image 20230424171000.png",
-    "Advanced English/Homework 5",
-    "Advanced English",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423145041.png",
     "Pasted image 20230423144837.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423144753.png",
