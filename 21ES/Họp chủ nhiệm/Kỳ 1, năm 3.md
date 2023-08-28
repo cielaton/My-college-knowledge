@@ -10,6 +10,9 @@
 | 0        | 3    | 21  | 11         | 7    |
 
 - Sinh viên giỏi cả năm: Lê Quốc Duy
+	- Kỳ 1: 8.88
+	- Kỳ 2: 8.5
+	- Điểm rèn luyện 
 
 ---
 ## Bầu ban cán sự mới, nêu ý kiến về cách làm việc của ban cán sự nhiệm kỳ vừa qua.
