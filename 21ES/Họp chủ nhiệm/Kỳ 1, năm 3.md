@@ -1,5 +1,6 @@
 ## Tổng kết năm học 2022 - 2023
 - Có sự chuyển biến rõ rệt so với năm nhất về thái độ học tập, các bạn có trách nhiệm hơn trong quá trình học lẫn các dự án nhóm.
+- Năm vừa rồi mọi người đã làm rất tốt việc tổng hợp minh chứng mỗi lần tham gia sự kiện hoặc làm cộng tác viên cho các hoạt động trong khoa
 - Tình hình vào lớp muộn vẫn chưa được khắc phục triệt để.
 
 - Lê Đỗ Minh Hòa bảo lưu
@@ -27,4 +28,4 @@
 	- Kỹ sư: IELTS **6.0** hoặc TOEFL iBT **71** hoặc TOEFL ITP **530**
 - Nhắc nhở về hạn nộp báo cáo sinh hoạt công dân.
 - Nhắc nhở về việc hoàn thành khảo sát ý kiến sinh viên về mức độ đáp ứng của chương trình đào tạo, hệ thống phục vụ đào tạo năm 2022 - 2023.
-- Năm vừa rồi mọi người đã làm rất tốt việc tổng hợp minh chứng mỗi lần tham gia sự kiện hoặc làm cộng tác viên cho các hoạt động trong khoa
+- Nghỉ lễ

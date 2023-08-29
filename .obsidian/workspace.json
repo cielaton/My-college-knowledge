@@ -13,21 +13,6 @@
             "dimension": 80.31496062992126,
             "children": [
               {
-                "id": "4662a5046f705c78",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Index.canvas",
-                    "viewState": {
-                      "x": -90,
-                      "y": 520,
-                      "zoom": -0.4312347268066452
-                    }
-                  }
-                }
-              },
-              {
                 "id": "451c4e7be8516ca9",
                 "type": "leaf",
                 "state": {
@@ -39,8 +24,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "6b35c51582879427",
@@ -133,8 +117,12 @@
             "id": "21a132be76e67910",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -233,12 +221,14 @@
   },
   "active": "451c4e7be8516ca9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
+    "Computer programming 2/Assignment 1/Exercise 1.md",
+    "Index.canvas",
+    "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
     "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
+    "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
     "21ES/Họp lớp chủ nhiệm.md",
     "21ES/Họp chủ nhiệm",
     "21ES",
-    "Index.canvas",
     "Excalidraw",
     "Bài tập.md",
     "Untitled.md",
@@ -255,7 +245,6 @@
     "LoRa",
     "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
     "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
-    "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
     "Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
     "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
@@ -267,8 +256,6 @@
     "Computer programming 2/Assignment 4/Exercise 4.md",
     "Computer programming 2/Assignment 4/Exercise 3.md",
     "Computer programming 2/Assignment 4/Exercise 2.md",
-    "Computer programming 2/Assignment 4/Exercise 1.md",
-    "Computer programming 2/Assignment 1/Exercise 1.md",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",

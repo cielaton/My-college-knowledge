@@ -38,7 +38,10 @@
     "/": [
       "Electronics and Devices/BJT Amplifiers",
       "Electronics and Devices/BJT Amplifiers",
-      "LoRa/Fundamentals"
+      "LoRa/Fundamentals",
+      "Computer programming 2",
+      "Computer programming 2/Assignment 0",
+      "Computer programming 2/Assignment 1"
     ],
     "Electronics and Devices": [
       "Electronics and Devices/BJT Amplifiers/Amplification",
@@ -57,7 +60,8 @@
   "expandedSpaces": [
     null,
     "21ES",
-    null
+    null,
+    "/"
   ],
   "openFolders": [],
   "fileIcons": [],
