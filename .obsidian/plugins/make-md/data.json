@@ -59,13 +59,13 @@
   },
   "expandedSpaces": [
     null,
-    "21ES",
-    "/",
-    null
+    null,
+    "Electronics and Devices 2"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "Electronics and Devices 2",
     "21ES",
     "LoRa",
     "Electronics and Devices"
@@ -96,6 +96,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693119870377,
+  "spacesAutoBackupLast": 1693361692072,
   "spacesUseAlias": false
 }
