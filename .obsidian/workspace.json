@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Untitled.md",
+                    "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
                     "mode": "source",
                     "source": false
                   }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,11 +219,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3231d2caf1ab20b",
+  "active": "451c4e7be8516ca9",
   "lastOpenFiles": [
+    "Untitled.md",
     "Electronics and Devices 2",
     "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
-    "Untitled.md",
     ".md",
     "Computer programming 2/Assignment 1/Exercise 1.md",
     "Index.canvas",
@@ -264,7 +264,6 @@
     "textgenerator/prompts/awesomechatgpt",
     "Context/spacesLastSync.log",
     "textgenerator/prompts/default",
-    "textgenerator/prompts",
     "Advanced English/Homework 5/Pasted image 20230424174031.png",
     "Advanced English/Homework 5/Pasted image 20230424171000.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423145041.png",
