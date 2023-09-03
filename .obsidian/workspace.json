@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Branches of Statistics.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
                     "mode": "source",
                     "source": false
                   }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Branches of Statistics.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Branches of Statistics.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Branches of Statistics.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,8 +217,8 @@
   },
   "active": "451c4e7be8516ca9",
   "lastOpenFiles": [
-    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Branches of Statistics.md",
+    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md",
     "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
