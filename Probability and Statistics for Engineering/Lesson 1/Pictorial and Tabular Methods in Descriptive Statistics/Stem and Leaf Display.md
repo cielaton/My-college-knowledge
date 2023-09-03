@@ -6,3 +6,10 @@
 
 **Example:**
 ![[Pasted image 20230903211432.png]]
+
+##### What does Stem-and-Leaf display tell you?
+- Identification of a typical or representative value.
+- Extent of spread about the typical value.
+- Presence of any gaps in the data.
+- Extent of symmetry in the distribution of values.
+- Number and location of peaks
