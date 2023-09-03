@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "all",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -23,13 +23,13 @@
   "spacesEnabled": true,
   "spacesPerformance": false,
   "collapsedTags": [],
-  "enableFolderNote": true,
+  "enableFolderNote": false,
   "folderIndentationLines": true,
   "revealActiveFile": false,
   "spacesStickers": true,
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
-  "folderNoteInsideFolder": true,
+  "folderNoteInsideFolder": false,
   "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
@@ -39,7 +39,6 @@
       "Electronics and Devices/BJT Amplifiers",
       "Electronics and Devices/BJT Amplifiers",
       "LoRa/Fundamentals",
-      "Computer programming 2",
       "Computer programming 2/Assignment 0",
       "Computer programming 2/Assignment 1"
     ],
@@ -55,17 +54,21 @@
     ],
     "21ES": [
       "21ES/Họp chủ nhiệm"
+    ],
+    "Probability and Statistics for Engineering": [
+      "Probability and Statistics for Engineering/Overview and Descriptive Statistics"
     ]
   },
   "expandedSpaces": [
     null,
     "Electronics and Devices 2",
     null,
-    "21ES"
+    "Probability and Statistics for Engineering"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "Probability and Statistics for Engineering",
     "Electronics and Devices 2",
     "21ES",
     "LoRa",
@@ -97,6 +100,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693361692072,
+  "spacesAutoBackupLast": 1693718698422,
   "spacesUseAlias": false
 }

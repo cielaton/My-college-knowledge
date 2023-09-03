@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
+                    "file": "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
                     "mode": "source",
                     "source": false
                   }
@@ -117,19 +117,15 @@
             "id": "21a132be76e67910",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 302
+    "width": 352
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -145,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
+                "file": "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md"
+                "file": "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md"
               }
             }
           },
@@ -186,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
+                "file": "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,13 +217,20 @@
   },
   "active": "451c4e7be8516ca9",
   "lastOpenFiles": [
+    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics .md",
+    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
+    "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
+    "Probability and Statistics for Engineering/Lesson 1",
+    "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
+    "Context/Probability and Statistics for Engineering.mdb",
+    "Probability and Statistics for Engineering/Probability and Statistics for Engineering.md",
+    "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
+    "Probability and Statistics for Engineering",
     "Untitled.md",
     "Electronics and Devices 2",
-    "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
     ".md",
     "Computer programming 2/Assignment 1/Exercise 1.md",
     "Index.canvas",
-    "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
     "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
     "21ES/Họp lớp chủ nhiệm.md",
     "21ES/Họp chủ nhiệm",
@@ -255,15 +258,9 @@
     "Untitled.canvas",
     "2023-05-30.md",
     "Computer programming 2/Assignment 4/Exercise 5.md",
-    "Computer programming 2/Assignment 4/Exercise 4.md",
-    "Computer programming 2/Assignment 4/Exercise 3.md",
-    "Computer programming 2/Assignment 4/Exercise 2.md",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
-    "textgenerator/prompts/awesomechatgpt",
-    "Context/spacesLastSync.log",
-    "textgenerator/prompts/default",
     "Advanced English/Homework 5/Pasted image 20230424174031.png",
     "Advanced English/Homework 5/Pasted image 20230424171000.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423145041.png",
