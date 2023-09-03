@@ -4,4 +4,4 @@ provide methods to summarize and describe important features of the data. Main d
 - Calculation of numeric measures: Mean, median, mode, ...
 
 ##### Inference statistics
-Provide techniques for *using sample information* to draw some type of *conclusion about the population*.
+provide techniques for *using sample information* to draw some type of *conclusion about the population*.
