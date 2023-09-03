@@ -58,7 +58,7 @@
     "Probability and Statistics for Engineering": [
       "Probability and Statistics for Engineering/Overview and Descriptive Statistics",
       "Probability and Statistics for Engineering/Lesson 1",
-      "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics"
+      "Probability and Statistics for Engineering/Lesson 1/Measures of Locations"
     ]
   },
   "expandedSpaces": [
@@ -102,6 +102,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693755377533,
+  "spacesAutoBackupLast": 1693755926585,
   "spacesUseAlias": false
 }
