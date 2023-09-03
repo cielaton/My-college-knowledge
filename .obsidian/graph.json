@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:\"Probability and Statistics for Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 9.47916666666667,
   "linkStrength": 1,
   "linkDistance": 194,
-  "scale": 0.07217006573040348,
+  "scale": 0.0686034084489354,
   "close": true
 }
