@@ -56,7 +56,8 @@
       "21ES/Họp chủ nhiệm"
     ],
     "Probability and Statistics for Engineering": [
-      "Probability and Statistics for Engineering/Overview and Descriptive Statistics"
+      "Probability and Statistics for Engineering/Overview and Descriptive Statistics",
+      "Probability and Statistics for Engineering/Lesson 1"
     ]
   },
   "expandedSpaces": [
@@ -100,6 +101,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693718698422,
+  "spacesAutoBackupLast": 1693718746346,
   "spacesUseAlias": false
 }

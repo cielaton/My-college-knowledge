@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
                     "mode": "source",
                     "source": false
                   }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
