@@ -57,14 +57,15 @@
     ],
     "Probability and Statistics for Engineering": [
       "Probability and Statistics for Engineering/Overview and Descriptive Statistics",
-      "Probability and Statistics for Engineering/Lesson 1"
+      "Probability and Statistics for Engineering/Lesson 1",
+      "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes"
     ]
   },
   "expandedSpaces": [
     null,
     "Electronics and Devices 2",
-    null,
-    "Probability and Statistics for Engineering"
+    "Probability and Statistics for Engineering",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -101,6 +102,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693718746346,
+  "spacesAutoBackupLast": 1693728374607,
   "spacesUseAlias": false
 }

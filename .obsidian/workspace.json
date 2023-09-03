@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md",
                     "mode": "source",
                     "source": false
                   }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,8 +217,10 @@
   },
   "active": "451c4e7be8516ca9",
   "lastOpenFiles": [
-    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics .md",
     "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
+    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md",
+    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes",
+    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics .md",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
     "Probability and Statistics for Engineering/Lesson 1",
     "Electronics and Devices/BJT Amplifiers/DC and AC analysis/DC and AC analysis.md",
@@ -247,7 +249,6 @@
     "LoRa/Untitled.canvas",
     "LoRa/LoRa.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
-    "LoRa",
     "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
     "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
     "Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
@@ -257,7 +258,6 @@
     "Electronics and Devices/BJT Amplifiers/Amplification/Pasted image 20230420185747.png",
     "Untitled.canvas",
     "2023-05-30.md",
-    "Computer programming 2/Assignment 4/Exercise 5.md",
     "Pasted image 20230426111413.png",
     "Pasted image 20230426153610.png",
     "Pasted image 20230426165920.png",
