@@ -4,3 +4,4 @@
 
 - [[Discrete variable]]
 - [[Continuous variable]]
+- [[Histograms shapes]]
