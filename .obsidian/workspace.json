@@ -28,7 +28,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms shapes.md",
                     "mode": "source",
                     "source": false
                   }
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms shapes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms shapes.md"
               }
             }
           },
@@ -192,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms shapes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,9 +228,12 @@
   },
   "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Discrete variable.md",
+    "Pasted image 20230903222833.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms shapes.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222647.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Discrete variable.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903215852.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903220006.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903213228.png",
@@ -270,10 +274,8 @@
     "21ES",
     "Bài tập.md",
     "LoRa/Fundamentals/LoRa frame format.md",
-    "LoRa/Fundamentals/Pasted image 20230713125158.png",
     "LoRa/Fundamentals/Fundamentals.md",
     "README.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
     "LoRa/Untitled.canvas",
     "Untitled.canvas",
     "Electronics and Devices/Untitled.canvas"

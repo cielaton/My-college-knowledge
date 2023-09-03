@@ -18,4 +18,10 @@ Constructing a histogram for continuous data (measurements) entails subdividing 
 >$$\mathrm{number \; of \; classes = \sqrt{number\;of\;observation}}$$
 
 >[!note] Constructing a Histogram for Continuous Data: Unequal Class Widths
->After determine frequencies and relative frequencies, calculate the height of each reactangle using the formulat 
+>After determine frequencies and relative frequencies, calculate the height of each rectangle using the formula:
+>$$\mathrm{rectangle\;height = \frac{relative\;frequency}{class\;width}}$$
+>The result usually called *density*.
+
+**Example**:
+![[Pasted image 20230903222647.png]]
+
