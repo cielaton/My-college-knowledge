@@ -16,11 +16,9 @@
                 "id": "451c4e7be8516ca9",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Pasted image 20230903202032.png"
                   }
                 }
               }
@@ -105,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -141,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Pasted image 20230903202032.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Pasted image 20230903202032.png"
               }
             }
           },
@@ -182,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Pasted image 20230903202032.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,8 +214,10 @@
   },
   "active": "451c4e7be8516ca9",
   "lastOpenFiles": [
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pictorial and Tabular Methods in Descriptive Statistics.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903211432.png",
+    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Pasted image 20230903202032.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pictorial and Tabular Methods in Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
     "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
@@ -227,7 +226,6 @@
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Branches of Statistics.md",
-    "Pasted image 20230903202032.png",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes",
     "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics .md",
@@ -257,7 +255,6 @@
     "LoRa/LoRa.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
     "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
-    "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Pasted image 20230420185747.png",
     "Untitled.canvas",
     "Pasted image 20230426111413.png",
@@ -266,7 +263,6 @@
     "Advanced English/Homework 5/Pasted image 20230424174031.png",
     "Advanced English/Homework 5/Pasted image 20230424171000.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423145041.png",
-    "Pasted image 20230423144837.png",
     "Electronics and Devices/Untitled.canvas"
   ]
 }

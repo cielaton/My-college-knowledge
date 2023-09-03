@@ -4,5 +4,5 @@
 >3. Record the leaf for each observation beside the corresponding stem value.
 >4. Indicate the units for stems and leaves someplace in the display.
 
-
-
+**Example:**
+![[Pasted image 20230903211432.png]]
