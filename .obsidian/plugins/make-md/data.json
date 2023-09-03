@@ -58,7 +58,7 @@
     "Probability and Statistics for Engineering": [
       "Probability and Statistics for Engineering/Overview and Descriptive Statistics",
       "Probability and Statistics for Engineering/Lesson 1",
-      "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes"
+      "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics"
     ]
   },
   "expandedSpaces": [
@@ -102,6 +102,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693747581330,
+  "spacesAutoBackupLast": 1693749450060,
   "spacesUseAlias": false
 }

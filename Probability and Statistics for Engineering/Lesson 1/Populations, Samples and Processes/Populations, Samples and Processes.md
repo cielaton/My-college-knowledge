@@ -15,4 +15,4 @@ A characteristic whose value changes from one object to another in the populatio
 
 1. [[Branches of Statistics]]
 2. [[Statistics and Probability]]
-3. 
+3. [[Collecting data]]

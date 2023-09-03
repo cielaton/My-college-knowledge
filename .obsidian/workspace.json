@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Collecting data.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
                     "mode": "source",
                     "source": false
                   }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Collecting data.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Collecting data.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Collecting data.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,14 +217,17 @@
   },
   "active": "451c4e7be8516ca9",
   "lastOpenFiles": [
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pictorial and Tabular Methods in Descriptive Statistics.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
+    "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
+    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Collecting data.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Branches of Statistics.md",
     "Pasted image 20230903202032.png",
-    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
-    "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes",
     "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics .md",
@@ -250,14 +253,11 @@
     "README.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
     "LoRa/Index.md",
-    "LoRa/Fundamentals",
     "LoRa/Untitled.canvas",
     "LoRa/LoRa.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
     "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
     "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
-    "Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
-    "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Pasted image 20230420185747.png",
     "Untitled.canvas",
     "Pasted image 20230426111413.png",
