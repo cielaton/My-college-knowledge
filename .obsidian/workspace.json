@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Dotplots.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms.md",
                     "mode": "source",
                     "source": false
                   }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Dotplots.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Dotplots.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Dotplots.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,8 +217,10 @@
   },
   "active": "451c4e7be8516ca9",
   "lastOpenFiles": [
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Dotplots.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903213228.png",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Pasted image 20230903202032.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903211432.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pictorial and Tabular Methods in Descriptive Statistics.md",
@@ -258,7 +260,6 @@
     "LoRa/Untitled.canvas",
     "LoRa/LoRa.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
-    "Electronics and Devices/BJT Amplifiers/BJT Amplifiers.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Pasted image 20230420185747.png",
     "Untitled.canvas",
     "Pasted image 20230426111413.png",
@@ -266,7 +267,6 @@
     "Pasted image 20230426165920.png",
     "Advanced English/Homework 5/Pasted image 20230424174031.png",
     "Advanced English/Homework 5/Pasted image 20230424171000.png",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423145041.png",
     "Electronics and Devices/Untitled.canvas"
   ]
 }

@@ -28,7 +28,9 @@
     "Transconductance",
     "MOSFET",
     "LoRa",
-    "PHDR"
+    "PHDR",
+    "dotplots",
+    "Dotplots"
   ],
   "vimMode": true,
   "promptDelete": false,
