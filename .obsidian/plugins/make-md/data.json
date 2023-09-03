@@ -58,7 +58,8 @@
     "Probability and Statistics for Engineering": [
       "Probability and Statistics for Engineering/Overview and Descriptive Statistics",
       "Probability and Statistics for Engineering/Lesson 1",
-      "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics"
+      "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
+      "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms"
     ]
   },
   "expandedSpaces": [
@@ -102,6 +103,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693753627899,
+  "spacesAutoBackupLast": 1693754096253,
   "spacesUseAlias": false
 }

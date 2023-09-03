@@ -16,15 +16,26 @@
                 "id": "451c4e7be8516ca9",
                 "type": "leaf",
                 "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903215852.png"
+                  }
+                }
+              },
+              {
+                "id": "828dc2ecd73f0803",
+                "type": "leaf",
+                "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "6b35c51582879427",
@@ -105,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -141,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md"
               }
             }
           },
@@ -182,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,20 +225,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "451c4e7be8516ca9",
+  "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Discrete variable.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903215852.png",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903220006.png",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903213228.png",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903211432.png",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903221221.png",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903221113.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Dotplots.md",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903220646.png",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903220646.png",
     "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
     "Discrete mathematics/Sets and Logic/Quantifiers/Pasted image 20230404165549.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pictorial and Tabular Methods in Descriptive Statistics.md",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903215852.png",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903220006.png",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903213228.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Pasted image 20230903202032.png",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903211432.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md",
@@ -253,19 +268,14 @@
     "21ES/Họp lớp chủ nhiệm.md",
     "21ES/Họp chủ nhiệm",
     "21ES",
-    "Excalidraw",
     "Bài tập.md",
     "LoRa/Fundamentals/LoRa frame format.md",
     "LoRa/Fundamentals/Pasted image 20230713125158.png",
     "LoRa/Fundamentals/Fundamentals.md",
     "README.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
-    "LoRa/Index.md",
     "LoRa/Untitled.canvas",
-    "LoRa/LoRa.md",
-    "Electronics and Devices/BJT Amplifiers/Amplification/Pasted image 20230420185747.png",
     "Untitled.canvas",
-    "Pasted image 20230426111413.png",
     "Electronics and Devices/Untitled.canvas"
   ]
 }
