@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Collecting data.md",
                     "mode": "source",
                     "source": false
                   }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Collecting data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Collecting data.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Collecting data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,9 +217,12 @@
   },
   "active": "451c4e7be8516ca9",
   "lastOpenFiles": [
-    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Branches of Statistics.md",
-    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md",
+    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Collecting data.md",
+    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
+    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
+    "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Branches of Statistics.md",
+    "Pasted image 20230903202032.png",
     "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering.md",
@@ -255,7 +258,6 @@
     "Electronics and Devices/BJT Amplifiers/Coupling and Bypass Capacitors/Coupling and Bypass Capacitors.md",
     "Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
     "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Pasted image 20230420185747.png",
     "Untitled.canvas",
     "Pasted image 20230426111413.png",
@@ -265,7 +267,6 @@
     "Advanced English/Homework 5/Pasted image 20230424171000.png",
     "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423145041.png",
     "Pasted image 20230423144837.png",
-    "Electronics and Devices/BJT Amplifiers/Amplifier Classification/Common-Base (C-B)/Pasted image 20230423144753.png",
     "Electronics and Devices/Untitled.canvas"
   ]
 }
