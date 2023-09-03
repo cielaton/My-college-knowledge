@@ -13,29 +13,18 @@
             "dimension": 80.31496062992126,
             "children": [
               {
-                "id": "451c4e7be8516ca9",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903215852.png"
-                  }
-                }
-              },
-              {
                 "id": "828dc2ecd73f0803",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Median.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "6b35c51582879427",
@@ -152,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Median.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Median.md"
               }
             }
           },
@@ -193,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Median.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,9 +217,13 @@
   },
   "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
+    "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Mean.md",
+    "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Median.md",
+    "Pasted image 20230903230447.png",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
+    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pictorial and Tabular Methods in Descriptive Statistics.md",
-    "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Sample-Population mean.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Measures of Locations.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903224206.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222833.png",
@@ -239,7 +232,6 @@
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Qualitative data.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms shapes.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222647.png",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Continuous variable.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Discrete variable.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903215852.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903220006.png",
@@ -249,8 +241,6 @@
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903221221.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903221113.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Dotplots.md",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903220646.png",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md",
