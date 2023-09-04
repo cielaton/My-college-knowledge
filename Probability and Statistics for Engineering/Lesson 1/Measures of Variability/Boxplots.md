@@ -4,3 +4,8 @@
 A pictorial summary called a **Boxplot** has been used successfully to describe several of a data set’s most prominent features.
 
 ![[Pasted image 20230904133111.png]]
+
+##### What does a Boxplot tell you?
+- Center 
+- Spread
+- The extent and nature of any
