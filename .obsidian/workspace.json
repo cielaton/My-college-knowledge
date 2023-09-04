@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
                     "mode": "source",
                     "source": false
                   }
@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md"
               }
             }
           },
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,9 +214,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3231d2caf1ab20b",
+  "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
     "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability.md",
+    "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
+    "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Pasted image 20230904123414.png",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Measures of Locations.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Variability",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
@@ -243,7 +244,6 @@
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903213228.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pasted image 20230903211432.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903221221.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Dotplots.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
@@ -263,7 +263,6 @@
     "Untitled.md",
     "Electronics and Devices 2",
     ".md",
-    "Computer programming 2/Assignment 1/Exercise 1.md",
     "Index.canvas",
     "LoRa/Untitled.canvas",
     "Untitled.canvas",
