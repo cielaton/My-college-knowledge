@@ -11,4 +11,8 @@ A pictorial summary called a **Boxplot** has been used successfully to describe 
 - The extent and nature of any departure from symmetry
 - Identification of Outliers, observation that usually lie far from the main body of the data
 >[!note]
->Order the *n* observations from smallest to largest and separate the smallest half from the largest half; the median $\$
+>Order the *n* observations from smallest to largest and separate the smallest half from the largest half; the median $\tilde{x}$ is included in both halves if *n* is odd.
+>The **lower fourth** is the median of the smallest half and the **upper fourth** is the median of the largest half.
+>A measure of spread that is resistant to outliers is the **fourth spread** $f_s$, given by:
+>$$\large{f_{s}= upper \; fourth - lower \; fourth}$$
+
