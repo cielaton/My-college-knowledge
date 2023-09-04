@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quarties, Percentiles and Trimmed mean.md",
                     "mode": "source",
                     "source": false
                   }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quarties, Percentiles and Trimmed mean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quarties, Percentiles and Trimmed mean.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quarties, Percentiles and Trimmed mean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,11 +215,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21a132be76e67910",
+  "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
-    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
-    "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Measures of Locations.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Median.md",
+    "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quarties, Percentiles and Trimmed mean.md",
+    "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Measures of Locations.md",
+    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Mean.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Pasted image 20230903230447.png",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Pasted image 20230903233117.png",
