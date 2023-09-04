@@ -16,7 +16,7 @@ A pictorial summary called a **Boxplot** has been used successfully to describe 
 >A measure of spread that is resistant to outliers is the **fourth spread** $f_s$, given by:
 >$$\large{f_{s}= upper \; fourth - lower \; fourth}$$
 
-
 >[!note]
 >Any observation farther than 1.5$f_s$ from the closest fourth is an **outlier**. An outlier is **extreme** if it is more than 3$f_s$ from the nearest fourth, and it is **mild** otherwise.
->
+
+![[Pasted image 20230904153037.png]]

@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Boxplots.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
                     "mode": "source",
                     "source": false
                   }
@@ -148,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Boxplots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Boxplots.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Boxplots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,10 +218,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "828dc2ecd73f0803",
+  "active": "21a132be76e67910",
   "lastOpenFiles": [
-    "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Pasted image 20230904132200.png",
+    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Boxplots.md",
+    "Pasted image 20230904153025.png",
+    "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Pasted image 20230904153037.png",
+    "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Pasted image 20230904132200.png",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Pasted image 20230904133111.png",
     "Advanced English/Homework 5/Homework 5.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Variability/Measures of Variability.md",
@@ -236,7 +235,6 @@
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quartiles, Percentiles and Trimmed mean.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Median.md",
-    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Mean.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Pasted image 20230903230447.png",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Pasted image 20230903233117.png",
@@ -251,8 +249,6 @@
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms shapes.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222647.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Discrete variable.md",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903215852.png",
-    "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903220006.png",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Dotplots.md",
     "Probability and Statistics for Engineering/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
