@@ -30,7 +30,10 @@
     "LoRa",
     "PHDR",
     "dotplots",
-    "Dotplots"
+    "Dotplots",
+    "boxplot",
+    "Dotplot",
+    "Boxplot"
   ],
   "vimMode": true,
   "promptDelete": false,

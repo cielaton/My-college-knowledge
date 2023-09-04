@@ -7,4 +7,5 @@ The measures of variability involve the **deviations from the mean**, which can 
 >The **sample standard deviation**, denoted by $s$, is the *positive* square root of the variance:
 >$$s = \sqrt{s^2}$$
 
-
+**Example**:
+![[Pasted image 20230904132200.png]]
