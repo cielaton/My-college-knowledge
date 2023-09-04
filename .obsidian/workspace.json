@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Learning/Lesson 1/Overview and Descriptive Statistics.md",
+                    "file": "Probability and Statistics for Engineering/Homework/Lesson 1.md",
                     "mode": "source",
                     "source": false
                   }
@@ -148,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Probability and Statistics for Engineering/Homework/Lesson 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Probability and Statistics for Engineering/Homework/Lesson 1.md"
+              }
             }
           },
           {
@@ -186,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Probability and Statistics for Engineering/Homework/Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,8 +222,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21a132be76e67910",
+  "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
+    "Probability and Statistics for Engineering/Homework/context.mdb",
+    "Probability and Statistics for Engineering/Homework/Lesson 1.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Overview and Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Learning",
     "Probability and Statistics for Engineering/Lesson 1/Untitled",
@@ -263,7 +269,6 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Populations, Samples and Processes/Branches of Statistics.md",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Populations, Samples and Processes",
-    "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics .md",
     "Probability and Statistics for Engineering/Learning/Lesson 1",
     "Context/Probability and Statistics for Engineering.mdb",
     "Index.canvas",
