@@ -141,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md"
+              }
             }
           },
           {
@@ -179,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
