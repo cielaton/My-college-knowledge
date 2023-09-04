@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
+                    "file": "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md",
                     "mode": "source",
                     "source": false
                   }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
+                "file": "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md"
+                "file": "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
+                "file": "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,6 +225,8 @@
   },
   "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
+    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability.md",
+    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Quartiles, Percentiles and Trimmed mean.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Measures of Locations.md",
@@ -244,8 +246,6 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904132200.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904133111.png",
     "Advanced English/Homework 5/Homework 5.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904123414.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
