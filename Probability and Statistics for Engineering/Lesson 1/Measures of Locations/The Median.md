@@ -11,3 +11,4 @@ The middle value in the population, denoted by $\tilde{\micro}$
 >Both quantities **mean** and **median** describe where the data is centered, but they will not in general be equal.
 >The population mean and median will not be generally identical.
 
+![[Pasted image 20230903233117.png]]
