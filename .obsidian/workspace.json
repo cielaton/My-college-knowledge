@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quartiles, Percentiles and Trimmed mean.md",
+                    "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
                     "mode": "source",
                     "source": false
                   }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quartiles, Percentiles and Trimmed mean.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quartiles, Percentiles and Trimmed mean.md"
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quartiles, Percentiles and Trimmed mean.md",
+                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,8 +217,9 @@
   },
   "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
-    "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Median.md",
+    "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quartiles, Percentiles and Trimmed mean.md",
+    "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Median.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Measures of Locations.md",
     "Probability and Statistics for Engineering/Lesson 1/Overview and Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/The Mean.md",
@@ -263,7 +264,6 @@
     "Computer programming 2/Assignment 1/Exercise 1.md",
     "Index.canvas",
     "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
-    "21ES/Họp lớp chủ nhiệm.md",
     "21ES/Họp chủ nhiệm",
     "LoRa/Untitled.canvas",
     "Untitled.canvas",
