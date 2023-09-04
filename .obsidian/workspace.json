@@ -141,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,7 +179,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +211,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "828dc2ecd73f0803",
+  "active": "21a132be76e67910",
   "lastOpenFiles": [
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
     "Probability and Statistics for Engineering/Lesson 1/Measures of Locations/Quartiles, Percentiles and Trimmed mean.md",
