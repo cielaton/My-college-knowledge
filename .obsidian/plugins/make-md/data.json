@@ -58,8 +58,8 @@
     "Probability and Statistics for Engineering": [
       "Probability and Statistics for Engineering/Overview and Descriptive Statistics",
       "Probability and Statistics for Engineering/Lesson 1",
-      "Probability and Statistics for Engineering/Lesson 1/Measures of Locations",
-      "Probability and Statistics for Engineering/Lesson 1/Measures of Locations"
+      "Probability and Statistics for Engineering/Lesson 1/Measures of Variablity",
+      "Probability and Statistics for Engineering/Lesson 1/Measures of Variability"
     ]
   },
   "expandedSpaces": [
@@ -102,6 +102,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693804296865,
+  "spacesAutoBackupLast": 1693805472972,
   "spacesUseAlias": false
 }
