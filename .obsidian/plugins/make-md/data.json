@@ -40,7 +40,8 @@
       "Electronics and Devices/BJT Amplifiers",
       "LoRa/Fundamentals",
       "Computer programming 2/Assignment 0",
-      "Computer programming 2/Assignment 1"
+      "Computer programming 2/Assignment 1",
+      "Computer programming 2"
     ],
     "Electronics and Devices": [
       "Electronics and Devices/BJT Amplifiers/Amplification",
@@ -69,8 +70,8 @@
   "expandedSpaces": [
     null,
     "Electronics and Devices 2",
-    "Probability and Statistics for Engineering",
-    null
+    null,
+    "/"
   ],
   "openFolders": [],
   "fileIcons": [],
