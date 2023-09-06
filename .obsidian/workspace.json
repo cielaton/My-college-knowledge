@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Computer programming 2/Assignment 1/Exercise 2.md",
+                    "file": "Computer programming 2/Assignment 1/Exercise 5.md",
                     "mode": "source",
                     "source": false
                   }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer programming 2/Assignment 1/Exercise 2.md",
+                "file": "Computer programming 2/Assignment 1/Exercise 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer programming 2/Assignment 1/Exercise 2.md"
+                "file": "Computer programming 2/Assignment 1/Exercise 5.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer programming 2/Assignment 1/Exercise 2.md",
+                "file": "Computer programming 2/Assignment 1/Exercise 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,6 +225,9 @@
   },
   "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
+    "Computer programming 2/Assignment 1/Exercise 4.md",
+    "Computer programming 2/Assignment 1/Exercise 3.md",
+    "Computer programming 2/Assignment 1/Exercise 2.md",
     "Computer programming 2/Assignment 1/Exercise 1.md",
     "Untitled.md",
     "README.md",
@@ -266,10 +269,7 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
     "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Populations, Samples and Processes/Populations, Samples and Processes.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Populations, Samples and Processes/Collecting data.md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Populations, Samples and Processes/Statistics and Probability.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Populations, Samples and Processes",
     "Probability and Statistics for Engineering/Learning/Lesson 1",
     "Index.canvas",
