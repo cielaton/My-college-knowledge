@@ -39,7 +39,6 @@
       "Electronics and Devices/BJT Amplifiers",
       "Electronics and Devices/BJT Amplifiers",
       "LoRa/Fundamentals",
-      "Computer programming 2",
       "Computer programming 2/Assignment 3"
     ],
     "Electronics and Devices": [
@@ -70,11 +69,13 @@
     null,
     "Electronics and Devices 2",
     "/",
-    null
+    null,
+    "Data Structure and Algorithm"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "Data Structure and Algorithm",
     "Probability and Statistics for Engineering",
     "Electronics and Devices 2",
     "21ES",
@@ -106,6 +107,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693836205122,
+  "spacesAutoBackupLast": 1693970642565,
   "spacesUseAlias": false
 }

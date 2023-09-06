@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Computer programming 2/Assignment 3/Exercise 5.md",
+                    "file": "Data Structure and Algorithm/Assignment 2/Problem 1.md",
                     "mode": "source",
                     "source": false
                   }
@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer programming 2/Assignment 3/Exercise 5.md",
+                "file": "Data Structure and Algorithm/Assignment 2/Problem 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer programming 2/Assignment 3/Exercise 5.md"
+                "file": "Data Structure and Algorithm/Assignment 2/Problem 1.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer programming 2/Assignment 3/Exercise 5.md",
+                "file": "Data Structure and Algorithm/Assignment 2/Problem 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,6 +225,10 @@
   },
   "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
+    "Computer programming 2/Assignment 3/Exercise 5.md",
+    "Data Structure and Algorithm/Assignment 2/Problem 1.md",
+    "Data Structure and Algorithm/Assignment 2",
+    "Data Structure and Algorithm",
     "Computer programming 2/Assignment 3/Exercise 3.md",
     "Computer programming 2/Assignment 3/Exercise 2.md",
     "Computer programming 2/Assignment 3/Exercise 1.md",
@@ -249,8 +253,6 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Quartiles, Percentiles and Trimmed mean.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Measures of Locations.md",
     "Probability and Statistics for Engineering/Homework/context.mdb",
     "Probability and Statistics for Engineering/Learning",
     "Probability and Statistics for Engineering/Lesson 1/Untitled",
@@ -270,8 +272,6 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Populations, Samples and Processes",
-    "Probability and Statistics for Engineering/Learning/Lesson 1",
     "Index.canvas",
     "LoRa/Untitled.canvas",
     "Untitled.canvas",
