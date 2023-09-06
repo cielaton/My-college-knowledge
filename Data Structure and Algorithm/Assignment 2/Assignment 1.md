@@ -41,7 +41,11 @@ The complexity of the function is given mainly by the for loop, which takes n + 
 $$T(n) = n$$
 #### Prob 4:
 **a.**
-Let $c = 13$, $n_{0}= 1$
-Substitute $n_0$ into the left side: $4*1 + 7*1 + 1 = 12$
-Substitute c and $n_0$ to the right side: $13 * 1 = 13$
+Let $c = 16$, $n_{0}= 1$
+Substitute $n = 2$ into the left side: $4*2^2 + 7*2 + 1 = 31$
+Substitute c and $n = 2$ to the right side: $16 * 2 = 32$
 → There exist a positive value of c and $n_0$ such that $f(n) < cg(n)$ when $n \geq n_0$ 
+
+**b.**
+Let $c = 2$, $n_{0}= 1$
+Substitute $n= 2$ into the left side: $w$
