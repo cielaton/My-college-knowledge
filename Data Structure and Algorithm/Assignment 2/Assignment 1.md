@@ -37,3 +37,4 @@ The second loop takes $\Large{\frac{(n + 1) * (n + 1)}{2}}$
 $$T(n) = \frac{(n + 1)^{2}}{2} = n ^ 2$$
 
 #### Prob 3:
+The complexity of the function only
