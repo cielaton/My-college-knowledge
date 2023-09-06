@@ -33,7 +33,8 @@
     "Dotplots",
     "boxplot",
     "Dotplot",
-    "Boxplot"
+    "Boxplot",
+    ""
   ],
   "vimMode": true,
   "promptDelete": false,
