@@ -32,8 +32,7 @@
                   "state": {}
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "6b35c51582879427",
@@ -150,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md"
+              }
             }
           },
           {
@@ -188,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,8 +223,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b107895d649fd025",
+  "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
+    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
+    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md",
+    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/The Median.md",
+    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/The Mean.md",
+    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
+    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Measures of Locations.md",
     "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
     "Untitled 1.md",
     "Computer programming 2/Assignment 3/Exercise 5.md",
@@ -244,12 +253,6 @@
     "Computer programming 2/Assignment 1/Exercise 5.md",
     "Computer programming 2/Assignment 1/Exercise 4.md",
     "Computer programming 2/Assignment 1/Exercise 3.md",
-    "Computer programming 2/Assignment 1/Exercise 2.md",
-    "Computer programming 2/Assignment 1/Exercise 1.md",
-    "Untitled.md",
-    "README.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability.md",
     "Probability and Statistics for Engineering/Homework/context.mdb",
     "Probability and Statistics for Engineering/Learning",
     "Probability and Statistics for Engineering/Lesson 1/Untitled",

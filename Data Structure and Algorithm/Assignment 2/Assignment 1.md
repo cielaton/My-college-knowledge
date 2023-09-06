@@ -37,4 +37,6 @@ The second loop takes $\Large{\frac{(n + 1) * (n + 1)}{2}}$
 $$T(n) = \frac{(n + 1)^{2}}{2} = n ^ 2$$
 
 #### Prob 3:
-The complexity of the function only
+The complexity of the function is given mainly by the for loop, which takes n + 1 times.
+$$T(n) = n$$
+#### Prob 4:
