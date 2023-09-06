@@ -40,3 +40,8 @@ $$T(n) = \frac{(n + 1)^{2}}{2} = n ^ 2$$
 The complexity of the function is given mainly by the for loop, which takes n + 1 times.
 $$T(n) = n$$
 #### Prob 4:
+**a.**
+Let $c = 13$, $n_{0}= 1$
+Substitute $n_0$ into the left side: $4*1 + 7*1 + 1 = 12$
+Substitute c and $n_0$ to the right side: $13 * 1 = 13$
+→ There exist a positive value of c and $n_0$ such that $f(n) < cg(n)$ when $n \geq n_0$ 
