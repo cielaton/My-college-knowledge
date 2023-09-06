@@ -34,3 +34,6 @@ $$T(n) = n^3$$
 **c.** Transposition
 The first loop takes n + 1 times
 The second loop takes $\Large{\frac{(n + 1) * (n + 1)}{2}}$
+$$T(n) = \frac{(n + 1)^{2}}{2} = n ^ 2$$
+
+#### Prob 3:
