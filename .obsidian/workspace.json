@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Computer programming 2/Assignment 1/Exercise 5.md",
+                    "file": "Computer programming 2/Assignment 2/Exercise 6.md",
                     "mode": "source",
                     "source": false
                   }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer programming 2/Assignment 1/Exercise 5.md",
+                "file": "Computer programming 2/Assignment 2/Exercise 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer programming 2/Assignment 1/Exercise 5.md"
+                "file": "Computer programming 2/Assignment 2/Exercise 6.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer programming 2/Assignment 1/Exercise 5.md",
+                "file": "Computer programming 2/Assignment 2/Exercise 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,6 +225,16 @@
   },
   "active": "828dc2ecd73f0803",
   "lastOpenFiles": [
+    "Computer programming 2/Assignment 2/Exercise 5.md",
+    "Computer programming 2/Assignment 2/Exercise 4.md",
+    "Computer programming 2/Assignment 2/Exercise 3.md",
+    "Computer programming 2/Assignment 2/Exercise 2.md",
+    "Computer programming 2/Assignment 2/Exercise 1.md",
+    "Computer programming 2/Assignment 2/Assignment 2.md",
+    "Computer programming 2/Assignment 1/Exercise 8.md",
+    "Computer programming 2/Assignment 1/Exercise 7.md",
+    "Computer programming 2/Assignment 1/Exercise 6.md",
+    "Computer programming 2/Assignment 1/Exercise 5.md",
     "Computer programming 2/Assignment 1/Exercise 4.md",
     "Computer programming 2/Assignment 1/Exercise 3.md",
     "Computer programming 2/Assignment 1/Exercise 2.md",
@@ -241,9 +251,7 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Discrete variable.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Histograms shapes.md",
-    "Probability and Statistics for Engineering/Homework/Lesson 1.md",
     "Probability and Statistics for Engineering/Homework/context.mdb",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Overview and Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Learning",
     "Probability and Statistics for Engineering/Lesson 1/Untitled",
     "Probability and Statistics for Engineering/Homework",
@@ -251,24 +259,16 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904153037.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904132200.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904133111.png",
-    "Advanced English/Homework 5/Homework 5.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904123414.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/The Median.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/The Mean.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Pasted image 20230903230447.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Pasted image 20230903233117.png",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Stem and Leaf Display.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Pictorial and Tabular Methods in Descriptive Statistics.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903224206.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222833.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Qualitative data.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222647.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
-    "Probability and Statistics for Engineering/Probability and Statistics for Engineering .md",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Populations, Samples and Processes",
     "Probability and Statistics for Engineering/Learning/Lesson 1",
