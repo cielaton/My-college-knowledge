@@ -17,3 +17,16 @@ The second loop takes n times
 $$T(n) = n * log_2n$$
 **d.**
 
+#### Prob 2:
+**a.** Addition
+The first loop takes n + 1 times
+The second loop takes n * (n + 1) times
+The third line takes n * n times
+$$T(n) = n^2$$
+**b.** Multiplication
+The first loop takes n + 2 times
+The second loop takes (n + 1) * (n + 2) times
+The line `sum = 0` takes (n + 1) * (n + 1) times
+The third for loop takes (n + 1) * (n + 1) * (n + 2) times
+The line `sum = sum + b[i][k] * c[k][j]` takes $(n + 1)^3$ times
+The line `a[i]

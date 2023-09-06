@@ -32,7 +32,8 @@
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "6b35c51582879427",
@@ -149,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,7 +188,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,10 +220,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "828dc2ecd73f0803",
+  "active": "b107895d649fd025",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
+    "Untitled 1.md",
     "Computer programming 2/Assignment 3/Exercise 5.md",
     "Data Structure and Algorithm/Assignment 2",
     "Data Structure and Algorithm",
