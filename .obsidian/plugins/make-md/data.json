@@ -43,8 +43,7 @@
     ],
     "Electronics and Devices": [
       "Electronics and Devices/BJT Amplifiers/Amplification",
-      "Electronics and Devices/BJT Amplifiers/DC and AC analysis",
-      "Electronics and Devices/Bipolar junction transistors"
+      "Electronics and Devices/BJT Amplifiers/DC and AC analysis"
     ],
     "Computer programming 2": [],
     "LoRa": [
@@ -71,7 +70,8 @@
     "Electronics and Devices 2",
     "/",
     "Data Structure and Algorithm",
-    null
+    null,
+    "Electronics and Devices"
   ],
   "openFolders": [],
   "fileIcons": [],
