@@ -16,9 +16,11 @@
                 "id": "f6a4283a39449348",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "markdown",
                   "state": {
-                    "file": "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md"
+                    "file": "Data Structure and Algorithm/Assignment 4/Untitled.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               },
@@ -111,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -146,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +194,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "816fdd8083048943",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -220,10 +229,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6a4283a39449348",
+  "active": "21a132be76e67910",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
+    "Data Structure and Algorithm/Assignment 4/Untitled.md",
     "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
+    "Data Structure and Algorithm/Assignment 4",
+    "Data Structure and Algorithm/Untitled.md",
+    "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
     "Untitled 1.md",
     "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Four-Resistor Bias Network/Four-Resistor Bias Network.md",
     "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Practical Bias Circuit for the BJT.md",
@@ -248,8 +260,6 @@
     "Computer programming 2/Assignment 2/Exercise 4.md",
     "Computer programming 2/Assignment 2/Exercise 3.md",
     "Computer programming 2/Assignment 2/Exercise 2.md",
-    "Computer programming 2/Assignment 2/Exercise 1.md",
-    "Computer programming 2/Assignment 2/Assignment 2.md",
     "Probability and Statistics for Engineering/Homework/context.mdb",
     "Probability and Statistics for Engineering/Learning",
     "Probability and Statistics for Engineering/Lesson 1/Untitled",
@@ -267,7 +277,6 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222647.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "Index.canvas",
     "LoRa/Untitled.canvas",
