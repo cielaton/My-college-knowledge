@@ -25,6 +25,16 @@
                 }
               },
               {
+                "id": "80617682464517d6",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md"
+                  }
+                }
+              },
+              {
                 "id": "b107895d649fd025",
                 "type": "leaf",
                 "state": {
@@ -32,7 +42,8 @@
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "6b35c51582879427",
@@ -149,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 4/Problem 2.md",
+                "file": "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 4/Problem 2.md"
+                "file": "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md"
               }
             }
           },
@@ -190,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 4/Problem 2.md",
+                "file": "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,10 +244,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3231d2caf1ab20b",
+  "active": "80617682464517d6",
   "lastOpenFiles": [
-    "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Data Structure and Algorithm/Assignment 4/Problem 2.md",
+    "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md",
+    "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
     "Data Structure and Algorithm/Assignment 4",
     "Data Structure and Algorithm/Untitled.md",
@@ -263,7 +275,6 @@
     "Computer programming 2/Assignment 2/Exercise 6.md",
     "Computer programming 2/Assignment 2/Exercise 5.md",
     "Computer programming 2/Assignment 2/Exercise 4.md",
-    "Computer programming 2/Assignment 2/Exercise 3.md",
     "Probability and Statistics for Engineering/Homework/context.mdb",
     "Probability and Statistics for Engineering/Learning",
     "Probability and Statistics for Engineering/Lesson 1/Untitled",
