@@ -68,14 +68,20 @@ void NumberLinkedList::insertLast(int value) {
     newNode->next = nullptr;
 
     ListNode *p = head;
+    if (p == nullptr) {
+        head = newNode;
+        return;
+    }
+
     while (p) {
-        if (p == nullptr)
-            head = newNode;
-        else if (p->next == nullptr)
+        if (p->next == nullptr) {
             p->next = newNode;
+            return;
+        }
         p = p->next;
     }
 }
+
 
 void NumberLinkedList::deleteFirst() {
     if (isEmpty()) {
