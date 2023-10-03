@@ -30,18 +30,10 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Computer programming 2/Assignment 1/Exercise 7.md",
+                    "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                     "mode": "source",
                     "source": false
                   }
-                }
-              },
-              {
-                "id": "b107895d649fd025",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
                 }
               }
             ],
@@ -127,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -162,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer programming 2/Assignment 1/Exercise 7.md",
+                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer programming 2/Assignment 1/Exercise 7.md"
+                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md"
               }
             }
           },
@@ -203,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer programming 2/Assignment 1/Exercise 7.md",
+                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,6 +240,7 @@
   },
   "active": "80617682464517d6",
   "lastOpenFiles": [
+    "Computer programming 2/Assignment 1/Exercise 7.md",
     "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md",
     "Data Structure and Algorithm/Assignment 4/Problem 2.md",
@@ -276,7 +269,6 @@
     "Computer programming 2/Assignment 2/Exercise 7.md",
     "Computer programming 2/Assignment 2/Exercise 6.md",
     "Computer programming 2/Assignment 2/Exercise 5.md",
-    "Computer programming 2/Assignment 2/Exercise 4.md",
     "Probability and Statistics for Engineering/Homework/context.mdb",
     "Probability and Statistics for Engineering/Learning",
     "Probability and Statistics for Engineering/Lesson 1/Untitled",
