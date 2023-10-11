@@ -10,7 +10,7 @@
           {
             "id": "42a0c4f9e95dd8b9",
             "type": "tabs",
-            "dimension": 80.31496062992126,
+            "dimension": 72.06030150753769,
             "children": [
               {
                 "id": "f6a4283a39449348",
@@ -18,22 +18,18 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Data Structure and Algorithm/Assignment 4/Problem 2.md",
-                    "mode": "preview",
+                    "file": "Computer programming 1/Midterm - 20_ECE.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "80617682464517d6",
+                "id": "08c6b3049628376d",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ],
@@ -42,7 +38,7 @@
           {
             "id": "6b35c51582879427",
             "type": "tabs",
-            "dimension": 19.68503937007874,
+            "dimension": 27.939698492462313,
             "children": [
               {
                 "id": "19e399da0e5d9c0c",
@@ -154,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,7 +188,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,12 +230,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80617682464517d6",
+  "active": "08c6b3049628376d",
   "lastOpenFiles": [
+    "Computer programming 1/Midterm - 20_ECE.md",
+    "Index.canvas",
+    "Data Structure and Algorithm/Assignment 4/Problem 2.md",
+    "Computer programming 1",
+    "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
     "Computer programming 2/Assignment 1/Exercise 7.md",
     "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md",
-    "Data Structure and Algorithm/Assignment 4/Problem 2.md",
     "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
     "Data Structure and Algorithm/Assignment 4",
     "Data Structure and Algorithm/Untitled.md",
@@ -253,7 +249,6 @@
     "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Practical Bias Circuit for the BJT.md",
     "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
     "Electronics and Devices/Electronics and Devices.md",
-    "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/The Median.md",
@@ -267,8 +262,6 @@
     "Computer programming 2/Assignment 3/Exercise 2.md",
     "Computer programming 2/Assignment 3/Exercise 1.md",
     "Computer programming 2/Assignment 2/Exercise 7.md",
-    "Computer programming 2/Assignment 2/Exercise 6.md",
-    "Computer programming 2/Assignment 2/Exercise 5.md",
     "Probability and Statistics for Engineering/Homework/context.mdb",
     "Probability and Statistics for Engineering/Learning",
     "Probability and Statistics for Engineering/Lesson 1/Untitled",
@@ -285,9 +278,7 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222833.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222647.png",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
-    "Index.canvas",
     "LoRa/Untitled.canvas",
     "Untitled.canvas",
     "Electronics and Devices/Untitled.canvas"
