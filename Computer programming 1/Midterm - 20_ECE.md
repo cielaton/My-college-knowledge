@@ -1,5 +1,5 @@
 #### Question 1: 
-Write the program getting a positive integer and compute the sum of its even digits. For example, the input is 1234, the output is 6. You should validate the input.
+Write the program getting a **positive** integer and compute the sum of its even digits. For example, the input is 1234, the output is 6. You should validate the input.
 
 #### Question 2:
 Write a program reading n integers, computing the sum of the positive numbers and indicating the position of the biggest number.
