@@ -17,7 +17,6 @@ public:
     NumberLinkedList() {
         head = nullptr;
     }
-
     // Copy constructor
     NumberLinkedList(NumberLinkedList &toBeCopied) {
         head = nullptr;
@@ -50,8 +49,14 @@ public:
     void merge(NumberLinkedList &);
     void concatenate(NumberLinkedList &);
     bool equal(NumberLinkedList);
-};
 
+    void insertSorted(int);
+
+    bool isSet();
+    bool isSubsetOf(NumberLinkedList &);
+    NumberLinkedList unionWith(NumberLinkedList &);
+    NumberLinkedList intersectionWith(NumberLinkedList &);
+};
 
 #endif // !NUMBERLINKEDLIST
 ```
@@ -60,6 +65,7 @@ public:
 ```cpp
 #include "./NumberLinkedList.h"
 #include <iostream>
+#include <memory>
 using namespace std;
 
 struct ListNode {
@@ -176,19 +182,9 @@ NumberLinkedList &NumberLinkedList::operator=(NumberLinkedList &toBeAssigned) {
 }
 
 void NumberLinkedList::merge(NumberLinkedList &toBeMerged) {
-    ListNode *pThis;
-    ListNode *pToBeMerged;
-    ListNode *pToBeMergedNextNode;
-
-    if (length() <= toBeMerged.length()) {
-        pThis = head;
-        pToBeMerged = toBeMerged.getHead();
-        pToBeMergedNextNode = pToBeMerged;
-    } else {
-        pThis = toBeMerged.getHead();
-        pToBeMerged = head;
-        pToBeMergedNextNode = pToBeMerged;
-    }
+    ListNode *pThis = head;
+    ListNode *pToBeMerged = toBeMerged.getHead();
+    ListNode *pToBeMergedNextNode = toBeMerged.getHead();
 
     if (pThis == nullptr) {
         pThis = pToBeMerged;
@@ -259,9 +255,115 @@ bool NumberLinkedList::equal(NumberLinkedList toBeCompared) {
     }
     return isEqual;
 }
+
+void NumberLinkedList::insertSorted(int value) {
+    ListNode *p = head;
+    ListNode *toBeAdded = new ListNode;
+    toBeAdded->value = value;
+
+    // The list is already sorted => The list is not empty => No need to check for
+    // null head case
+    while (p) {
+        if (value >= p->value) {
+            toBeAdded->next = p->next;
+            p->next = toBeAdded;
+            break;
+
+        } else {
+            toBeAdded->next = head;
+            head = toBeAdded;
+            break;
+        }
+        p = p->next;
+    }
+}
+
+bool NumberLinkedList::isSet() {
+    // Since the set is created by Linked list => always true
+    return true;
+}
+
+bool NumberLinkedList::isSubsetOf(NumberLinkedList &toBeChecked) {
+    ListNode *pThis = head;
+    ListNode *pTobeChecked;
+    bool isSubset = false;
+
+    if (pThis == nullptr)
+        return true;
+    else if (toBeChecked.getHead() == nullptr)
+        return false;
+
+    while (pThis) {
+        bool isMatch = false;
+        pTobeChecked = toBeChecked.getHead();
+        while (pTobeChecked) {
+            if (pThis->value == pTobeChecked->value) {
+                isMatch = true;
+                break;
+            }
+            pTobeChecked = pTobeChecked->next;
+        }
+        if (!isMatch) {
+            isSubset = false;
+            break;
+        }
+        isSubset = true;
+        pThis = pThis->next;
+    }
+
+    return isSubset;
+}
+
+NumberLinkedList
+NumberLinkedList::intersectionWith(NumberLinkedList &secondList) {
+    NumberLinkedList temporaryList;
+    ListNode *pThis = head;
+    ListNode *pSecondList;
+
+    if (pThis == nullptr || secondList.getHead() == nullptr)
+        return temporaryList;
+    while (pThis) {
+        pSecondList = secondList.getHead();
+        while (pSecondList) {
+            if (pThis->value == pSecondList->value)
+                temporaryList.insertLast(pThis->value);
+            pSecondList = pSecondList->next;
+        }
+        pThis = pThis->next;
+    }
+    return temporaryList;
+}
+
+NumberLinkedList NumberLinkedList::unionWith(NumberLinkedList &secondList) {
+    NumberLinkedList temporaryList = secondList;
+    ListNode *pThis = head;
+    ListNode *pSecondList;
+    bool isFullyNotEqualNode = false;
+
+    if (pThis == nullptr)
+        return secondList;
+    else if (secondList.getHead() == nullptr)
+        return *this;
+
+    while (pThis) {
+        pSecondList = secondList.getHead();
+        while (pSecondList) {
+            if (pThis->value == pSecondList->value) {
+                isFullyNotEqualNode = false;
+                break;
+            }
+            isFullyNotEqualNode = true;
+            pSecondList = pSecondList->next;
+        }
+        if (isFullyNotEqualNode == true)
+            temporaryList.insertLast(pThis->value);
+        pThis = pThis->next;
+    }
+    return temporaryList;
+}
 ```
 
-#### Main file: 
+#### Main file:
 ```cpp
 #include "./NumberLinkedList.cpp"
 #include "./NumberLinkedList.h"
@@ -273,7 +375,7 @@ int main() {
     NumberLinkedList testList1;
     NumberLinkedList testList2;
 
-    for (int i = 1; i <= 7; i += 2) {
+    for (int i = 2; i <= 4; i += 2) {
         testList1.insertLast(i);
     }
 
@@ -281,8 +383,6 @@ int main() {
         testList2.insertLast(i);
     }
 
-    // testList1.concatenate(testList2);
-    // testList1.merge(testList2);
     cout << "Content of list 1:" << endl;
     testList1.displayList();
     cout << endl;
@@ -291,8 +391,15 @@ int main() {
     testList2.displayList();
     cout << endl;
 
-    testList1.merge(testList2);
-    cout << "After merged: " << endl;
-    testList1.displayList();
+    cout << "Is subset: " << testList1.isSubsetOf(testList2) << endl;
+
+    // NumberLinkedList intersectionedList =
+    // testList1.intersectionWith(testList2); cout << "Intersectioned list: " <<
+    // endl; intersectionedList.displayList();
+
+    NumberLinkedList unionedList = testList1.unionWith(testList2);
+    cout << "Unioned List: " << endl;
+    unionedList.displayList();
 }
+
 ```

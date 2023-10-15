@@ -1,4 +1,4 @@
-#### Header file:
+#### Header file: 
 ```cpp
 #ifndef NUMBERLINKEDLIST
 #define NUMBERLINKEDLIST
@@ -17,7 +17,6 @@ public:
     NumberLinkedList() {
         head = nullptr;
     }
-
     // Copy constructor
     NumberLinkedList(NumberLinkedList &toBeCopied) {
         head = nullptr;
@@ -50,8 +49,9 @@ public:
     void merge(NumberLinkedList &);
     void concatenate(NumberLinkedList &);
     bool equal(NumberLinkedList);
-};
 
+    void insertSorted(int);
+};
 
 #endif // !NUMBERLINKEDLIST
 ```
@@ -176,19 +176,9 @@ NumberLinkedList &NumberLinkedList::operator=(NumberLinkedList &toBeAssigned) {
 }
 
 void NumberLinkedList::merge(NumberLinkedList &toBeMerged) {
-    ListNode *pThis;
-    ListNode *pToBeMerged;
-    ListNode *pToBeMergedNextNode;
-
-    if (length() <= toBeMerged.length()) {
-        pThis = head;
-        pToBeMerged = toBeMerged.getHead();
-        pToBeMergedNextNode = pToBeMerged;
-    } else {
-        pThis = toBeMerged.getHead();
-        pToBeMerged = head;
-        pToBeMergedNextNode = pToBeMerged;
-    }
+    ListNode *pThis = head;
+    ListNode *pToBeMerged = toBeMerged.getHead();
+    ListNode *pToBeMergedNextNode = toBeMerged.getHead();
 
     if (pThis == nullptr) {
         pThis = pToBeMerged;
@@ -259,9 +249,31 @@ bool NumberLinkedList::equal(NumberLinkedList toBeCompared) {
     }
     return isEqual;
 }
+
+void NumberLinkedList::insertSorted(int value) {
+    ListNode *p = head;
+    ListNode *toBeAdded = new ListNode;
+    toBeAdded->value = value;
+
+    // The list is already sorted => The list is not empty => No need to check for
+    // null head case
+    while (p) {
+        if (value >= p->value) {
+            toBeAdded->next = p->next;
+            p->next = toBeAdded;
+            break;
+
+        } else {
+            toBeAdded->next = head;
+            head = toBeAdded;
+            break;
+        }
+        p = p->next;
+    }
+}
 ```
 
-#### Main file: 
+#### Main file:
 ```cpp
 #include "./NumberLinkedList.cpp"
 #include "./NumberLinkedList.h"
@@ -271,28 +283,17 @@ using namespace std;
 
 int main() {
     NumberLinkedList testList1;
-    NumberLinkedList testList2;
 
-    for (int i = 1; i <= 7; i += 2) {
+    for (int i = 2; i <= 10; i += 2) {
         testList1.insertLast(i);
     }
 
-    for (int i = 2; i <= 10; i += 2) {
-        testList2.insertLast(i);
-    }
-
-    // testList1.concatenate(testList2);
-    // testList1.merge(testList2);
     cout << "Content of list 1:" << endl;
     testList1.displayList();
     cout << endl;
 
-    cout << "Content of list 2: " << endl;
-    testList2.displayList();
-    cout << endl;
-
-    testList1.merge(testList2);
-    cout << "After merged: " << endl;
+    testList1.insertSorted(1);
+    cout << "After inserted:" << endl;
     testList1.displayList();
 }
 ```

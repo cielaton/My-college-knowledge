@@ -1,9 +1,8 @@
-Contents of **NumberLinkedList.h**
+#### Header file:
 ```cpp
 #ifndef NUMBERLINKEDLIST
 #define NUMBERLINKEDLIST
 
-#include <cstddef>
 class NumberLinkedList {
 private:
     struct ListNode {
@@ -32,9 +31,10 @@ public:
 };
 
 #endif // !NUMBERLINKEDLIST
+
 ```
 
-Contents of **NumberLinkedList.cpp**
+#### Function definition file:
 ```cpp
 #include "./NumberLinkedList.h"
 #include <iostream>
@@ -66,22 +66,19 @@ void NumberLinkedList::insertLast(int value) {
     ListNode *newNode = new ListNode;
     newNode->value = value;
     newNode->next = nullptr;
-
-    ListNode *p = head;
-    if (p == nullptr) {
+    if (head == nullptr) {
+        newNode->next = head;
         head = newNode;
         return;
     }
 
+    ListNode *p = head;
     while (p) {
-        if (p->next == nullptr) {
+        if (p->next == nullptr)
             p->next = newNode;
-            return;
-        }
         p = p->next;
     }
 }
-
 
 void NumberLinkedList::deleteFirst() {
     if (isEmpty()) {
@@ -143,7 +140,7 @@ void NumberLinkedList::displayList() const {
 }
 ```
 
-Test file:
+#### Main file:
 ```cpp
 #include <iostream>
 #include "./NumberLinkedList.h"
@@ -172,4 +169,5 @@ int main() {
 
     cout << "Final lenght: " << testList.length() << endl;
 }
+
 ```

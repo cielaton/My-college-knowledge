@@ -10,7 +10,7 @@
           {
             "id": "42a0c4f9e95dd8b9",
             "type": "tabs",
-            "dimension": 73.95833333333334,
+            "dimension": 73.95833333333333,
             "children": [
               {
                 "id": "f6a4283a39449348",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Computer programming 1/Midterm - 20_ECE.md",
+                    "file": "Data Structure and Algorithm/Assignment 4/Problem 4.md",
                     "mode": "source",
                     "source": false
                   }
@@ -29,7 +29,7 @@
           {
             "id": "6b35c51582879427",
             "type": "tabs",
-            "dimension": 26.041666666666668,
+            "dimension": 26.041666666666664,
             "children": [
               {
                 "id": "19e399da0e5d9c0c",
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer programming 1/Midterm - 20_ECE.md",
+                "file": "Data Structure and Algorithm/Assignment 4/Problem 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer programming 1/Midterm - 20_ECE.md"
+                "file": "Data Structure and Algorithm/Assignment 4/Problem 4.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer programming 1/Midterm - 20_ECE.md",
+                "file": "Data Structure and Algorithm/Assignment 4/Problem 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,14 +227,16 @@
   },
   "active": "f6a4283a39449348",
   "lastOpenFiles": [
-    "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Four-Resistor Bias Network/Four-Resistor Bias Network.md",
-    "Computer programming 1/Midterm - 20_ECE.md",
-    "Index.canvas",
+    "Data Structure and Algorithm/Assignment 4/Problem 3.md",
     "Data Structure and Algorithm/Assignment 4/Problem 2.md",
+    "Data Structure and Algorithm/Assignment 4/Problem 1.md",
+    "Data Structure and Algorithm/Assignment 4/Problem 4.md",
+    "Computer programming 1/Midterm - 20_ECE.md",
+    "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Four-Resistor Bias Network/Four-Resistor Bias Network.md",
+    "Index.canvas",
     "Computer programming 1",
     "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
     "Computer programming 2/Assignment 1/Exercise 7.md",
-    "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md",
     "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
     "Data Structure and Algorithm/Assignment 4",
@@ -257,7 +258,6 @@
     "Computer programming 2/Assignment 3/Exercise 3.md",
     "Computer programming 2/Assignment 3/Exercise 2.md",
     "Computer programming 2/Assignment 3/Exercise 1.md",
-    "Computer programming 2/Assignment 2/Exercise 7.md",
     "Probability and Statistics for Engineering/Homework/context.mdb",
     "Probability and Statistics for Engineering/Learning",
     "Probability and Statistics for Engineering/Lesson 1/Untitled",

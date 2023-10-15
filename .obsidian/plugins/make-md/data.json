@@ -41,7 +41,7 @@
       "LoRa/Fundamentals",
       "Computer programming 2/Assignment 3",
       "Data Structure and Algorithm/Assignment 4",
-      "Computer programming 1"
+      "Data Structure and Algorithm"
     ],
     "Electronics and Devices": [
       "Electronics and Devices/BJT Amplifiers/Amplification",
@@ -109,6 +109,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697032974447,
+  "spacesAutoBackupLast": 1697159666342,
   "spacesUseAlias": false
 }
