@@ -16,9 +16,11 @@
                 "id": "f6a4283a39449348",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "markdown",
                   "state": {
-                    "file": "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md"
+                    "file": "Computer programming 1/Midterm - 20_ECE.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -123,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
+                "file": "Computer programming 1/Midterm - 20_ECE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md"
+                "file": "Computer programming 1/Midterm - 20_ECE.md"
               }
             }
           },
@@ -180,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
+                "file": "Computer programming 1/Midterm - 20_ECE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,6 +228,7 @@
   },
   "active": "f6a4283a39449348",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
     "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md",
     "Data Structure and Algorithm/Assignment 4/Problem 4.md",
     "Data Structure and Algorithm/Assignment 4/Problem 3.md",
@@ -236,7 +240,6 @@
     "Computer programming 1",
     "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
     "Computer programming 2/Assignment 1/Exercise 7.md",
-    "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
     "Data Structure and Algorithm/Assignment 4",
     "Data Structure and Algorithm/Untitled.md",
     "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",

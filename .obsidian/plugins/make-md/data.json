@@ -42,7 +42,8 @@
       "Computer programming 2/Assignment 3",
       "Data Structure and Algorithm/Assignment 4",
       "Data Structure and Algorithm",
-      "Excalidraw"
+      "Excalidraw",
+      "Computer programming 1"
     ],
     "Electronics and Devices": [
       "Electronics and Devices/BJT Amplifiers/Amplification",
@@ -72,8 +73,8 @@
   "expandedSpaces": [
     null,
     "Electronics and Devices 2",
-    null,
-    "/"
+    "/",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
