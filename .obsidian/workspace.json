@@ -18,13 +18,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Computer programming 1/Midterm - 20_ECE.md",
+                    "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fdb57a7fd2339f5e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Data Structure and Algorithm/Assignment 4/Problem 1.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "6b35c51582879427",
@@ -125,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer programming 1/Midterm - 20_ECE.md",
+                "file": "Data Structure and Algorithm/Assignment 4/Problem 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer programming 1/Midterm - 20_ECE.md"
+                "file": "Data Structure and Algorithm/Assignment 4/Problem 1.md"
               }
             }
           },
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer programming 1/Midterm - 20_ECE.md",
+                "file": "Data Structure and Algorithm/Assignment 4/Problem 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,15 +238,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6a4283a39449348",
+  "active": "fdb57a7fd2339f5e",
   "lastOpenFiles": [
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
+    "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+    "Electronics and Devices/Bipolar junction transistors/The operating regions of the bipolar transistor/The operating regions of the bipolar transistor.md",
+    "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
+    "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
+    "Computer programming 1/Midterm - 20_ECE.md",
     "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
     "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md",
     "Data Structure and Algorithm/Assignment 4/Problem 4.md",
     "Data Structure and Algorithm/Assignment 4/Problem 3.md",
     "Data Structure and Algorithm/Assignment 4/Problem 2.md",
     "Data Structure and Algorithm/Assignment 4/Problem 1.md",
-    "Computer programming 1/Midterm - 20_ECE.md",
     "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Four-Resistor Bias Network/Four-Resistor Bias Network.md",
     "Index.canvas",
     "Computer programming 1",
@@ -245,7 +262,6 @@
     "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
     "Untitled 1.md",
     "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Practical Bias Circuit for the BJT.md",
-    "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
     "Electronics and Devices/Electronics and Devices.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md",
@@ -253,12 +269,8 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/The Mean.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Measures of Locations.md",
-    "Computer programming 2/Assignment 3/Exercise 5.md",
     "Data Structure and Algorithm/Assignment 2",
     "Data Structure and Algorithm",
-    "Computer programming 2/Assignment 3/Exercise 3.md",
-    "Computer programming 2/Assignment 3/Exercise 2.md",
-    "Computer programming 2/Assignment 3/Exercise 1.md",
     "Probability and Statistics for Engineering/Homework/context.mdb",
     "Probability and Statistics for Engineering/Learning",
     "Probability and Statistics for Engineering/Lesson 1/Untitled",
