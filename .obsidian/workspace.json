@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Computer programming 1/Midterm - solution.md",
+                    "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                     "mode": "source",
                     "source": false
                   }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer programming 1/Midterm - solution.md",
+                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer programming 1/Midterm - solution.md"
+                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer programming 1/Midterm - solution.md",
+                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,8 +240,8 @@
   },
   "active": "fdb57a7fd2339f5e",
   "lastOpenFiles": [
-    "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Computer programming 1/Midterm - solution.md",
+    "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
     "Electronics and Devices/Bipolar junction transistors/The operating regions of the bipolar transistor/The operating regions of the bipolar transistor.md",
