@@ -75,9 +75,7 @@
     null,
     "Electronics and Devices 2",
     "/",
-    null,
-    "Electronics and Devices",
-    "Data Structure and Algorithm"
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -114,6 +112,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697159666342,
+  "spacesAutoBackupLast": 1697875813058,
   "spacesUseAlias": false
 }

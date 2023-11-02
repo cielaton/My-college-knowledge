@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Data Structure and Algorithm/Assignment 4/Problem 1.md",
+                    "file": "Computer programming 1/Midterm - solution.md",
                     "mode": "source",
                     "source": false
                   }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 4/Problem 1.md",
+                "file": "Computer programming 1/Midterm - solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 4/Problem 1.md"
+                "file": "Computer programming 1/Midterm - solution.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 4/Problem 1.md",
+                "file": "Computer programming 1/Midterm - solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,6 +240,8 @@
   },
   "active": "fdb57a7fd2339f5e",
   "lastOpenFiles": [
+    "Data Structure and Algorithm/Assignment 4/Problem 1.md",
+    "Computer programming 1/Midterm - solution.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
     "Electronics and Devices/Bipolar junction transistors/The operating regions of the bipolar transistor/The operating regions of the bipolar transistor.md",
@@ -251,7 +253,6 @@
     "Data Structure and Algorithm/Assignment 4/Problem 4.md",
     "Data Structure and Algorithm/Assignment 4/Problem 3.md",
     "Data Structure and Algorithm/Assignment 4/Problem 2.md",
-    "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Four-Resistor Bias Network/Four-Resistor Bias Network.md",
     "Index.canvas",
     "Computer programming 1",
@@ -268,7 +269,6 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/The Median.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/The Mean.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Categorical Data and Sample Propositions.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Measures of Locations.md",
     "Data Structure and Algorithm/Assignment 2",
     "Data Structure and Algorithm",
     "Probability and Statistics for Engineering/Homework/context.mdb",
