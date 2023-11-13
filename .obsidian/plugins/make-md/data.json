@@ -56,6 +56,7 @@
       "LoRa/Fundamentals"
     ],
     "21ES": [
+      "21ES/Họp chủ nhiệm",
       "21ES/Họp chủ nhiệm"
     ],
     "Probability and Statistics for Engineering": [
@@ -75,8 +76,8 @@
     null,
     "Electronics and Devices 2",
     "/",
-    null,
-    "Data Structure and Algorithm"
+    "21ES",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -113,6 +114,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697875813058,
+  "spacesAutoBackupLast": 1699854711244,
   "spacesUseAlias": false
 }
