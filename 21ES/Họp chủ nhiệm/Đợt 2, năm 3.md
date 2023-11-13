@@ -1,3 +1,4 @@
 - Đã hoàn thành thi giữa kỳ và chỉ còn khoảng từ 3 đến 4 tuần là kết thúc học phần và chuẩn bị cho thi cuối kỳ. Nhắc nhở sinh viên chú ý theo dõi lịch thi cá nhân trên trang sv
 - Lịch thi cuối kỳ (đối với những học phần chung) sẽ bắt đầu từ ngày 13/12 và kết thúc vào 05/01).
+- Huỳnh Nguyên Tấn vắng mặt từ đầu năm, cân nhắc đã nghỉ học
 - 
