@@ -5,4 +5,10 @@
 - Hiện tại bạn Hòa đã bảo lưu và đi du học nên lớp đang trống 2 vị trí thủ quỹ và ủy viên. Tạm thời lớp trưởng sẽ chịu trách nhiệm cho việc quản lý quỹ (trong nội học kỳ hiện tại).
 - Bạn Huỳnh Nguyên Tấn không thấy có mặt trong tất cả các học phần từ đầu năm, cân nhắc nghỉ học.
 - Tình hình nộp quỹ lớp: 
-	- 
+	- Số tiền: 20k / người
+	- Danh sách chưa nộp: 
+		- Hồ Dương Chí Cường
+		- Trương Ngọc Thắng
+		- Nguyễn Viết Anh Quân
+		- Phạm Anh Hào
+		- Phạm Hữu Phước
