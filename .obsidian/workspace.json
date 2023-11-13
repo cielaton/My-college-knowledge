@@ -154,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,7 +192,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,10 +234,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fdb57a7fd2339f5e",
+  "active": "21a132be76e67910",
   "lastOpenFiles": [
-    "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
     "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
+    "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
     "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
     "Computer programming 1/Midterm - solution.md",
     "Data Structure and Algorithm/Assignment 4/Problem 1.md",
