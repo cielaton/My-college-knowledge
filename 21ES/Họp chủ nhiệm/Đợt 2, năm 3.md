@@ -1,7 +1,6 @@
 - Đã hoàn thành thi giữa kỳ và chỉ còn khoảng từ 3 đến 4 tuần là kết thúc học phần và chuẩn bị cho thi cuối kỳ. Nhắc nhở sinh viên chú ý theo dõi lịch thi cá nhân trên trang sv
 - Lịch thi cuối kỳ (đối với những học phần chung) sẽ bắt đầu từ ngày 13/12 và kết thúc vào 05/01).
-- Huỳnh Nguyên Tấn vắng mặt từ đầu năm, cân nhắc đã nghỉ học
-- Nhà trường đã có thông báo thu học phí học kỳ 1 năm học 2023 - 2024 đợt cuối (từ ngày 20 - 20 /11). Quá hạn có thể bị khóa website và ảnh hưởng đến việc đăng kí học học kỳ 2 (dự kiến diễn ra vào 30/11).
+- Nhà trường đã có thông báo thu học phí học kỳ 1 năm học 2023 - 2024 đợt cuối (từ ngày 20 - 30 /11). Quá hạn có thể bị khóa website và ảnh hưởng đến việc đăng kí học học kỳ 2 (dự kiến diễn ra vào 30/11).
 - Hiện tại bạn Hòa đã bảo lưu và đi du học nên lớp đang trống 2 vị trí thủ quỹ và ủy viên. Tạm thời lớp trưởng sẽ chịu trách nhiệm cho việc quản lý quỹ (trong nội học kỳ hiện tại).
 - Bạn Huỳnh Nguyên Tấn không thấy có mặt trong tất cả các học phần từ đầu năm, cân nhắc nghỉ học.
 - Tình hình nộp quỹ lớp: 
