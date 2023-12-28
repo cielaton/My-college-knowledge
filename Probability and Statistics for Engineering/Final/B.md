@@ -1,0 +1,1 @@
+A public bus company official claims that mean waiting time for bus number 14 during peak hours is less than 10 minutes and the waiting

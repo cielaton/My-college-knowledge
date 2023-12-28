@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Probability and Statistics for Engineering/Final/A.md",
+                    "file": "Probability and Statistics for Engineering/Final/B.md",
                     "mode": "source",
                     "source": false
                   }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics for Engineering/Final/A.md",
+                "file": "Probability and Statistics for Engineering/Final/B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics for Engineering/Final/A.md"
+                "file": "Probability and Statistics for Engineering/Final/B.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics for Engineering/Final/A.md",
+                "file": "Probability and Statistics for Engineering/Final/B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
