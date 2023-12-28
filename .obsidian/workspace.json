@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
+                    "file": "Probability and Statistics for Engineering/Final/A.md",
                     "mode": "source",
                     "source": false
                   }
@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+                "file": "Probability and Statistics for Engineering/Final/A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md"
+                "file": "Probability and Statistics for Engineering/Final/A.md"
               }
             }
           },
@@ -195,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+                "file": "Probability and Statistics for Engineering/Final/A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,8 +239,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21a132be76e67910",
+  "active": "fdb57a7fd2339f5e",
   "lastOpenFiles": [
+    "Probability and Statistics for Engineering/Final/B.md",
+    "Probability and Statistics for Engineering/Final/A.md",
+    "Probability and Statistics for Engineering/Final",
     "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
     "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
     "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
@@ -267,8 +271,6 @@
     "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Practical Bias Circuit for the BJT.md",
     "Electronics and Devices/Electronics and Devices.md",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Boxplots.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/The Median.md",
     "Data Structure and Algorithm/Assignment 2",
     "Data Structure and Algorithm",
     "Probability and Statistics for Engineering/Homework/context.mdb",
@@ -285,7 +287,6 @@
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Pasted image 20230903233117.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903224206.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222833.png",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222647.png",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",

@@ -41,9 +41,8 @@
       "LoRa/Fundamentals",
       "Computer programming 2/Assignment 3",
       "Data Structure and Algorithm/Assignment 4",
-      "Data Structure and Algorithm",
-      "Excalidraw",
-      "Computer programming 1"
+      "Probability and Statistics for Engineering",
+      "Probability and Statistics for Engineering/Final"
     ],
     "Electronics and Devices": [
       "Electronics and Devices/BJT Amplifiers/Amplification",
@@ -114,6 +113,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1699854711244,
+  "spacesAutoBackupLast": 1703729303575,
   "spacesUseAlias": false
 }
