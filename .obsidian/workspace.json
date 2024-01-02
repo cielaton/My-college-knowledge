@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -241,8 +240,8 @@
   },
   "active": "fdb57a7fd2339f5e",
   "lastOpenFiles": [
-    "Probability and Statistics for Engineering/Final/B.md",
     "Probability and Statistics for Engineering/Final/A.md",
+    "Probability and Statistics for Engineering/Final/B.md",
     "Probability and Statistics for Engineering/Final",
     "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
     "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
