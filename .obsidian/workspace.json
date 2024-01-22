@@ -42,7 +42,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
+                    "file": "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
                     "mode": "source",
                     "source": false
                   }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
+                "file": "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md"
+                "file": "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
+                "file": "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,12 +254,21 @@
   },
   "active": "09378e4d7139078c",
   "lastOpenFiles": [
+    "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
+    "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Abstraction.md",
+    "Pasted image 20240122110301.png",
+    "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/RTL and gate-level modelingRTL.md",
+    "FPGA-Verilog/SystemVerilog Simulation and Synthesis/SystemVerilog Simulation and Synthesis.md",
+    "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling",
+    "FPGA-Verilog/FPGA-Verilog.md",
+    "FPGA-Verilog/SystemVerilog Simulation and Synthesis",
+    "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
+    "FPGA-Verilog",
     "Probability and Statistics for Engineering/Final/A.md",
     "Probability and Statistics for Engineering/Final/B.md",
     "Probability and Statistics for Engineering/Final",
     "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
     "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
-    "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
     "Computer programming 1/Midterm - solution.md",
     "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
@@ -279,28 +288,19 @@
     "Computer programming 2/Assignment 1/Exercise 7.md",
     "Data Structure and Algorithm/Assignment 4",
     "Data Structure and Algorithm/Untitled.md",
-    "Excalidraw/Drawing 2023-08-25 18.04.35.excalidraw.md",
-    "Untitled 1.md",
-    "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Practical Bias Circuit for the BJT.md",
-    "Electronics and Devices/Electronics and Devices.md",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Measures of Variability for Sample Data.md",
     "Data Structure and Algorithm/Assignment 2",
     "Data Structure and Algorithm",
     "Probability and Statistics for Engineering/Homework/context.mdb",
     "Probability and Statistics for Engineering/Learning",
-    "Probability and Statistics for Engineering/Lesson 1/Untitled",
-    "Probability and Statistics for Engineering/Homework",
     "Pasted image 20230904153025.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904153037.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904132200.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904133111.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904123414.png",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Pasted image 20230903230447.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Locations/Pasted image 20230903233117.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903224206.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222833.png",
-    "Probability and Statistics for Engineering/Learning/Lesson 1/Pictorial and Tabular Methods in Descriptive Statistics/Histograms/Pasted image 20230903222647.png",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
     "Untitled.canvas",

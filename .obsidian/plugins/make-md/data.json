@@ -36,13 +36,14 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Electronics and Devices/BJT Amplifiers",
-      "Electronics and Devices/BJT Amplifiers",
       "LoRa/Fundamentals",
       "Computer programming 2/Assignment 3",
       "Data Structure and Algorithm/Assignment 4",
-      "Probability and Statistics for Engineering",
-      "Probability and Statistics for Engineering/Final"
+      "Probability and Statistics for Engineering/Final",
+      "FPGA-Verilog",
+      "FPGA-Verilog/SystemVerilog Simulation and Synthesis",
+      "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling",
+      "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling"
     ],
     "Electronics and Devices": [
       "Electronics and Devices/BJT Amplifiers/Amplification",
@@ -75,9 +76,7 @@
     null,
     "Electronics and Devices 2",
     "/",
-    "21ES",
-    null,
-    "Data Structure and Algorithm"
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -114,6 +113,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1703729303575,
+  "spacesAutoBackupLast": 1705896346761,
   "spacesUseAlias": false
 }

@@ -34,7 +34,8 @@
     "boxplot",
     "Dotplot",
     "Boxplot",
-    ""
+    "",
+    "SystemVerilog"
   ],
   "vimMode": true,
   "promptDelete": false,
