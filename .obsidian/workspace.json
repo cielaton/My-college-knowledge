@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques/Useful Modeling Techniques.md",
+                "file": "FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques/Useful Modeling Techniques.md"
+                "file": "FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques/Useful Modeling Techniques.md",
+                "file": "FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "7852408ee99c2174",
+  "active": "b3bd0f343df8ba2f",
   "lastOpenFiles": [
     "FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
     "FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques/Useful Modeling Techniques.md",
