@@ -18,7 +18,7 @@
                 "state": {
                   "type": "mk-space",
                   "state": {
-                    "path": "FPGA-Verilog"
+                    "path": "FPGA-Verilog/Basic Verilog topics"
                   }
                 }
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FPGA-Verilog/FPGA-Verilog.md",
+                "file": "FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques/Useful Modeling Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FPGA-Verilog/FPGA-Verilog.md"
+                "file": "FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques/Useful Modeling Techniques.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FPGA-Verilog/FPGA-Verilog.md",
+                "file": "FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques/Useful Modeling Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,45 +233,46 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "23e7bdf8fac7fc72",
+  "active": "7852408ee99c2174",
   "lastOpenFiles": [
     "FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
+    "FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques/Useful Modeling Techniques.md",
+    "FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques",
+    "FPGA-Verilog/Basic Verilog topics/Behavioral Modeling/Behavioral Modeling.md",
+    "FPGA-Verilog/Basic Verilog topics/Tasks and Functions/Tasks and Functions.md",
+    "FPGA-Verilog/Basic Verilog topics/Tasks and Functions",
+    "FPGA-Verilog/Basic Verilog topics/Dataflow Modeling/Dataflow Modeling.md",
+    "FPGA-Verilog/Basic Verilog topics/Behavioral Modeling",
+    "FPGA-Verilog/Basic Verilog topics/Gate-Level Modeling/Gate-Level Modeling.md",
+    "FPGA-Verilog/Basic Verilog topics/Dataflow Modeling",
+    "FPGA-Verilog/Basic Verilog topics/Modules and Ports/Modules and Ports.md",
+    "FPGA-Verilog/Basic Verilog topics/Gate-Level Modeling",
+    "FPGA-Verilog/Basic Verilog topics/Basic Concepts/Basic Concepts.md",
+    "FPGA-Verilog/Basic Verilog topics/Modules and Ports",
+    "FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Hierarchical Modeling Concepts.md",
+    "FPGA-Verilog/Basic Verilog topics/Basic Concepts",
+    "FPGA-Verilog/Basic Verilog topics/Overview of Digital Design with Verilog HDL/Overview of Digital Design with Verilog HDL.md",
+    "FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts",
+    "Pasted image 20240122110301.png",
+    "FPGA-Verilog/Basic Verilog topics/Overview of Digital Design with Verilog HDL",
     "FPGA-Verilog/FPGA-Verilog.md",
+    "Electronics and Devices/Electronics and Devices.md",
     "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
     "Probability and Statistics for Engineering/Final/B.md",
     "Spaces/Home",
-    "Spaces",
-    "FPGA-Verilog/Basic Verilog topics",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Abstraction.md",
-    "Pasted image 20240122110301.png",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/RTL and gate-level modelingRTL.md",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/SystemVerilog Simulation and Synthesis.md",
-    "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling",
-    "FPGA-Verilog/SystemVerilog Simulation and Synthesis",
     "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
-    "FPGA-Verilog",
     "Probability and Statistics for Engineering/Final/A.md",
-    "Probability and Statistics for Engineering/Final",
     "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
     "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
     "Computer programming 1/Midterm - solution.md",
     "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
     "Electronics and Devices/Bipolar junction transistors/The operating regions of the bipolar transistor/The operating regions of the bipolar transistor.md",
-    "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
-    "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
-    "Computer programming 1/Midterm - 20_ECE.md",
-    "Excalidraw/Drawing 2023-09-11 09.09.42.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-18 21.45.05.excalidraw.md",
-    "Data Structure and Algorithm/Assignment 4/Problem 4.md",
-    "Data Structure and Algorithm/Assignment 4/Problem 3.md",
-    "Data Structure and Algorithm/Assignment 4/Problem 2.md",
-    "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Four-Resistor Bias Network/Four-Resistor Bias Network.md",
     "Index.canvas",
-    "Computer programming 1",
-    "Data Structure and Algorithm/Assignment 4",
-    "Data Structure and Algorithm/Assignment 2",
     "Pasted image 20230904153025.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904153037.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904132200.png",

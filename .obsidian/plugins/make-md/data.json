@@ -41,7 +41,10 @@
     null,
     "//FPGA-Verilog/FPGA-Verilog/Basic Verilog topics",
     "//FPGA-Verilog",
-    "//FPGA-Verilog"
+    "//FPGA-Verilog",
+    "//FPGA-Verilog",
+    "//FPGA-Verilog/FPGA-Verilog/Basic Verilog topics",
+    "//FPGA-Verilog/FPGA-Verilog/Basic Verilog topics"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
