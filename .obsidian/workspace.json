@@ -42,14 +42,32 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
+                    "file": "FPGA-Verilog/FPGA-Verilog.md",
                     "mode": "source",
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "eeb609293b2e3625",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6dcd4d086eeabaaa",
+                "type": "leaf",
+                "state": {
+                  "type": "make-file-view",
+                  "state": {
+                    "path": "https://www.make.md/static/latest.md"
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           },
           {
             "id": "6b35c51582879427",
@@ -115,7 +133,15 @@
             }
           },
           {
-            "id": "d3231d2caf1ab20b",
+            "id": "b25f0bb089d7b5c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "fae6badba466dc2a",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -123,15 +149,15 @@
             }
           },
           {
-            "id": "b25f0bb089d7b5c6",
+            "id": "23e7bdf8fac7fc72",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "mk-path-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -166,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
+                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md"
+                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md"
               }
             }
           },
@@ -207,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
+                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,20 +273,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "09378e4d7139078c",
+  "active": "6dcd4d086eeabaaa",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
+    "FPGA-Verilog/FPGA-Verilog.md",
+    "FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
+    "FPGA-Verilog/Basic Verilog topics",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Abstraction.md",
     "Pasted image 20240122110301.png",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/RTL and gate-level modelingRTL.md",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/SystemVerilog Simulation and Synthesis.md",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling",
-    "FPGA-Verilog/FPGA-Verilog.md",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis",
     "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
     "FPGA-Verilog",
@@ -285,13 +315,9 @@
     "Electronics and Devices/Bipolar junction transistors/Practical Bias Circuit for the BJT/Four-Resistor Bias Network/Four-Resistor Bias Network.md",
     "Index.canvas",
     "Computer programming 1",
-    "Computer programming 2/Assignment 1/Exercise 7.md",
     "Data Structure and Algorithm/Assignment 4",
-    "Data Structure and Algorithm/Untitled.md",
     "Data Structure and Algorithm/Assignment 2",
     "Data Structure and Algorithm",
-    "Probability and Statistics for Engineering/Homework/context.mdb",
-    "Probability and Statistics for Engineering/Learning",
     "Pasted image 20230904153025.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904153037.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904132200.png",

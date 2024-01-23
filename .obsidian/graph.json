@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Electronics and Devices\"",
+      "query": "path:\"Electronics and Devices 2\" path:",
       "color": {
         "a": 1,
         "rgb": 15495115
@@ -43,7 +43,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -53,6 +53,6 @@
   "repelStrength": 9.47916666666667,
   "linkStrength": 1,
   "linkDistance": 194,
-  "scale": 0.07364811976545323,
+  "scale": 0.11009953777250668,
   "close": true
 }
