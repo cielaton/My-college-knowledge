@@ -38,7 +38,10 @@
     null,
     "Electronics and Devices 2",
     "/",
-    null
+    null,
+    "//FPGA-Verilog/FPGA-Verilog/Basic Verilog topics",
+    "//FPGA-Verilog",
+    "//FPGA-Verilog"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

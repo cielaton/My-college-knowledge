@@ -13,61 +13,16 @@
             "dimension": 73.95833333333333,
             "children": [
               {
-                "id": "f6a4283a39449348",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fdb57a7fd2339f5e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Probability and Statistics for Engineering/Final/B.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "09378e4d7139078c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "mk-space",
                   "state": {
-                    "file": "FPGA-Verilog/FPGA-Verilog.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "eeb609293b2e3625",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "6dcd4d086eeabaaa",
-                "type": "leaf",
-                "state": {
-                  "type": "make-file-view",
-                  "state": {
-                    "path": "https://www.make.md/static/latest.md"
+                    "path": "FPGA-Verilog"
                   }
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "6b35c51582879427",
@@ -192,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+                "file": "FPGA-Verilog/FPGA-Verilog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md"
+                "file": "FPGA-Verilog/FPGA-Verilog.md"
               }
             }
           },
@@ -233,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+                "file": "FPGA-Verilog/FPGA-Verilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,12 +233,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6dcd4d086eeabaaa",
+  "active": "23e7bdf8fac7fc72",
   "lastOpenFiles": [
+    "FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
+    "FPGA-Verilog/FPGA-Verilog.md",
+    "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
+    "Probability and Statistics for Engineering/Final/B.md",
     "Spaces/Home",
     "Spaces",
-    "FPGA-Verilog/FPGA-Verilog.md",
-    "FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
     "FPGA-Verilog/Basic Verilog topics",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Abstraction.md",
@@ -295,14 +252,12 @@
     "Data Structure and Algorithm/Assignment 2/Assignment 1.md",
     "FPGA-Verilog",
     "Probability and Statistics for Engineering/Final/A.md",
-    "Probability and Statistics for Engineering/Final/B.md",
     "Probability and Statistics for Engineering/Final",
     "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
     "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
     "Computer programming 1/Midterm - solution.md",
     "Data Structure and Algorithm/Assignment 4/Problem 1.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Diode circuit analysis/Diode circuits analysis.md",
-    "Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
     "Electronics and Devices/Bipolar junction transistors/The operating regions of the bipolar transistor/The operating regions of the bipolar transistor.md",
     "Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
     "Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
@@ -317,7 +272,6 @@
     "Computer programming 1",
     "Data Structure and Algorithm/Assignment 4",
     "Data Structure and Algorithm/Assignment 2",
-    "Data Structure and Algorithm",
     "Pasted image 20230904153025.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904153037.png",
     "Probability and Statistics for Engineering/Learning/Lesson 1/Measures of Variability/Pasted image 20230904132200.png",
