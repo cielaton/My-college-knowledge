@@ -1,6 +1,15 @@
 ![[Pasted image 20240124202235.png]]
-
+ 
 ---
+#### References:
+
+![[Pasted image 20240124205523.png]]
+
+![[Pasted image 20240124210135.png]]
+
+![[Pasted image 20240124210152.png]]
+
+
 #### Solution:
 
 ==Exercise 2:== Write the expression
