@@ -1,5 +1,0 @@
-1. [[Simplified model for the cutoff region]]
-2. [[Simplified model for the forward-active region]]
-3. [[Simplified model for the reverse-active region]]
-4. [[Modeling operation in the saturation region]]
-5. [[Diodes in bipolar integrated circuits]]

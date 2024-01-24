@@ -1,6 +1,0 @@
-1. [[Sets]]
-2. [[Propositions]]
-3. [[Conditional Propositions and Logical Equivalence]]
-4. [[Arguments and Rules of Inference]]
-5. [[Quantifiers]]
-6. [[Nested Quantifiers]]

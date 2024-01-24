@@ -1,0 +1,7 @@
+1. [[Year 2 - Semester 2/Computer programming 2/Assignment 4/Exercise 1]]
+2. [[Year 2 - Semester 2/Computer programming 2/Assignment 4/Exercise 2]]
+3. [[Year 2 - Semester 2/Computer programming 2/Assignment 4/Exercise 3]]
+4. [[Year 2 - Semester 2/Computer programming 2/Assignment 4/Exercise 4]]
+5. [[Year 2 - Semester 2/Computer programming 2/Assignment 4/Exercise 5]]
+6. [[Year 2 - Semester 2/Computer programming 2/Assignment 4/Exercise 6]]
+7. [[Year 2 - Semester 2/Computer programming 2/Assignment 4/Exercise 7]]
