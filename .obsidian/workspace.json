@@ -24,11 +24,9 @@
                 "id": "55c4a8d165674c3b",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "mk-space",
                   "state": {
-                    "file": "Year 3 - Semester 2/Signal and Systems/Homework/Week 1.md",
-                    "mode": "preview",
-                    "source": false
+                    "path": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts"
                   }
                 }
               },
@@ -73,7 +71,7 @@
       {
         "id": "f372fa0be789290b",
         "type": "tabs",
-        "dimension": 59.446092977250245,
+        "dimension": 50.64420218037661,
         "children": [
           {
             "id": "9f1e38fcebc82a6a",
@@ -138,7 +136,7 @@
       {
         "id": "2ef7a3f21d3be403",
         "type": "tabs",
-        "dimension": 40.553907022749755,
+        "dimension": 49.35579781962339,
         "children": [
           {
             "id": "21a132be76e67910",
@@ -152,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 427
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -168,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3 - Semester 2/Signal and Systems/Homework/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 3 - Semester 2/Signal and Systems/Homework/Week 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,7 +204,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3 - Semester 2/Signal and Systems/Homework/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,12 +248,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "55c4a8d165674c3b",
+  "active": "21a132be76e67910",
   "lastOpenFiles": [
+    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Hierarchical Modeling Concepts.md",
+    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Design Methodologies.md",
+    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Pasted image 20240126103723.png",
+    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Pasted image 20240126103741.png",
+    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies",
+    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
+    "Year 3 - Semester 2/Signal and Systems/Homework/Week 1.md",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124202235.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240125095557.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240125095414.png",
-    "Year 3 - Semester 2/Signal and Systems/Homework/Week 1.md",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124211121.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124210728.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124210152.png",
@@ -278,7 +278,6 @@
     "Year 2 - Semester 2/Year 2 - Semester 2.md",
     "Year 2 - Semester 1/Year 2 - Semester 1.md",
     "Year 2 - Semester 2",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
     "Year 2 - Semester 1",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques/Useful Modeling Techniques.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques",
@@ -288,20 +287,15 @@
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Dataflow Modeling/Dataflow Modeling.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Behavioral Modeling",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Gate-Level Modeling/Gate-Level Modeling.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Dataflow Modeling",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Modules and Ports/Modules and Ports.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Basic Concepts/Basic Concepts.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Hierarchical Modeling Concepts.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Overview of Digital Design with Verilog HDL/Overview of Digital Design with Verilog HDL.md",
-    "Pasted image 20240122110301.png",
     "Year 3 - Semester 2/FPGA-Verilog/FPGA-Verilog.md",
     "Year 2 - Semester 1/Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
     "Probability and Statistics for Engineering/Final/B.md",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Abstraction.md",
-    "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/RTL and gate-level modelingRTL.md",
     "Index.canvas",
-    "Pasted image 20230904153025.png",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
     "Untitled.canvas",

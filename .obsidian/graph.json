@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:\"Year 3 - Semester 2/FPGA-Verilog\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16731469
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 9.47916666666667,
   "linkStrength": 1,
   "linkDistance": 194,
-  "scale": 0.07826639901010644,
+  "scale": 0.09618080537455814,
   "close": true
 }
