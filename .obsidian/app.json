@@ -35,7 +35,9 @@
     "Dotplot",
     "Boxplot",
     "",
-    "SystemVerilog"
+    "SystemVerilog",
+    "endmodule",
+    "T-flipflop"
   ],
   "vimMode": true,
   "promptDelete": false,
