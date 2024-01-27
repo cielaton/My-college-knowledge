@@ -29,3 +29,5 @@ module T_FF (q, clock, reset);
 endmodule
 ```
 
+---
+Verilog is both a behavioral and structural language. Internals of each module can be defined at *four* levels of abstraction, depending on the needs of the design.
