@@ -31,3 +31,7 @@ endmodule
 
 ---
 Verilog is both a behavioral and structural language. Internals of each module can be defined at *four* levels of abstraction, depending on the needs of the design.
+- Behavioral or algorithmic level
+	This is the highest level of abstraction provided by Verilog HDL. A module can be implemented in terms of the design algorithm without concern for the hardware implementation details. Designing at this level is very similar to C programming.
+- Dataflow level
+	The module is designed by specifying the data flow. The designer is aware of how data flows between hardware registers and how the data is processed in the design.

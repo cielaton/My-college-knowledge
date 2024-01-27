@@ -37,7 +37,8 @@
     "",
     "SystemVerilog",
     "endmodule",
-    "T-flipflop"
+    "T-flipflop",
+    "Dataflow"
   ],
   "vimMode": true,
   "promptDelete": false,
