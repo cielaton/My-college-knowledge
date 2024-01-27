@@ -35,3 +35,8 @@ Verilog is both a behavioral and structural language. Internals of each module c
 	This is the highest level of abstraction provided by Verilog HDL. A module can be implemented in terms of the design algorithm without concern for the hardware implementation details. Designing at this level is very similar to C programming.
 - Dataflow level
 	The module is designed by specifying the data flow. The designer is aware of how data flows between hardware registers and how the data is processed in the design.
+- Gate level
+	The module is implemented in terms of logic gates and interconnections between these gates.
+- Switch level
+	This is the lowest level of abstraction provided by Verilog. A module can be implemented in terms of switches, storage nodes, and the interconnections between them. 
+

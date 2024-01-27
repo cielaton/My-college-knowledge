@@ -166,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules/Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules/Modules.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,7 +204,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules/Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +248,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "675904d4bd2ec0b5",
+  "active": "55c4a8d165674c3b",
   "lastOpenFiles": [
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules/Modules.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules",
