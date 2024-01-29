@@ -40,3 +40,7 @@ Verilog is both a behavioral and structural language. Internals of each module c
 - Switch level
 	This is the lowest level of abstraction provided by Verilog. A module can be implemented in terms of switches, storage nodes, and the interconnections between them. 
 
+The term *register transfer level* (**RTL**) is frequently used for a Verilog description that uses a combination of behavior and data flow constructs and is acceptable to logic synthesis tools.
+
+> In the higher level language such as C, the program can be easily ported to any machine. However, assembly cannot replicate the same behavior.
+

@@ -26,7 +26,7 @@
                 "state": {
                   "type": "mk-space",
                   "state": {
-                    "path": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules"
+                    "path": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances"
                   }
                 }
               },
@@ -166,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances/Instances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances/Instances.md"
+              }
             }
           },
           {
@@ -204,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances/Instances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,8 +252,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "55c4a8d165674c3b",
+  "active": "0dce450d33903c64",
   "lastOpenFiles": [
+    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances/Instances.md",
+    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules/Modules.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Hierarchical Modeling Concepts.md",
@@ -285,7 +291,6 @@
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Behavioral Modeling/Behavioral Modeling.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Tasks and Functions/Tasks and Functions.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Tasks and Functions",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Dataflow Modeling/Dataflow Modeling.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Gate-Level Modeling/Gate-Level Modeling.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Modules and Ports/Modules and Ports.md",
@@ -295,7 +300,6 @@
     "Year 2 - Semester 1/Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
     "Probability and Statistics for Engineering/Final/B.md",
     "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
-    "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Abstraction.md",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
