@@ -16,32 +16,15 @@
                 "id": "09378e4d7139078c",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "55c4a8d165674c3b",
-                "type": "leaf",
-                "state": {
-                  "type": "mk-space",
+                  "type": "markdown",
                   "state": {
-                    "path": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances"
-                  }
-                }
-              },
-              {
-                "id": "bc44b62282cffa27",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124202235.png"
+                    "file": "Archinstall documentation.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "6b35c51582879427",
@@ -166,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances/Instances.md",
+                "file": "Archinstall documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances/Instances.md"
+                "file": "Archinstall documentation.md"
               }
             }
           },
@@ -207,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances/Instances.md",
+                "file": "Archinstall documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,8 +235,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0dce450d33903c64",
+  "active": "09378e4d7139078c",
   "lastOpenFiles": [
+    "Archinstall documentation.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances/Instances.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules/Modules.md",
@@ -299,7 +283,6 @@
     "Year 3 - Semester 2/FPGA-Verilog/FPGA-Verilog.md",
     "Year 2 - Semester 1/Electronics and Devices/BJT Amplifiers/Amplification/Amplification.md",
     "Probability and Statistics for Engineering/Final/B.md",
-    "FPGA-Verilog/SystemVerilog Simulation and Synthesis/RTL and gate-level modeling/Gate-level models.md",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
