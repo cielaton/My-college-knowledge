@@ -50,6 +50,9 @@ In the end, there will be a prompt that asks if you want to get into the chroot 
 >If there is any issue with the status bar, the terminal, ... Please contact me as soon as possible to resolve it.
 
 **Network configuration**: There will be a network icon on the left side of status bar, you can use it to interact with network manager.
+
+**Screen sharing**: Install pipewire and wireplumber, everything else has been configured
+`sudo pacman -S pipewire wireplumber`
 #### Key binding:
 
 *Meta*: The Windows key

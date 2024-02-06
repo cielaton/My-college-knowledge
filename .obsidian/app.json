@@ -44,7 +44,9 @@
     "pacman",
     "p",
     "Pulseaudio",
-    " the c"
+    " the c",
+    "pipewire",
+    "wireplumber"
   ],
   "vimMode": true,
   "promptDelete": false,
