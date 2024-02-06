@@ -39,14 +39,23 @@ After the ISO has been booted up, the terminal will launch automatically. Some f
 In the end, there will be a prompt that asks if you want to get into the chroot environment, choose no, unplug the USB, and restart the machine into the fresh Archlinux with Hyprland environment.
 
 #### Post-installation:
-**Network configuration**: 
-
 If there is any issue with the status bar, the terminal, ... Please contact me as soon as possible to resolve it.
 
+**Network configuration**: 
 #### Key binding:
 
 *Meta*: The Windows key
 
 **Application launcher**: Meta + d
 **Terminal**: Meta + Enter
+**Power menu**: Meta + x
+**Screen shot**: Meta + s
+
+**Kill window**: Meta + Shift + q
+**Toggle full screen**: Meta + F
+**Toggle floating**: Meta + Space
+**Move between workspaces**: Meta + 1, 2, 3, 4, 5, 6 or using 3 fingers swipe gesture on the touchpad.
+**Send window to workspace**: Meta + Shift + 1, 2, 3, 4, 5, 6
+**Move window**: Hold Meta key and use left mouse button
+**Resize window**: Hold Meta key and use right mouse button
 
