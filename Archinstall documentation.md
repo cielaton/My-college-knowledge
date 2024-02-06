@@ -11,7 +11,7 @@ and connect.
 > The password for the hyprland user: kietvo17112003
 
 1. Inside the terminal, type in 
-	`sudo archinstall --config faisal.config`
+	`sudo archinstall --config faisal.json`
 	This will launch the installation script. 
 2. **Archinstall language**: Choose the language you prefer.
 3. **Mirrors** -> Mirror region: Choose your region, this will affect the package download process in pacman.
