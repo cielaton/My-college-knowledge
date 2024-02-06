@@ -58,4 +58,3 @@ If there is any issue with the status bar, the terminal, ... Please contact me a
 **Send window to workspace**: Meta + Shift + 1, 2, 3, 4, 5, 6
 **Move window**: Hold Meta key and use left mouse button
 **Resize window**: Hold Meta key and use right mouse button
-
