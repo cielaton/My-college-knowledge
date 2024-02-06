@@ -39,7 +39,11 @@
     "endmodule",
     "T-flipflop",
     "Dataflow",
-    "waybar"
+    "waybar",
+    "Archinstall",
+    "pacman",
+    "p",
+    "Pulseaudio"
   ],
   "vimMode": true,
   "promptDelete": false,
