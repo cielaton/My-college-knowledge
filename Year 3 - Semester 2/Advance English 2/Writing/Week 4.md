@@ -1,1 +1,1 @@
-The line graph illustrates the number of closed and opened stores in one country over a period of 7 years starting from 2011. As can be seen from the graph, 
+The line graph illustrates the number of closed and opened stores in one country over a period of 7 years starting from 2011. As can be seen from the graph, there is a similar fluctuation in the changes of closed and opened shops over the years. From 2011 to 2012
