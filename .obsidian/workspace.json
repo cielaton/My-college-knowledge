@@ -16,10 +16,8 @@
                 "id": "09378e4d7139078c",
                 "type": "leaf",
                 "state": {
-                  "type": "mk-space",
-                  "state": {
-                    "path": "Year 3 - Semester 2/Advance English 2/Writing"
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ]
@@ -229,7 +227,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ad1125667e7e7851",
+  "active": "09378e4d7139078c",
   "lastOpenFiles": [
     "Year 3 - Semester 2/Advance English 2/Writing/Writing.md",
     "Year 3 - Semester 2/Advance English 2/Advance English 2.md",
