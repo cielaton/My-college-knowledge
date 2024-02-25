@@ -17,6 +17,6 @@
 >My hometown does not necessarily have any famous buildings, but it does have a few landmarks that are well-known in the area. One of them is the 29 March Park, a massive traditional park in the center of the city. 
 
 >[!question] In what type of building do most people in your hometown live?
-> The majority of people in my hometown live in a two-story house
+> The majority of people in my hometown live in a multi-story house and most of them looks the same. Some 
 
 
