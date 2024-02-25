@@ -20,6 +20,9 @@
 > The majority of people in my hometown live in a multi-story house and most of them looks the same. There are some apartments in my hometown as well, for people who prefer a fully equipped place with a reasonable price.
 
 >[!question] Should buildings be attractive to look at?
->It's depend on the building purpose and the owner. For example, a personal home does not need to be attractive, but it could be decorated 
+>It depends on the building's purpose and the owner. For example, a personal home does not need to be attractive, but it could be decorated by the owner's needs. A fire station, on the other hand, has to be painted red as a main color.
+
+>[!question] What is the most unusual building you have ever seen?
+> The administrative center of Da Nang city, located next to Hang river, has the shape of a corn. The building sometimes be called 
 
 
