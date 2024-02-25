@@ -10,6 +10,11 @@
 >Yes, of course, how can you live without English, especially in the technology era? I have realized the importance of this subject since I went to University. English is a necessary tool to obtain good documentation and information about every course I have taken.
 
 >[!question] What did you enjoy about being a school student?
-> Besides learning, creating
+> Besides learning, creating some good memories with teachers and friends is an indispensable part of being a school student. I was lucky to take part in a school's camping festival in secondary school, hanging out with friends on the beach in the early morning or late at night when we had nothing to do. That's something I will never forget.
+
+###### Buildings
+>[!question]
+>Are there any famous buildings in your home town?
+>
 
 
