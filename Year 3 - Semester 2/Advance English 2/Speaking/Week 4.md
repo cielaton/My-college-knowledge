@@ -23,6 +23,6 @@
 >It depends on the building's purpose and the owner. For example, a personal home does not need to be attractive, but it could be decorated by the owner's needs. A fire station, on the other hand, has to be painted red as a main color.
 
 >[!question] What is the most unusual building you have ever seen?
-> The administrative center of Da Nang city, located next to Hang river, has the shape of a corn. The building sometimes be called 
+> The administrative center of Da Nang City, located next to Hang River, has the shape of a corn. The most interesting part is, that local people called it "corn building" even more frequently than the actual name of the place. 
 
 
