@@ -17,6 +17,9 @@
 >My hometown does not necessarily have any famous buildings, but it does have a few landmarks that are well-known in the area. One of them is the 29 March Park, a massive traditional park in the center of the city. 
 
 >[!question] In what type of building do most people in your hometown live?
-> The majority of people in my hometown live in a multi-story house and most of them looks the same. Some 
+> The majority of people in my hometown live in a multi-story house and most of them looks the same. There are some apartments in my hometown as well, for people who prefer a fully equipped place with a reasonable price.
+
+>[!question] Should buildings be attractive to look at?
+>It's depend on the building purpose and the owner. For example, a personal home does not need to be attractive, but it could be decorated 
 
 
