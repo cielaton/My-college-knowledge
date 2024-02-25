@@ -13,8 +13,10 @@
 > Besides learning, creating some good memories with teachers and friends is an indispensable part of being a school student. I was lucky to take part in a school's camping festival in secondary school, hanging out with friends on the beach in the early morning or late at night when we had nothing to do. That's something I will never forget.
 
 ###### Buildings
->[!question]
->Are there any famous buildings in your home town?
->My hometown does not have any famous buildings, but it does have a few landmarks that are well-known in the area. One of them is the 29 March parks, a massive traditional park in the central of the city. 
+>[!question] Are there any famous buildings in your home town?
+>My hometown does not necessarily have any famous buildings, but it does have a few landmarks that are well-known in the area. One of them is the 29 March Park, a massive traditional park in the center of the city. 
+
+>[!question] In what type of building do most people in your hometown live?
+> The majority of people in my hometown live in a two-story house
 
 
