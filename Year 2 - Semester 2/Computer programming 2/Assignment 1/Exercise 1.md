@@ -4,13 +4,7 @@
 
 class Employee {
 private:
-  string name; Employee susan("Susan Meyers", 47899, "Accounting", "Vice President");
-  Employee mark("Mark Jones", 39119, "IT", "Programmer");
-  Employee joy("Joy Rogers", 81774, "Nanufacturing", "Engineer");
-
-  getInfo(susan);
-  getInfo(mark);
-  getInfo(joy);
+  string name;
   int idNumber;
   string department;
   string position;

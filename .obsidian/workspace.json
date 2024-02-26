@@ -18,8 +18,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Year 3 - Semester 2/Advance English 2/Speaking/Week 4.md",
-                    "mode": "source",
+                    "file": "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 1.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 3 - Semester 2/Advance English 2/Speaking/Week 4.md",
+                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 3 - Semester 2/Advance English 2/Speaking/Week 4.md"
+                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 1.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3 - Semester 2/Advance English 2/Speaking/Week 4.md",
+                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,8 +237,12 @@
   },
   "active": "09378e4d7139078c",
   "lastOpenFiles": [
-    "Year 3 - Semester 2/Advance English 2/Advance English 2.md",
+    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 2.md",
+    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 1.md",
+    "Year 2 - Semester 2/Computer programming 2/Computer programming 2.md",
+    "Year 3 - Semester 2/Year 3 - Semester 2.md",
     "Year 3 - Semester 2/Advance English 2/Speaking/Week 4.md",
+    "Year 3 - Semester 2/Advance English 2/Advance English 2.md",
     "Year 3 - Semester 2/Advance English 2/Speaking/Speaking.md",
     "Year 3 - Semester 2/Advance English 2/Writing/Week 4.md",
     "Year 3 - Semester 2/Advance English 2/Speaking",
@@ -269,7 +273,6 @@
     "Year 3 - Semester 2/Signal and Systems/Homework/Homework.md",
     "Year 3 - Semester 2/Signal and Systems/Signal and Systems.md",
     "Year 3 - Semester 2/Signal and Systems/Homework",
-    "Year 3 - Semester 2/Year 3 - Semester 2.md",
     "Year 3 - Semester 2/Signal and Systems",
     "Year 3 - Semester 1/Year 3 - Semester 1.md",
     "Year 3 - Semester 2",
@@ -280,9 +283,6 @@
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Useful Modeling Techniques/Useful Modeling Techniques.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Behavioral Modeling/Behavioral Modeling.md",
     "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Tasks and Functions/Tasks and Functions.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Dataflow Modeling/Dataflow Modeling.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Gate-Level Modeling/Gate-Level Modeling.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Modules and Ports/Modules and Ports.md",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
