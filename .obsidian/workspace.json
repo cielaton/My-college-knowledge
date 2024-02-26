@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 7.md",
+                    "file": "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 1.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 7.md",
+                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 7.md"
+                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 1.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 7.md",
+                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,6 +237,8 @@
   },
   "active": "09378e4d7139078c",
   "lastOpenFiles": [
+    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 8.md",
+    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 7.md",
     "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 6.md",
     "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 5.md",
     "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 3.md",
@@ -280,9 +282,7 @@
     "Year 3 - Semester 2/Signal and Systems",
     "Year 3 - Semester 1/Year 3 - Semester 1.md",
     "Year 3 - Semester 2",
-    "Year 2 - Semester 1/Electronics and Devices/Electronics and Devices.md",
     "Year 3 - Semester 1",
-    "Year 2 - Semester 2/Year 2 - Semester 2.md",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
