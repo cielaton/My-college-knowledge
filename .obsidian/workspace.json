@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 3.md",
+                    "file": "Về quê.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 259,
+    "collapsed": true
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 3.md",
+                "file": "Về quê.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 3.md"
+                "file": "Về quê.md"
               }
             }
           },
@@ -190,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 3.md",
+                "file": "Về quê.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,6 +238,8 @@
   },
   "active": "09378e4d7139078c",
   "lastOpenFiles": [
+    "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 3.md",
+    "Về quê.md",
     "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 2.md",
     "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 1.md",
     "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 8.md",
@@ -277,8 +280,6 @@
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124210728.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124210152.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124210135.png",
-    "Vault.md",
-    "Year 3 - Semester 2/Signal and Systems/Homework/Homework.md",
     "Year 3 - Semester 2/Signal and Systems/Homework",
     "Year 3 - Semester 2/Signal and Systems",
     "Year 3 - Semester 2",
