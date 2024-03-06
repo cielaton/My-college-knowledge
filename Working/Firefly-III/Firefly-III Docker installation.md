@@ -43,3 +43,19 @@ Install Docker:
 ```bash
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
+Verify that the Docker Engine installation is successful by running the `hello-world` image:
+```bash
+sudo docker run hello-world
+```
+Expected output:
+![[Screenshot_20240306_155718.png]]
+
+##### Firefly-III Docker
+Create a directory to store installation files:
+```bash
+mkdir firefly_install && cd firefly_install
+```
+Download the docker compose file:
+```bash
+wget https://raw.githubusercontent.com/firefly-iii/docker/main/docker-compose.yml
+```
