@@ -72,3 +72,12 @@ Using your favorite text editor:
 	For example: `DB_PASSWORD=none`
 - Change `MYSQL_PASSWORD` in `.db.env` to the SAME password value
 	For example: `MYSQL_PASSWORD=none`
+
+Start the container:
+```bash
+sudo docker compose -f docker-compose.yml up -d --pull=always
+```
+Expected output:
+![[Pasted image 20240306162051.png]]
+
+The default server is now up and running 
