@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III Docker installation.md",
-                "mode": "preview",
+                "file": "21ES/Họp chủ nhiệm/Kỳ 1, đợt .md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III Docker installation.md",
+                "file": "21ES/Họp chủ nhiệm/Kỳ 1, đợt .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III Docker installation.md"
+                "file": "21ES/Họp chủ nhiệm/Kỳ 1, đợt .md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III Docker installation.md",
+                "file": "21ES/Họp chủ nhiệm/Kỳ 1, đợt .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,12 +214,17 @@
   },
   "active": "60e7c06e177b3f3e",
   "lastOpenFiles": [
-    "Pasted image 20240306163210.png",
-    "Pasted image 20240306163010.png",
+    "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
+    "21ES/Họp chủ nhiệm/Kỳ 1, đợt .md",
+    "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
+    "Learning/Year 3 - Semester 2/Advance English 2/Writing/Pasted image 20240225133713.png",
+    "Working/Archinstall documentation.md",
+    "Working/Firefly-III/Pasted image 20240306162051.png",
+    "Working/Firefly-III/Firefly-III Docker installation.md",
+    "Working/Firefly-III/Pasted image 20240306163210.png",
+    "Working/Firefly-III/Pasted image 20240306163010.png",
     "Working/Firefly-III/Firefly-III installation guide.md",
     "Working/Firefly-III/Screenshot_20240306_155718.png",
-    "Working/Firefly-III/Firefly-III Docker installation.md",
-    "Pasted image 20240306162051.png",
     "Spaces/Home",
     "Spaces",
     "Working/Firefly-III/Firefly-III.md",
@@ -228,12 +233,10 @@
     "Vault.md",
     "Working/Firefly-III/Screenshot_20240306_111153.png",
     "Working/Firefly-III/Screenshot_20240306_110055.png",
-    "Pasted image 20240225133713.png",
     "Learning/Year 3 - Semester 1/Year 3 - Semester 1.md",
     "Learning/Learning.md",
     "Learning",
     "Working/Working.md",
-    "Archinstall documentation.md",
     "Working",
     "Untitled.md",
     "Về quê.md",
@@ -250,8 +253,6 @@
     "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 1.md",
     "Learning/Year 2 - Semester 2/Computer programming 2/Computer programming 2.md",
     "Learning/Year 3 - Semester 2/Year 3 - Semester 2.md",
-    "Learning/Year 3 - Semester 2/Advance English 2/Speaking/Week 4.md",
-    "Learning/Year 3 - Semester 2/Advance English 2/Advance English 2.md",
     "Learning/Year 3 - Semester 2/Advance English 2/Speaking",
     "Learning/Year 3 - Semester 2/Advance English 2/Writing",
     "Learning/Year 3 - Semester 2/Advance English 2",
@@ -259,7 +260,6 @@
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules",
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Pasted image 20240126103723.png",
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Pasted image 20240126103741.png",
-    "Learning/Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124202235.png",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
