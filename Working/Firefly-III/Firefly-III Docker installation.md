@@ -80,4 +80,18 @@ sudo docker compose -f docker-compose.yml up -d --pull=always
 Expected output:
 ![[Pasted image 20240306162051.png]]
 
-The default server is now up and running 
+>[!note]
+>The default server is now up and running.
+
+To access the site through an external device, make sure to connect to the same network as the server, and obtain the server IP address:
+```bash
+ip addr | grep enp0s3
+```
+For example, my output is:
+![[Pasted image 20240306163010.png]]
+The IP address is: `192.168.0.13`
+Open a browser from another device, then get to
+`http://192.168.0.13`
+Expected output:
+![[Pasted image 20240306163210.png]]
+

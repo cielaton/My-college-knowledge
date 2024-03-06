@@ -8,37 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19e399da0e5d9c0c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "f3f70b0fb9200ec0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Working/Firefly-III/Screenshot_20240306_155718.png"
-              }
-            }
-          },
-          {
             "id": "60e7c06e177b3f3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III installation guide.md",
+                "file": "Working/Firefly-III/Firefly-III Docker installation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III installation guide.md",
+                "file": "Working/Firefly-III/Firefly-III Docker installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III installation guide.md"
+                "file": "Working/Firefly-III/Firefly-III Docker installation.md"
               }
             }
           },
@@ -186,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III installation guide.md",
+                "file": "Working/Firefly-III/Firefly-III Docker installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,12 +214,14 @@
   },
   "active": "60e7c06e177b3f3e",
   "lastOpenFiles": [
+    "Pasted image 20240306163210.png",
+    "Pasted image 20240306163010.png",
+    "Working/Firefly-III/Firefly-III installation guide.md",
+    "Working/Firefly-III/Screenshot_20240306_155718.png",
     "Working/Firefly-III/Firefly-III Docker installation.md",
     "Pasted image 20240306162051.png",
-    "Working/Firefly-III/Screenshot_20240306_155718.png",
     "Spaces/Home",
     "Spaces",
-    "Working/Firefly-III/Firefly-III installation guide.md",
     "Working/Firefly-III/Firefly-III.md",
     "Working/Firefly-III/Screenshot_20240306_110203.png",
     "Working/Firefly-III",
@@ -277,7 +260,6 @@
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Pasted image 20240126103723.png",
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Pasted image 20240126103741.png",
     "Learning/Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124202235.png",
-    "Learning/Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240125095557.png",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
