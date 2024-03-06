@@ -1,6 +1,8 @@
 
 > This documentation assumes that you have already installed an operating system to host the project, such as the Ubuntu server.
----
+> We will use Docker to install the project since it's the most optimal method.
+
+>For all the given commands, you can just copy-pate them to your terminal.
 ### Dependencies
 First, update the apt package manager database with:
 ```bash
@@ -95,3 +97,4 @@ Open a browser from another device, then get to
 Expected output:
 ![[Pasted image 20240306163210.png]]
 
+You now have a fully functional application!
