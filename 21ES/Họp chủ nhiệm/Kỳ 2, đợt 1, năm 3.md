@@ -10,3 +10,7 @@ Riêng trường hợp của Huỳnh Nguyên Tấn, bạn này có đăng kí c�
 Chi tiết kiểm tra thông báo tại trang sv
 Ngoài ra còn có thông báo điều chỉnh mức thu học phí của DBKH, nhưng ngành mình không bị ảnh hưởng.
 
+##### Nộp quỹ lớp đợt 3:
+Hiện tại quỹ lớp đang còn 115k và năm nay sẽ không tổ chức mua hoa tặng giảng viên ngày 8/3 nữa vì những môn có giảng viên nữ rơi vào đầu tuần sau và việc nộp quỹ đợt 2 còn chậm trễ.
+Hiện tại có chưa đến
+20k, thông tin chi tiết về hình thức và thời hạn sẽ được thông báo chi tiết sau buổi họp.
