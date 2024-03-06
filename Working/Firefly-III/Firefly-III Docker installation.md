@@ -59,3 +59,16 @@ Download the docker compose file:
 ```bash
 wget https://raw.githubusercontent.com/firefly-iii/docker/main/docker-compose.yml
 ```
+Download configuration files:
+```bash
+wget https://raw.githubusercontent.com/firefly-iii/docker/main/docker-compose.yml -O .env
+```
+```bash
+wget https://raw.githubusercontent.com/firefly-iii/docker/main/database.env -O .db.env
+```
+
+Using your favorite text editor:
+- Change the `DB_PASSWORD` in `.env` to something else. Pick a nice password.
+	For example: `DB_PASSWORD=none`
+- Change `MYSQL_PASSWORD` in `.db.env` to the SAME password value
+	For example: `MYSQL_PASSWORD=none`
