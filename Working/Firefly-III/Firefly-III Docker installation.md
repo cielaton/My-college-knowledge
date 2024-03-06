@@ -89,7 +89,7 @@ ip addr | grep enp0s3
 ```
 For example, my output is:
 ![[Pasted image 20240306163010.png]]
-The IP address is: `192.168.0.13`
+So the IP address will be: `192.168.0.13`
 Open a browser from another device, then get to
 `http://192.168.0.13`
 Expected output:
