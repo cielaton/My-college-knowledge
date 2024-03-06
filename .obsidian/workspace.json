@@ -4,45 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d811b3101dce9ad2",
-        "type": "split",
+        "id": "6b35c51582879427",
+        "type": "tabs",
         "children": [
           {
-            "id": "42a0c4f9e95dd8b9",
-            "type": "tabs",
-            "dimension": 73.95833333333333,
-            "children": [
-              {
-                "id": "09378e4d7139078c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Về quê.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            "id": "19e399da0e5d9c0c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           },
           {
-            "id": "6b35c51582879427",
-            "type": "tabs",
-            "dimension": 26.041666666666664,
-            "children": [
-              {
-                "id": "19e399da0e5d9c0c",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {}
-                }
+            "id": "f3f70b0fb9200ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working/Firefly-III installation guide.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259,
-    "collapsed": true
+    "width": 259
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -150,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Về quê.md",
+                "file": "Working/Firefly-III installation guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Về quê.md"
+                "file": "Working/Firefly-III installation guide.md"
               }
             }
           },
@@ -191,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Về quê.md",
+                "file": "Working/Firefly-III installation guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,54 +221,54 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "09378e4d7139078c",
+  "active": "f3f70b0fb9200ec0",
   "lastOpenFiles": [
-    "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 3.md",
-    "Về quê.md",
-    "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 2.md",
-    "Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 1.md",
-    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 8.md",
-    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 7.md",
-    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 6.md",
-    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 5.md",
-    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 3.md",
-    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 4.md",
-    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 2.md",
-    "Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 1.md",
-    "Year 2 - Semester 2/Computer programming 2/Computer programming 2.md",
-    "Year 3 - Semester 2/Year 3 - Semester 2.md",
-    "Year 3 - Semester 2/Advance English 2/Speaking/Week 4.md",
-    "Year 3 - Semester 2/Advance English 2/Advance English 2.md",
-    "Year 3 - Semester 2/Advance English 2/Speaking/Speaking.md",
-    "Year 3 - Semester 2/Advance English 2/Writing/Week 4.md",
-    "Year 3 - Semester 2/Advance English 2/Speaking",
-    "Pasted image 20240225133713.png",
-    "Year 3 - Semester 2/Advance English 2/Writing/Writing.md",
-    "Year 3 - Semester 2/Advance English 2/Writing",
-    "Year 3 - Semester 2/Advance English 2",
+    "Working/Firefly-III installation guide.md",
+    "Learning/Year 3 - Semester 1/Year 3 - Semester 1.md",
+    "Learning/Learning.md",
+    "Learning",
+    "Working/Working.md",
     "Archinstall documentation.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances/Instances.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules/Modules.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Hierarchical Modeling Concepts.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Design Methodologies.md",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Pasted image 20240126103723.png",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Pasted image 20240126103741.png",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies",
-    "Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
-    "Year 3 - Semester 2/Signal and Systems/Homework/Week 1.md",
-    "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124202235.png",
-    "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240125095557.png",
-    "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240125095414.png",
+    "Working",
+    "Untitled.md",
+    "Về quê.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 3.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 2.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 1.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 8.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 7.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 6.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 5.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 3.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 4.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 2.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 1.md",
+    "Learning/Year 2 - Semester 2/Computer programming 2/Computer programming 2.md",
+    "Learning/Year 3 - Semester 2/Year 3 - Semester 2.md",
+    "Learning/Year 3 - Semester 2/Advance English 2/Speaking/Week 4.md",
+    "Learning/Year 3 - Semester 2/Advance English 2/Advance English 2.md",
+    "Learning/Year 3 - Semester 2/Advance English 2/Speaking/Speaking.md",
+    "Learning/Year 3 - Semester 2/Advance English 2/Writing/Week 4.md",
+    "Learning/Year 3 - Semester 2/Advance English 2/Speaking",
+    "Pasted image 20240225133713.png",
+    "Learning/Year 3 - Semester 2/Advance English 2/Writing/Writing.md",
+    "Learning/Year 3 - Semester 2/Advance English 2/Writing",
+    "Learning/Year 3 - Semester 2/Advance English 2",
+    "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances/Instances.md",
+    "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances",
+    "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Modules",
+    "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Pasted image 20240126103723.png",
+    "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies/Pasted image 20240126103741.png",
+    "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Design Methodologies",
+    "Learning/Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124202235.png",
+    "Learning/Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240125095557.png",
+    "Learning/Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240125095414.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124211121.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124210728.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124210152.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124210135.png",
-    "Year 3 - Semester 2/Signal and Systems/Homework",
-    "Year 3 - Semester 2/Signal and Systems",
-    "Year 3 - Semester 2",
-    "Year 3 - Semester 1",
+    "Learning/Year 3 - Semester 2/Signal and Systems/Homework",
+    "Learning/Year 3 - Semester 2/Signal and Systems",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
