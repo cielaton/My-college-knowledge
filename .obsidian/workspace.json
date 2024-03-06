@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/Firefly-III installation guide.md",
+                "file": "Working/Firefly-III/Firefly-III installation guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/Firefly-III installation guide.md",
+                "file": "Working/Firefly-III/Firefly-III installation guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/Firefly-III installation guide.md"
+                "file": "Working/Firefly-III/Firefly-III installation guide.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/Firefly-III installation guide.md",
+                "file": "Working/Firefly-III/Firefly-III installation guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,10 +223,14 @@
   },
   "active": "f3f70b0fb9200ec0",
   "lastOpenFiles": [
-    "Screenshot_20240306_110203.png",
-    "Working/Screenshot_20240306_110055.png",
+    "Working/Firefly-III/Firefly-III.md",
+    "Working/Firefly-III/Screenshot_20240306_110203.png",
+    "Working/Firefly-III",
+    "Vault.md",
+    "Working/Firefly-III/Screenshot_20240306_111153.png",
+    "Working/Firefly-III/Firefly-III installation guide.md",
+    "Working/Firefly-III/Screenshot_20240306_110055.png",
     "Pasted image 20240225133713.png",
-    "Working/Firefly-III installation guide.md",
     "Learning/Year 3 - Semester 1/Year 3 - Semester 1.md",
     "Learning/Learning.md",
     "Learning",
@@ -251,9 +255,7 @@
     "Learning/Year 3 - Semester 2/Advance English 2/Speaking/Week 4.md",
     "Learning/Year 3 - Semester 2/Advance English 2/Advance English 2.md",
     "Learning/Year 3 - Semester 2/Advance English 2/Speaking/Speaking.md",
-    "Learning/Year 3 - Semester 2/Advance English 2/Writing/Week 4.md",
     "Learning/Year 3 - Semester 2/Advance English 2/Speaking",
-    "Learning/Year 3 - Semester 2/Advance English 2/Writing/Writing.md",
     "Learning/Year 3 - Semester 2/Advance English 2/Writing",
     "Learning/Year 3 - Semester 2/Advance English 2",
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Instances",
@@ -265,10 +267,7 @@
     "Learning/Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240125095557.png",
     "Learning/Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240125095414.png",
     "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124211121.png",
-    "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124210728.png",
-    "Year 3 - Semester 2/Signal and Systems/Homework/Pasted image 20240124210152.png",
     "Learning/Year 3 - Semester 2/Signal and Systems/Homework",
-    "Learning/Year 3 - Semester 2/Signal and Systems",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
