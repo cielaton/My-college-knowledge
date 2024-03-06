@@ -8,3 +8,33 @@ sudo apt update
 ```
 
 ##### Docker
+Uninstall old versions:
+```bash
+for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done
+```
+This step is just to make sure there are no docker dependencies installed on your system, `apt-get` might report that you have none of these packages installed.
+
+Set up the repository:
+```bash
+sudo apt-get update
+```
+```bash
+sudo apt-get install ca-certificates curl
+```
+```bash
+sudo install -m 0755 -d /etc/apt/keyrings
+```
+```bash
+sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+```
+```bash
+sudo chmod a+r /etc/apt/keyrings/docker.asc
+```
+Add the repository to apt sources:
+```bash
+echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \
+  sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt-get update
+```
