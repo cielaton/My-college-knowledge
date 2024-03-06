@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III installation guide.md",
+                "file": "Working/Firefly-III/Firefly-III Docker installation.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III installation guide.md",
+                "file": "Working/Firefly-III/Firefly-III Docker installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III installation guide.md"
+                "file": "Working/Firefly-III/Firefly-III Docker installation.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/Firefly-III/Firefly-III installation guide.md",
+                "file": "Working/Firefly-III/Firefly-III Docker installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,12 +223,13 @@
   },
   "active": "f3f70b0fb9200ec0",
   "lastOpenFiles": [
+    "Working/Firefly-III/Firefly-III installation guide.md",
+    "Working/Firefly-III/Firefly-III Docker installation.md",
     "Working/Firefly-III/Firefly-III.md",
     "Working/Firefly-III/Screenshot_20240306_110203.png",
     "Working/Firefly-III",
     "Vault.md",
     "Working/Firefly-III/Screenshot_20240306_111153.png",
-    "Working/Firefly-III/Firefly-III installation guide.md",
     "Working/Firefly-III/Screenshot_20240306_110055.png",
     "Pasted image 20240225133713.png",
     "Learning/Year 3 - Semester 1/Year 3 - Semester 1.md",

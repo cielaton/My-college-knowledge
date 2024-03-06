@@ -59,8 +59,33 @@ Save existing PHP package list to packages.txt file:
 ```bash
 sudo dpkg -l | grep php | tee packages.txt
 ```
-Add the repo for PHP 
+Add the repo for PHP 8.3
 ```bash
 sudo add-apt-repository ppa:ondrej/php # Press enter when prompted.
 sudo apt update
 ```
+Install PHP packages and extensions:
+```bash
+sudo apt install php8.3 php8.3-fpm php8.3-cli php8.3-{bz2,curl,mbstring,intl,bcmath,zip,gd,xml}
+```
+
+Enable PHP 8.3 FPM on Apache:
+```bash
+sudo a2enconf php8.3-fpm
+```
+And reload Apache after that:
+```bash
+systemctl reaload apache2
+```
+
+##### Composer
+Install composer:
+```bash
+curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+```
+Verify the installation with:
+```bash
+composer -v
+```
+If the output is a very long documentation and information about composer, it is installed successfully.
+
