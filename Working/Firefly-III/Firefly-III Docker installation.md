@@ -63,7 +63,7 @@ wget https://raw.githubusercontent.com/firefly-iii/docker/main/docker-compose-im
 ```
 Download configuration files:
 ```bash
-wget https://raw.githubusercontent.com/firefly-iii/docker/main/docker-compose.yml -O .env
+wget https://raw.githubusercontent.com/firefly-iii/firefly-iii/main/.env.example -O .env
 ```
 ```bash
 wget https://raw.githubusercontent.com/firefly-iii/docker/main/database.env -O .db.env
@@ -86,7 +86,7 @@ Using your favorite text editor to edit the downloaded file:
 >![[Pasted image 20240307082009.png]]
 >Using the arrow keys, head to the desired line.
 >Press the key "i" to enter insert mode, then edit the file.
->After that, press "esc" to quit insert mode, and press the exact key as follow: ": (shift + ;)" then "w" then "q" to save and quit.
+>After that, press "esc" to quit insert mode, and press the exact key as follow: ": (shift + ;)" then "w" then "q" then "enter" to save and quit.
 
 What you need to do is:
 - Change the `DB_PASSWORD` in `.env` to something else. Pick a nice password.
@@ -94,16 +94,17 @@ What you need to do is:
 - Change `MYSQL_PASSWORD` in `.db.env` to the SAME password value
 	For example: `MYSQL_PASSWORD=none`
 - Change `FIREFLY_III_URL` in `.importer.env` to `http://app:8080`
+- Change `VANITY_URL` in `.importer.env` to `http://localhost`
 
 Start the container:
 ```bash
 sudo docker compose -f docker-compose.yml up -d --pull=always
 ```
 Expected output:
-![[Pasted image 20240306162051.png]]
+![[Pasted image 20240307083812.png]]
 
 >[!note]
->The default server is now up and running.
+>The server is now up and running.
 
 To access the site through an external device, make sure to connect to the same network as the server, and obtain the server IP address:
 ```bash
