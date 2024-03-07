@@ -59,7 +59,7 @@ mkdir firefly_install && cd firefly_install
 ```
 Download the docker compose file:
 ```bash
-wget https://raw.githubusercontent.com/firefly-iii/docker/main/docker-compose.yml
+wget https://raw.githubusercontent.com/firefly-iii/docker/main/docker-compose-importer.yml
 ```
 Download configuration files:
 ```bash
@@ -84,13 +84,16 @@ Using your favorite text editor to edit the downloaded file:
 >```
 >will bring you to an editing view:
 >![[Pasted image 20240307082009.png]]
->Using the arrow keys, head to the 
+>Using the arrow keys, head to the desired line.
+>Press the key "i" to enter insert mode, then edit the file.
+>After that, press "esc" to quit insert mode, and press the exact key as follow: ": (shift + ;)" then "w" then "q" to save and quit.
 
-
+What you need to do is:
 - Change the `DB_PASSWORD` in `.env` to something else. Pick a nice password.
 	For example: `DB_PASSWORD=none`
 - Change `MYSQL_PASSWORD` in `.db.env` to the SAME password value
 	For example: `MYSQL_PASSWORD=none`
+- Change `FIREFLY_III_URL` in `.importer.env` to `http://app:8080`
 
 Start the container:
 ```bash
