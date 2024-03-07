@@ -52,7 +52,7 @@ sudo docker run hello-world
 Expected output:
 ![[Screenshot_20240306_155718.png]]
 
-##### Firefly-III Docker
+### Firefly-III
 Create a directory to store installation files:
 ```bash
 mkdir firefly_install && cd firefly_install
@@ -68,8 +68,25 @@ wget https://raw.githubusercontent.com/firefly-iii/docker/main/docker-compose.ym
 ```bash
 wget https://raw.githubusercontent.com/firefly-iii/docker/main/database.env -O .db.env
 ```
+```bash
+wget https://raw.githubusercontent.com/firefly-iii/data-importer/main/.env.example -O .importer.env
+```
 
-Using your favorite text editor:
+Using your favorite text editor to edit the downloaded file:
+>[!note] For example, I'm using Neovim
+>First install neovim with:
+>```bash
+>sudo apt install neovim
+>```
+>Then edit the file, for example with .env file:
+>```bash
+>nvim .env
+>```
+>will bring you to an editing view:
+>![[Pasted image 20240307082009.png]]
+>Using the arrow keys, head to the 
+
+
 - Change the `DB_PASSWORD` in `.env` to something else. Pick a nice password.
 	For example: `DB_PASSWORD=none`
 - Change `MYSQL_PASSWORD` in `.db.env` to the SAME password value
@@ -98,3 +115,5 @@ Expected output:
 ![[Pasted image 20240306163210.png]]
 
 You now have a fully functional application!
+
+##### Firefly III Data Importer
