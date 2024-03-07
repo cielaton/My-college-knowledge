@@ -121,3 +121,6 @@ Expected output:
 You now have a fully functional application!
 
 ##### Firefly III Data Importer
+First, register an account and login.
+Browse to Options -> Profile on the left menu bar.
+
