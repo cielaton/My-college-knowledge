@@ -128,7 +128,12 @@ Choose "Create new client", then enter the information as follows:
 Make sure to input the correct Redirect URL and uncheck the Confidential option.
 Expected result
 ![[Pasted image 20240307085831.png]]
-Then, obtain the Access Token by:
-```bash
-curl
-```
+
+Now browse to the data importer at the same IP address but different port:
+`http:192.168.0.13:81`
+where 81 is the port.
+
+Expected result:
+![[Pasted image 20240307091431.png]]
+
+Enter the Client ID from the previous step. In my example, it is "9":
