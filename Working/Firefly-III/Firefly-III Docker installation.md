@@ -2,7 +2,7 @@
 > This documentation assumes that you have already installed an operating system to host the project, such as the Ubuntu server.
 > We will use Docker to install the project since it's the most optimal method.
 
->For all the given commands, you can just copy-pate them to your terminal.
+>For most of the given commands, you can just copy-pate them to your terminal.
 ### Dependencies
 First, update the apt package manager database with:
 ```bash
@@ -122,5 +122,13 @@ You now have a fully functional application!
 
 ##### Firefly III Data Importer
 First, register an account and login.
-Browse to Options -> Profile on the left menu bar.
-
+Browse to Options section in the left menu bar, the head to Profile→ OAuth.
+Choose "Create new client", then enter the information as follows:
+![[Pasted image 20240307085325.png]]
+Make sure to input the correct Redirect URL and uncheck the Confidential option.
+Expected result
+![[Pasted image 20240307085831.png]]
+Then, obtain the Access Token by:
+```bash
+curl
+```
