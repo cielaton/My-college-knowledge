@@ -72,6 +72,17 @@ wget https://raw.githubusercontent.com/firefly-iii/docker/main/database.env -O .
 wget https://raw.githubusercontent.com/firefly-iii/data-importer/main/.env.example -O .importer.env
 ```
 
+Obtain the server IP address:
+```bash
+ip addr | grep enp0s3
+```
+For example, my output is:
+![[Pasted image 20240307092858.png]]
+So the IP address will be: `10.10.40.138`
+
+>[!note]
+>Remember this IP address, this will be used til the end of the document.
+
 Using your favorite text editor to edit the downloaded file:
 >[!note] For example, I'm using Neovim
 >First install neovim with:
@@ -86,7 +97,7 @@ Using your favorite text editor to edit the downloaded file:
 >![[Pasted image 20240307082009.png]]
 >Using the arrow keys, head to the desired line.
 >Press the key "i" to enter insert mode, then edit the file.
->After that, press "esc" to quit insert mode, and press the exact key as follow: ": (shift + ;)" then "w" then "q" then "enter" to save and quit.
+>After that, press "esc" to quit insert mode, and press the exact key as follow: "(shift + ;)" then "w" then "q" then "enter" to save and quit.
 
 What you need to do is:
 - Change the `DB_PASSWORD` in `.env` to something else. Pick a nice password.
@@ -94,8 +105,7 @@ What you need to do is:
 - Change `MYSQL_PASSWORD` in `.db.env` to the SAME password value
 	For example: `MYSQL_PASSWORD=none`
 - Change `FIREFLY_III_URL` in `.importer.env` to `http://app:8080`
-- Change `VANITY_URL` in `.importer.env` to `http://
-
+- Change `VANITY_URL` in `.importer.env` to `http://10.10.40.138` (your IP address).
 Start the container:
 ```bash
 sudo docker compose -f docker-compose.yml up -d --pull=always
@@ -106,20 +116,10 @@ Expected output:
 >[!note]
 >The server is now up and running.
 
-To access the site through an external device, make sure to connect to the same network as the server, and obtain the server IP address:
-```bash
-ip addr | grep enp0s3
-```
-For example, my output is:
-![[Pasted image 20240307092858.png]]
-So the IP address will be: `10.10.40.138`
+To access the site through an external device, make sure to connect to the same network as the server.
+Open a browser from another device, then get to your IP address as:
+`http://10.10.40.138`
 
->[!note]
->Remember this IP address, this will be used til the end of the document.
-
-
-Open a browser from another device, then get to
-`http://10.10.40/138`
 Expected output:
 ![[Pasted image 20240306163210.png]]
 
@@ -130,15 +130,21 @@ First, register an account and login.
 Browse to Options section in the left menu bar, the head to Profile→ OAuth.
 Choose "Create new client", then enter the information as follows:
 ![[Pasted image 20240307093025.png]]
-Make sure to input the correct Redirect URL (with your server IP address) and uncheck the Confidential option.
-Expected result
-![[Pasted image 20240307085831.png]]
+Make sure to input the correct Redirect URL (with your server IP address along with the port 81) and uncheck the Confidential option.
+
+Expected result:
+![[Pasted image 20240307093721.png]]
 
 Now browse to the data importer at the same IP address but different port:
-`http:192.168.0.13:81`
+`http:10.10.40.138:81`
 where 81 is the port.
 
 Expected result:
 ![[Pasted image 20240307091431.png]]
 
-Enter the Client ID from the previous step. In my example, it is "9":
+Enter the Client ID from the previous step. In my example, it is "16", then submit.
+Expected result:
+![[Pasted image 20240307093441.png]]
+Choose Authorize.
+Now you can use Data Import Toll:
+![[Pasted image 20240307093512.png]]
