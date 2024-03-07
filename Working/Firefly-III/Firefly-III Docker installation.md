@@ -94,7 +94,7 @@ What you need to do is:
 - Change `MYSQL_PASSWORD` in `.db.env` to the SAME password value
 	For example: `MYSQL_PASSWORD=none`
 - Change `FIREFLY_III_URL` in `.importer.env` to `http://app:8080`
-- Change `VANITY_URL` in `.importer.env` to `http://localhost`
+- Change `VANITY_URL` in `.importer.env` to `http://
 
 Start the container:
 ```bash
@@ -111,10 +111,15 @@ To access the site through an external device, make sure to connect to the same 
 ip addr | grep enp0s3
 ```
 For example, my output is:
-![[Pasted image 20240306163010.png]]
-So the IP address will be: `192.168.0.13`
+![[Pasted image 20240307092858.png]]
+So the IP address will be: `10.10.40.138`
+
+>[!note]
+>Remember this IP address, this will be used til the end of the document.
+
+
 Open a browser from another device, then get to
-`http://192.168.0.13`
+`http://10.10.40/138`
 Expected output:
 ![[Pasted image 20240306163210.png]]
 
@@ -124,8 +129,8 @@ You now have a fully functional application!
 First, register an account and login.
 Browse to Options section in the left menu bar, the head to Profile→ OAuth.
 Choose "Create new client", then enter the information as follows:
-![[Pasted image 20240307085325.png]]
-Make sure to input the correct Redirect URL and uncheck the Confidential option.
+![[Pasted image 20240307093025.png]]
+Make sure to input the correct Redirect URL (with your server IP address) and uncheck the Confidential option.
 Expected result
 ![[Pasted image 20240307085831.png]]
 
