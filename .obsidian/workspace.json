@@ -11,9 +11,11 @@
             "id": "60e7c06e177b3f3e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Learning/Year 3 - Semester 2"
+                "file": "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -81,15 +83,7 @@
             }
           },
           {
-            "id": "23e7bdf8fac7fc72",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed8477035ce6b46e",
+            "id": "9607d3cc37b465d9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -97,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -132,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md"
+              }
             }
           },
           {
@@ -170,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,14 +189,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "00a27b4d13319f62",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,14 +214,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "21a132be76e67910",
+  "active": "60e7c06e177b3f3e",
   "lastOpenFiles": [
+    "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md",
+    "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab.md",
     "Learning/Year 3 - Semester 2/Year 3 - Semester 2.md",
+    "Learning/Year 3 - Semester 2/Signal and Systems/Lab",
     "Learning/Year 3 - Semester 2/Signal and Systems/Signal and Systems.md",
     "Learning/Year 3 - Semester 2/STM32/STM32.md",
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Midterm.md",
@@ -258,10 +266,7 @@
     "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 2.md",
     "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 1.md",
     "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 8.md",
-    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 7.md",
-    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 1/Exercise 6.md",
     "Learning/Year 3 - Semester 2/Advance English 2/Speaking",
-    "Learning/Year 3 - Semester 2/Advance English 2/Writing",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
