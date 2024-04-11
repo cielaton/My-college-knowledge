@@ -11,11 +11,9 @@
             "id": "60e7c06e177b3f3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md",
-                "mode": "source",
-                "source": false
+                "path": "Learning/Year 3 - Semester 2/STM32/Midterm"
               }
             }
           }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md",
+                "file": "Learning/Year 3 - Semester 2/STM32/Midterm/Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md"
+                "file": "Learning/Year 3 - Semester 2/STM32/Midterm/Midterm.md"
               }
             }
           },
@@ -167,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md",
+                "file": "Learning/Year 3 - Semester 2/STM32/Midterm/Midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,15 +217,21 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "60e7c06e177b3f3e",
+  "active": "c5cde12e6f3633f7",
   "lastOpenFiles": [
-    "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Pasted image 20240411114123.png",
+    "Learning/Year 3 - Semester 2/STM32/Midterm.md",
+    "Learning/Year 3 - Semester 2/STM32/Midterm/Midterm.md",
+    "Learning/Year 3 - Semester 2/STM32/STM32.md",
+    "Learning/Year 3 - Semester 2/STM32/Midterm/Pasted image 20240328201142.png",
+    "Learning/Year 3 - Semester 2/STM32/.md",
+    "Learning/Year 3 - Semester 2/STM32/Midterm/Screenshot_20240328_193028.png",
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md",
+    "Learning/Year 3 - Semester 2/STM32/Midterm",
+    "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Pasted image 20240411114123.png",
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab.md",
     "Learning/Year 3 - Semester 2/Year 3 - Semester 2.md",
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab",
     "Learning/Year 3 - Semester 2/Signal and Systems/Signal and Systems.md",
-    "Learning/Year 3 - Semester 2/STM32/STM32.md",
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Midterm.md",
     "Working/Firefly-III/Pasted image 20240307085325.png",
     "Learning/Year 3 - Semester 2/Verilog/Verilog.md",
@@ -235,12 +239,9 @@
     "Learning/Year 3 - Semester 2/Verilog/Screenshot_20240329_160216.png",
     "Learning/Year 3 - Semester 2/Verilog/Screenshot_20240329_155641.png",
     "Learning/Year 3 - Semester 2/Verilog",
-    "Learning/Year 3 - Semester 2/STM32/Screenshot_20240328_205523.png",
-    "Learning/Year 3 - Semester 2/STM32/Screenshot_20240328_201948.png",
-    "Learning/Year 3 - Semester 2/STM32/Screenshot_20240328_201948 1.png",
-    "Learning/Year 3 - Semester 2/STM32/Screenshot_20240328_194735.png",
-    "Learning/Year 3 - Semester 2/STM32/Screenshot_20240328_193330.png",
-    "Learning/Year 3 - Semester 2/STM32/Midterm.md",
+    "Learning/Year 3 - Semester 2/STM32/Midterm/Screenshot_20240328_205523.png",
+    "Learning/Year 3 - Semester 2/STM32/Midterm/Screenshot_20240328_201948.png",
+    "Learning/Year 3 - Semester 2/STM32/Midterm/Screenshot_20240328_201948 1.png",
     "Learning/Year 3 - Semester 2/STM32",
     "Learning/Year 3 - Semester 2/Signal and System/Signal and System.md",
     "Learning/Year 3 - Semester 2/Signal and System",
@@ -264,8 +265,6 @@
     "Về quê.md",
     "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 3.md",
     "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 2.md",
-    "Learning/Year 2 - Semester 2/Computer programming 2/Assignment 2/Exercise 1.md",
-    "Learning/Year 3 - Semester 2/Advance English 2/Speaking",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",

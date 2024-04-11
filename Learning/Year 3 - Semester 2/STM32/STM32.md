@@ -1,1 +1,10 @@
-[[Learning/Year 3 - Semester 2/STM32/Midterm|Midterm]]
+---
+_filters: []
+_contexts: []
+_links: []
+_sort:
+  field: rank
+  asc: false
+  group: false
+---
+[[.md|.md]]
