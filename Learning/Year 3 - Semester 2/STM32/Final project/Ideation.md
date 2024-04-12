@@ -33,7 +33,11 @@ Cấu trúc của một chuỗi NMEA:
 ![[Pasted image 20240412222022.png]]
 - **GPGGA**: Header. Mỗi header tương ứng với mỗi output message. Ở đây GPGGA là header thông dụng có chứa tọa độ vị trí. Ngoài ra còn 13 loại header khác nhau.
 - **1891908.00**: Time stamp. Giờ UTC theo cấu trúc lần lượt là giờ, phút, giây.
-- **3403.7041778: 
+- **3403.7041778**: Vĩ độ.
+- **N**: Vĩ độ Bắc.
+- **07044.3966270**: Kinh độ.
+- **W**: Kinh độ Tây.
+- 
 
 ## Sơ đồ hệ thống
 ![[GPS-device.drawio(1).svg]]
