@@ -20,6 +20,7 @@ Từ mỗi vệ tinh, ta vẽ được đường tròn tập hợp các điểm 
 ![[Pasted image 20240412002628.png]]
 
 ## Các module phổ biến trên thị trường
+/head
 >[!note] GPS NEO-6M, NEO-7M
 >- Ưu điểm:
 >	- Giá thành rẻ.
@@ -36,4 +37,11 @@ Từ mỗi vệ tinh, ta vẽ được đường tròn tập hợp các điểm 
 >	- Giá thành cao hơn các module trên.
 >	- 
 
-
+| table | adad | asd a |     |
+| ----- | ---- | ----- | --- |
+|       |      |       |     |
+|       |      |       |     |
+|       |      |       |     |
+|       |      |       |     |
+|       |      |       |     |
+|       |      |       |     |
