@@ -41,7 +41,10 @@ Cấu trúc của một chuỗi NMEA:
 
 - **13**: Lượng vệ tinh sử dụng để xác định tọa độ.
 - **1.0**: HDOP - horizontal dilution of precision (độ pha loãng theo chiều ngang).
-- 
-
+- **495.144**: Độ cao (antenna).
+- **M**: Đơn vị độ cao.
+- **29.200**: Độ phân tách địa chất (dùng độ cao antenna trừ cho giá trị này để đạt được giá trị HAE - Height Above Ellipsoid).
+- **M**: Đơn vị đo cho độ phân tách địa chất.
+- **0.10**: 
 ## Sơ đồ hệ thống
 ![[GPS-device.drawio(1).svg]]
