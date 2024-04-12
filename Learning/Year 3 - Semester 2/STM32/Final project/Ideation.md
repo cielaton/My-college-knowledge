@@ -37,6 +37,10 @@ Cấu trúc của một chuỗi NMEA:
 - **N**: Vĩ độ Bắc.
 - **07044.3966270**: Kinh độ.
 - **W**: Kinh độ Tây.
+- **4**: Chỉ số chất lượng, trong đó:
+
+- **13**: Lượng vệ tinh sử dụng để xác định tọa độ.
+- **1.0**: HDOP - horizontal dilution of precision (độ pha loãng theo chiều ngang).
 - 
 
 ## Sơ đồ hệ thống
