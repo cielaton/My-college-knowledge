@@ -126,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md"
+              }
             }
           },
           {
@@ -164,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

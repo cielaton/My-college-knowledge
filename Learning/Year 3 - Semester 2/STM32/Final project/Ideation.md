@@ -20,7 +20,17 @@ Từ mỗi vệ tinh, ta vẽ được đường tròn tập hợp các điểm 
 ![[Pasted image 20240412002628.png]]
 
 ## Các module phổ biến trên thị trường
-- GPS NEO-6M: 
-- GPS NEO-7M:
-- **Quectel L76X**:
+>[!note] GPS NEO-6M, NEO-7M, NEO-M8N
+>- Ưu điểm:
+>	- Giá thành rẻ.
+>	- Phổ biến, số lượng tài liệu tham khảo lớn.
+>- Nhược điểm:
+>	- Nhiều thiết bị giả, nhái.
+>	- 
+
+>[!note] Quectel L76X
+>
+>- Ưu điểm:
+>- Nhược điểm:
+
 
