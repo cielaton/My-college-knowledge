@@ -28,6 +28,8 @@ Từ mỗi vệ tinh, ta vẽ được đường tròn tập hợp các điểm 
 | Ưu điểm    | - Giá thành rẻ.<br>- Phổ biến, số lượng tài liệu tham khảo lớn. | Ổn định, bắt tín hiệu rất nhạy.      |
 | Nhược điểm | - Nhiều hàng giả, hàng nhái.                                    | Giá thành cao.                       |
 ## Module Quectel L76X
+Module GPS Quectel L76X sử dụng NMEA (National Marine Electronics Association) làm định dạng dữ liệu tiêu chuẩn trong quá trình truyền tải. 
+Cấu trúc của một chuỗi NMEA:
 
 
 ## Sơ đồ hệ thống
