@@ -61,7 +61,29 @@ Cấu trúc của một chuỗi NMEA:
 Một số công nghệ đặc biệt 
 - EASY™, công nghệ dự đoán tự theo dõi, giúp định vị nhanh chóng.
 - AlwaysLocate™, bộ điều khiển thông minh hoạt động định kỳ để tiết kiệm năng lượng.
-- Pin MS621FE, dùng để bảo quản  ephemeris information và hot starts.
-- 2x LEDs for indicating the module working status
+- Pin MS621FE, dùng để bảo quản ephemeris information và hot starts.
+- 2x LEDs biểu thị trạng thái hoạt động của module.
+
+![[Pasted image 20240413000247.png]]
+
+1. **L76B module**
+2. **RT9193-33:** power manager
+3. **Rechargeable MS621FE Li battery**
+4. **Ceramics active antenna**
+5. **GPS status indicator**
+6. **Power indicator**
+7. **PH2.0 5PIN connector**
+8. **GNSS antenna connector**
+9. **Backup mode wakeup jumper:** Hàn nối để thoát backup mode.
+
+## Module I2C và LCD
+Module I2C PCF8754 được sử dụng để làm trung gian kết nối giữa MCU và LCD.
+![[Pasted image 20240413000738.png]]
+
+Các chân sẽ được nối với MCU như sau:
+- GND -> GND.
+- VCC -> Nối nguồn ngoài.
+- SDA -> PB7.
+- SCL -> PB6.
 ## Sơ đồ hệ thống
 ![[GPS-device.drawio(1).svg]]
