@@ -45,6 +45,11 @@ Cấu trúc của một chuỗi NMEA:
 - **M**: Đơn vị độ cao.
 - **29.200**: Độ phân tách địa chất (dùng độ cao antenna trừ cho giá trị này để đạt được giá trị HAE - Height Above Ellipsoid).
 - **M**: Đơn vị đo cho độ phân tách địa chất.
-- **0.10**: 
+- **0.10**: Thời gian (giây) từ lần update cuối cùng của trạm tham chiếu.
+- **0000**: ID trạm tham chiếu.
+- **\*40**: Checksum
+
+Module hỗ trợ nhiều hệ thống định vị: **GPS**, BDS và QZSS.
+Giao tiếp với bo mạch vi điều khiển thông qua UART.
 ## Sơ đồ hệ thống
 ![[GPS-device.drawio(1).svg]]
