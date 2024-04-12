@@ -21,12 +21,14 @@ Từ mỗi vệ tinh, ta vẽ được đường tròn tập hợp các điểm 
 
 ## Các module phổ biến trên thị trường
 
+
 | Danh mục   | **Quectel L76X**                                                | **NEO-6M, NEO-7M**                   |
 | ---------- | --------------------------------------------------------------- | ------------------------------------ |
-| Hình ảnh   | ![[Pasted image 20240412131103.png]]                            | ![[Pasted image 20240412131318.png]] |
+| Hình ảnh   | ![[Pasted image 20240412131318.png]]                            | ![[Pasted image 20240412131103.png]] |
 | Ưu điểm    | - Giá thành rẻ.<br>- Phổ biến, số lượng tài liệu tham khảo lớn. | Ổn định, bắt tín hiệu rất nhạy.      |
 | Nhược điểm | - Nhiều hàng giả, hàng nhái.                                    | Giá thành cao.                       |
-|            |                                                                 |                                      |
+## Module Quectel L76X
+
 
 ## Sơ đồ hệ thống
 ![[GPS-device.drawio(1).svg]]
