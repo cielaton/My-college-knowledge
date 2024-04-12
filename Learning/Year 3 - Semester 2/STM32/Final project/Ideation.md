@@ -30,7 +30,8 @@ Từ mỗi vệ tinh, ta vẽ được đường tròn tập hợp các điểm 
 ## Module Quectel L76X
 Module GPS Quectel L76X sử dụng NMEA (National Marine Electronics Association) làm định dạng dữ liệu tiêu chuẩn trong quá trình truyền tải. 
 Cấu trúc của một chuỗi NMEA:
-
+![[Pasted image 20240412222022.png]]
+- GPGGA: Header chứa tọa độ vị trí
 
 ## Sơ đồ hệ thống
 ![[GPS-device.drawio(1).svg]]
