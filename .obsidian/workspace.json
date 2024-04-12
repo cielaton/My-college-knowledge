@@ -31,7 +31,7 @@
       {
         "id": "f372fa0be789290b",
         "type": "tabs",
-        "dimension": 50.6442021803766,
+        "dimension": 52.88844621513944,
         "children": [
           {
             "id": "9f1e38fcebc82a6a",
@@ -96,7 +96,7 @@
       {
         "id": "2ef7a3f21d3be403",
         "type": "tabs",
-        "dimension": 49.3557978196234,
+        "dimension": 47.11155378486056,
         "children": [
           {
             "id": "21a132be76e67910",
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469
+    "width": 439
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -126,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,10 +215,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "60e7c06e177b3f3e",
+  "active": "21a132be76e67910",
   "lastOpenFiles": [
-    "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412002628.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+    "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412002628.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Final project.md",
     "Learning/Year 3 - Semester 2/STM32/Final project",
     "Learning/Year 3 - Semester 2/STM32/Midterm/Midterm.md",
