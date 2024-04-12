@@ -1,4 +1,4 @@
-# Thiết bị định vị
+# Thiết bị cảnh báo đi lạc.
 ---
 ## Hệ thống định vị (gọi chung là GNSS - Global Navigation Stateline System)
 - **GPS** (General Positioning System): Hệ thống định vị toàn cầu, được Mỹ phát triển với khoảng hơn 30 vệ tinh đang hoạt động.
@@ -80,10 +80,6 @@ Một số công nghệ đặc biệt
 Module I2C PCF8754 được sử dụng để làm trung gian kết nối giữa MCU và LCD.
 ![[Pasted image 20240413000738.png]]
 
-Các chân sẽ được nối với MCU như sau:
-- GND -> GND.
-- VCC -> Nối nguồn ngoài.
-- SDA -> PB7.
-- SCL -> PB6.
+![[Pasted image 20240413001654.png]]
 ## Sơ đồ hệ thống
 ![[GPS-device.drawio(1).svg]]
