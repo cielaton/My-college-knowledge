@@ -21,35 +21,47 @@ Từ mỗi vệ tinh, ta vẽ được đường tròn tập hợp các điểm 
 
 ## Các module phổ biến trên thị trường
 
-
 | Danh mục   | **Quectel L76X**                                                | **NEO-6M, NEO-7M**                   |
 | ---------- | --------------------------------------------------------------- | ------------------------------------ |
 | Hình ảnh   | ![[Pasted image 20240412131318.png]]                            | ![[Pasted image 20240412131103.png]] |
 | Ưu điểm    | - Giá thành rẻ.<br>- Phổ biến, số lượng tài liệu tham khảo lớn. | Ổn định, bắt tín hiệu rất nhạy.      |
 | Nhược điểm | - Nhiều hàng giả, hàng nhái.                                    | Giá thành cao.                       |
 ## Module Quectel L76X
-Module GPS Quectel L76X sử dụng NMEA (National Marine Electronics Association) làm định dạng dữ liệu tiêu chuẩn trong quá trình truyền tải. 
+Đây là module dùng để tiếp nhận dữ liệu từ vệ tinh và gửi trả tọa độ thiết bị.
+>[!note]
+>Module GPS Quectel L76X sử dụng NMEA (National Marine Electronics Association) làm định dạng dữ liệu tiêu chuẩn trong quá trình truyền tải. 
 Cấu trúc của một chuỗi NMEA:
 ![[Pasted image 20240412222022.png]]
-- **GPGGA**: Header. Mỗi header tương ứng với mỗi output message. Ở đây GPGGA là header thông dụng có chứa tọa độ vị trí. Ngoài ra còn 13 loại header khác nhau.
-- **1891908.00**: Time stamp. Giờ UTC theo cấu trúc lần lượt là giờ, phút, giây.
-- **3403.7041778**: Vĩ độ.
-- **N**: Vĩ độ Bắc.
-- **07044.3966270**: Kinh độ.
-- **W**: Kinh độ Tây.
-- **4**: Chỉ số chất lượng, trong đó:
+>- **GPGGA**: Header. Mỗi header tương ứng với mỗi output message. Ở đây GPGGA là header thông dụng có chứa tọa độ vị trí. Ngoài ra còn 13 loại header khác nhau.
+>- **1891908.00**: Time stamp. Giờ UTC theo cấu trúc lần lượt là giờ, phút, giây.
+>- **3403.7041778**: Vĩ độ.
+>- **N**: Vĩ độ Bắc.
+>- **07044.3966270**: Kinh độ.
+>- **W**: Kinh độ Tây.
+>- **4**: Chỉ số chất lượng.
+>- **13**: Lượng vệ tinh sử dụng để xác định tọa độ.
+>- **1.0**: HDOP - horizontal dilution of precision (độ pha loãng theo chiều ngang).
+>- **495.144**: Độ cao (antenna).
+>- **M**: Đơn vị độ cao.
+>- **29.200**: Độ phân tách địa chất (dùng độ cao antenna trừ cho giá trị này để đạt được giá trị HAE - Height Above Ellipsoid).
+>- **M**: Đơn vị đo cho độ phân tách địa chất.
+>- **0.10**: Thời gian (giây) từ lần update cuối cùng của trạm tham chiếu.
+>- **0000**: ID trạm tham chiếu.
+>- **\*40**: Checksum
+-40℃ ~ 85℃
 
-- **13**: Lượng vệ tinh sử dụng để xác định tọa độ.
-- **1.0**: HDOP - horizontal dilution of precision (độ pha loãng theo chiều ngang).
-- **495.144**: Độ cao (antenna).
-- **M**: Đơn vị độ cao.
-- **29.200**: Độ phân tách địa chất (dùng độ cao antenna trừ cho giá trị này để đạt được giá trị HAE - Height Above Ellipsoid).
-- **M**: Đơn vị đo cho độ phân tách địa chất.
-- **0.10**: Thời gian (giây) từ lần update cuối cùng của trạm tham chiếu.
-- **0000**: ID trạm tham chiếu.
-- **\*40**: Checksum
+- Kích thước 32.5 x 25.5 mm.
+- Điện áp hoạt động: 5V / 3.3V.
+- Dòng hoạt động: 11mA.
+- Nhiệt độ hoạt động: -40℃ ~ 85℃.
+- Module hỗ trợ nhiều hệ thống định vị: **GPS**, BDS và QZSS.
+- Giao tiếp với bo mạch vi điều khiển thông qua UART (Baudrate mặc định là 9600).
+- Có độ chính xác nhỏ hơn 2.5m. Thời gian đầu tiên nhận được dữ liệu sau Cold Start là < 15s, sau Warm starts là < 5s, sau Hot starts là < 1s.
 
-Module hỗ trợ nhiều hệ thống định vị: **GPS**, BDS và QZSS.
-Giao tiếp với bo mạch vi điều khiển thông qua UART.
+Một số công nghệ đặc biệt 
+- EASY™, công nghệ dự đoán tự theo dõi, giúp định vị nhanh chóng.
+- AlwaysLocate™, bộ điều khiển thông minh hoạt động định kỳ để tiết kiệm năng lượng.
+- Pin MS621FE, dùng để bảo quản  ephemeris information và hot starts.
+- 2x LEDs for indicating the module working status
 ## Sơ đồ hệ thống
 ![[GPS-device.drawio(1).svg]]
