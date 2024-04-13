@@ -24,7 +24,7 @@ Gồm có 3 thành phần chính:
 Thiết bị nhận sẽ tính toán được khoảng thời gian kể từ khi vệ tinh bắt đầu phát tín hiệu cho đến khi nhận được tín hiệu, từ đó tính toán được độ dài quãng đường truyền nhận. 
 Từ mỗi vệ tinh, ta vẽ được đường tròn tập hợp các điểm với khoảng cách đến vệ tinh là bằng nhau. Với 3 vệ tinh sẽ dễ dàng xác định được kinh độ và vĩ độ của thiết bị.
 ![[Pasted image 20240412002628.png]]
-<center><em>Hình 1: Mô tả phương thức hoạt động của GPS<em></center>
+<center><em>Hình 1: Mô tả phương thức hoạt động của GPS [^1]</em></center>
 
 ## Các module phổ biến trên thị trường
 
@@ -38,7 +38,9 @@ Từ mỗi vệ tinh, ta vẽ được đường tròn tập hợp các điểm 
 >[!note]
 >Module GPS Quectel L76X sử dụng NMEA (National Marine Electronics Association) làm định dạng dữ liệu tiêu chuẩn trong quá trình truyền tải. 
 Cấu trúc của một chuỗi NMEA:
+>
 ![[Pasted image 20240412222022.png]]
+>*Hình 2: Ví dụ về chuỗi NMEA*
 >- **GPGGA**: Header. Mỗi header tương ứng với mỗi output message. Ở đây GPGGA là header thông dụng có chứa tọa độ vị trí. Ngoài ra còn 13 loại header khác nhau.
 >- **1891908.00**: Time stamp. Giờ UTC theo cấu trúc lần lượt là giờ, phút, giây.
 >- **3403.7041778**: Vĩ độ.
@@ -55,10 +57,10 @@ Cấu trúc của một chuỗi NMEA:
 >- **0.10**: Thời gian (giây) từ lần update cuối cùng của trạm tham chiếu.
 >- **0000**: ID trạm tham chiếu.
 >- **\*40**: Checksum
--40℃ ~ 85℃
+
 
 - Kích thước 32.5 x 25.5 mm.
-- Điện áp hoạt động: 5V / 3.3V.
+- Điện áp hoạt động: 5V / 3.3V. 
 - Dòng hoạt động: 11mA.
 - Nhiệt độ hoạt động: -40℃ ~ 85℃.
 - Module hỗ trợ nhiều hệ thống định vị: **GPS**, BDS và QZSS.
@@ -72,6 +74,7 @@ Một số công nghệ đặc biệt
 - 2x LEDs biểu thị trạng thái hoạt động của module.
 
 ![[Pasted image 20240413000247.png]]
+<center><em>Hình 3: Chi tiết về module</em></center>
 
 1. **L76B module**
 2. **RT9193-33:** power manager
@@ -86,9 +89,18 @@ Một số công nghệ đặc biệt
 ## Module I2C và LCD
 Module I2C PCF8754 được sử dụng để làm trung gian kết nối giữa MCU và LCD.
 ![[Pasted image 20240413000738.png]]
+<center><em>Hình 4: Module PCF8754</em></center>
 
 ![[Pasted image 20240413001654.png]]
+<center><em>Hình 5: Module LCD 16x2</em></center>
+
 ## Sơ đồ hệ thống
 > Làm mạch in
 
 ![[GPS-device.drawio(4).svg]]
+<center><em>Hình 7: Sơ đồ hệ thống</em></center>
+
+## Reference
+
+[^1]:: http://www.fidis.net/resources/fidis-deliverables/mobility-and-identity/int-d1110001/doc/10/
+[^2]: 
