@@ -1,4 +1,10 @@
 # Thiết bị cảnh báo đi lạc.
+# Nhóm 2
+- Võ Tuấn Kiệt
+- Hoàng Thị Tuyết My
+- Nguyễn Đức Hưng
+- Đặng Tuấn Anh
+- Trần Chí Thành
 ---
 ## Hệ thống định vị (gọi chung là GNSS - Global Navigation Stateline System)
 - **GPS** (General Positioning System): Hệ thống định vị toàn cầu, được Mỹ phát triển với khoảng hơn 30 vệ tinh đang hoạt động.
@@ -18,6 +24,7 @@ Gồm có 3 thành phần chính:
 Thiết bị nhận sẽ tính toán được khoảng thời gian kể từ khi vệ tinh bắt đầu phát tín hiệu cho đến khi nhận được tín hiệu, từ đó tính toán được độ dài quãng đường truyền nhận. 
 Từ mỗi vệ tinh, ta vẽ được đường tròn tập hợp các điểm với khoảng cách đến vệ tinh là bằng nhau. Với 3 vệ tinh sẽ dễ dàng xác định được kinh độ và vĩ độ của thiết bị.
 ![[Pasted image 20240412002628.png]]
+<center><em>Hình 1: Mô tả phương thức hoạt động của GPS<em></center>
 
 ## Các module phổ biến trên thị trường
 
