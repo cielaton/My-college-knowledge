@@ -82,4 +82,6 @@ Module I2C PCF8754 được sử dụng để làm trung gian kết nối giữa
 
 ![[Pasted image 20240413001654.png]]
 ## Sơ đồ hệ thống
-![[GPS-device.drawio(3).svg]]
+> Làm mạch in
+
+![[GPS-device.drawio(4).svg]]
