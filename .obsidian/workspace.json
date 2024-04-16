@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+                "file": "21ES/Họp khoa/Nội quy C117.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+                "file": "21ES/Họp khoa/Nội quy C117.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md"
+                "file": "21ES/Họp khoa/Nội quy C117.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+                "file": "21ES/Họp khoa/Nội quy C117.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +219,10 @@
   },
   "active": "60e7c06e177b3f3e",
   "lastOpenFiles": [
+    "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+    "21ES/Họp khoa/Nội quy C117.md",
+    "21ES/Họp khoa/Họp khoa.md",
+    "21ES/Họp khoa",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412002628.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240413001654.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240413000738.png",
@@ -226,12 +230,10 @@
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412222022.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412131318.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412131103.png",
-    "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
     "Learning/Year 3 - Semester 2/Signal and Systems/Signal and Systems.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(4).svg",
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(3).svg",
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(2).svg",
-    "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(1).svg",
     "Learning/Year 3 - Semester 2/STM32/Final project/Final project.md",
     "Learning/Year 3 - Semester 2/STM32/Final project",
     "Learning/Year 3 - Semester 2/STM32/Midterm/Midterm.md",
@@ -262,9 +264,7 @@
     "Vault.md",
     "Learning/Year 3 - Semester 1/Year 3 - Semester 1.md",
     "Learning/Learning.md",
-    "Learning",
     "Working/Working.md",
-    "Untitled.md",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
