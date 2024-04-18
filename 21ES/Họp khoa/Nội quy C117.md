@@ -7,4 +7,5 @@
 7. Không tự ý di chuyển máy móc và dụng cụ, tháo mở, thay đổi cài đặt thiết bị.
 8. Sinh viên có trách nhiệm bảo quản, giữ gìn trang thiết bị, thông báo kịp thời các sự cố, hỏng hóc về cơ sở vật chất.
 9. Trước khi rời phòng, thực hiện công tác vệ sinh tại chỗ, tắt các máy móc, thiết bị không sử dụng.
-# Trói con đĩ Hưng lại quẳng ra khỏi phòng để giữ gìn trật tự
+
+tool, thiết bị, máy móc, sơn
