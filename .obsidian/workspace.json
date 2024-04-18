@@ -11,11 +11,26 @@
             "id": "60e7c06e177b3f3e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "mk-space",
+              "state": {
+                "path": "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor"
+              }
+            }
+          },
+          {
+            "id": "141e52c3a2ccd38a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md"
+              }
             }
           },
           {
@@ -160,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,10 +228,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60e7c06e177b3f3e",
+  "active": "141e52c3a2ccd38a",
   "lastOpenFiles": [
-    "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
+    "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
+    "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
+    "21ES/Họp chủ nhiệm/Kỳ 2, đợt 1, năm 3.md",
+    "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Hierarchical Modeling Concepts.md",
+    "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
+    "Learning/Year 2 - Semester 2/Discrete mathematics/Functions, Sequences, and Relations/Functions/Functions.md",
+    "Learning/Year 2 - Semester 2/Discrete mathematics/Functions, Sequences, and Relations/Functions, Sequences, and Relations.md",
+    "Learning/Year 2 - Semester 2/Discrete mathematics/Discrete mathematics.md",
+    "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
+    "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/The i-v characteristics of the bipolar transistor/Output characteristics/Output characteristics.md",
     "21ES/Họp khoa/Nội quy C117.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
@@ -244,19 +272,10 @@
     "Learning/Year 3 - Semester 2/Verilog/Verilog.md",
     "Learning/Year 3 - Semester 2/Verilog",
     "Learning/Year 3 - Semester 2/STM32",
-    "Learning/Year 3 - Semester 2/Signal and System/Signal and System.md",
     "Learning/Year 3 - Semester 2/Signal and System",
-    "Working/Firefly-III/Firefly-III Docker installation.md",
     "Spaces/Home",
     "Spaces",
-    "Working/Firefly-III/Firefly-III installation guide.md",
-    "21ES/Họp chủ nhiệm/Kỳ 2, đợt 1, năm 3.md",
-    "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
-    "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
-    "Working/Archinstall documentation.md",
-    "Working/Firefly-III/Firefly-III.md",
     "Working/Firefly-III",
-    "Vault.md",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",

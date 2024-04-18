@@ -99,6 +99,11 @@ Module I2C PCF8754 được sử dụng để làm trung gian kết nối giữa
 ![[GPS-device.drawio(4).svg]]
 <center><em>Hình 7: Sơ đồ hệ thống</em></center>
 
+>[!note] Phương thức hoạt động
+>- Khi khởi động thiết bị lần đầu, người dùng sẽ sử dụng chuỗi định danh hiển thị trên màn hình LCD để bind thiết bị với ứng dụng.
+>- Người dùng nhập vị trí tham chiếu thông qua ứng dụng để lưu vào server.
+>- Thiết bị sẽ liên tục cập nhật dữ liệu về vị trí lên màn hình LCD, đồng thời gửi dữ liệu về server và so sánh.
+>- Nếu người dùng đi quá xa khỏi vị trí tham chiếu, server sẽ gửi cảnh báo về ứng dụng.
 ## Reference
 
 [^1]:: http://www.fidis.net/resources/fidis-deliverables/mobility-and-identity/int-d1110001/doc/10/

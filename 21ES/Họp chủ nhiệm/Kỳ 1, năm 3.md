@@ -8,7 +8,7 @@
 #### Kết quả học tập:
 | Xuất sắc | Giỏi | Khá | Trung Bình | Yếu |
 | -------- | ---- | --- | ---------- | --- |
-| 0        | 3    | 21  | 11         | 7    |
+| 0        | 3    | 21  | 11         | 7   |
 
 - Sinh viên giỏi cả năm: Lê Quốc Duy
 	- Kỳ 1: 8.88

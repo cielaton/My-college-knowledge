@@ -19,7 +19,3 @@ Ngoài ra còn có thông báo điều chỉnh mức thu học phí của DBKH, 
 Hiện tại quỹ lớp đang còn 115k và năm nay sẽ không tổ chức mua hoa tặng giảng viên ngày 8/3 nữa vì những môn có giảng viên nữ rơi vào đầu tuần sau và việc nộp quỹ đợt 2 còn chậm trễ.
 Hiện tại có chưa đến nửa lớp nộp quỹ đợt 2 (16 bạn), sau buổi họp mình sẽ lên thông báo về thời hạn nộp bổ sung.
 
-Giữa kỳ, liêm chính
-hdcd
-trang fr
-d
