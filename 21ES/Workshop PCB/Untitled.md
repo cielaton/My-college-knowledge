@@ -30,8 +30,9 @@
 		- Áp dụng các bước triển khai trên mạch nguồn.
 		- Giới thiệu thêm cách add thư viện, plugin nếu cần thiết.
 	- Thực hành
-- Gia công thủ công:
+- Gia công thủ công (giới thiệu):
 	- Áp dụng các quy trình ở trên.
+	- Chia ra mỗi trạng thái mạch cho mỗi quá trình.
 - Gia công công nghiệp:
 	- Tìm hiểu nơi đặt mạch, quy trình chế tạo 
 	- Các bước đặt cần thiết

@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 238.5
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -231,8 +231,10 @@
   },
   "active": "141e52c3a2ccd38a",
   "lastOpenFiles": [
-    "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+    "Learning/Year 2 - Semester 1/Year 2 - Semester 1.md",
+    "Learning/Learning.md",
     "21ES/Workshop PCB/Untitled.md",
+    "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
     "21ES/Workshop PCB/Workshop PCB.md",
     "21ES/Workshop PCB",
     "21ES/Untitled.md",
@@ -268,9 +270,7 @@
     "Learning/Year 3 - Semester 2/STM32/Midterm.md",
     "Learning/Year 3 - Semester 2/STM32/STM32.md",
     "Learning/Year 3 - Semester 2/STM32/.md",
-    "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md",
     "Learning/Year 3 - Semester 2/STM32/Midterm",
-    "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab.md",
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab",
     "Learning/Year 3 - Semester 2/Verilog",
     "Learning/Year 3 - Semester 2/STM32",
