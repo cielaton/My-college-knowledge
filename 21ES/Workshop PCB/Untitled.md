@@ -27,5 +27,14 @@
 - Giới thiệu phần mềm:
 	- Kicad:
 		- Tạo dự án
-		- Áp dụng các bước triển khai trên mach
+		- Áp dụng các bước triển khai trên mạch nguồn.
+		- Giới thiệu thêm cách add thư viện, plugin nếu cần thiết.
+	- Thực hành
+- Gia công thủ công:
+	- Áp dụng các quy trình ở trên.
+- Gia công công nghiệp:
+	- Tìm hiểu nơi đặt mạch, quy trình chế tạo 
+	- Các bước đặt cần thiết
+	- Lựa chọn có đóng linh kiện hay không
+	- 
 #### Loại mạch 
