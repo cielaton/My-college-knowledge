@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+                "file": "21ES/Workshop PCB/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 211.5
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+                "file": "21ES/Workshop PCB/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md"
+                "file": "21ES/Workshop PCB/Untitled.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+                "file": "21ES/Workshop PCB/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371
+    "width": 371,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,6 +231,12 @@
   },
   "active": "141e52c3a2ccd38a",
   "lastOpenFiles": [
+    "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+    "21ES/Workshop PCB/Untitled.md",
+    "21ES/Workshop PCB/Workshop PCB.md",
+    "21ES/Workshop PCB",
+    "21ES/Untitled.md",
+    "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
     "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",
     "21ES/Họp chủ nhiệm/Đợt 2, năm 3.md",
     "21ES/Họp chủ nhiệm/Kỳ 2, đợt 1, năm 3.md",
@@ -238,12 +245,10 @@
     "Learning/Year 2 - Semester 2/Discrete mathematics/Functions, Sequences, and Relations/Functions/Functions.md",
     "Learning/Year 2 - Semester 2/Discrete mathematics/Functions, Sequences, and Relations/Functions, Sequences, and Relations.md",
     "Learning/Year 2 - Semester 2/Discrete mathematics/Discrete mathematics.md",
-    "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/The i-v characteristics of the bipolar transistor/Output characteristics/Output characteristics.md",
     "21ES/Họp khoa/Nội quy C117.md",
-    "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
     "21ES/Họp khoa/Họp khoa.md",
     "21ES/Họp khoa",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412002628.png",
@@ -266,16 +271,12 @@
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab1.md",
     "Learning/Year 3 - Semester 2/STM32/Midterm",
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab/Lab.md",
-    "Learning/Year 3 - Semester 2/Year 3 - Semester 2.md",
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab",
-    "Learning/Year 3 - Semester 2/FPGA-Verilog/Midterm.md",
-    "Learning/Year 3 - Semester 2/Verilog/Verilog.md",
     "Learning/Year 3 - Semester 2/Verilog",
     "Learning/Year 3 - Semester 2/STM32",
     "Learning/Year 3 - Semester 2/Signal and System",
     "Spaces/Home",
     "Spaces",
-    "Working/Firefly-III",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
