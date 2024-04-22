@@ -1,6 +1,4 @@
 
-### Nội dung
-##### Buổi 1:
 - Giới thiệu về mạch PCB:
 	- Mạch PCB là gì.
 	- Lợi ích
@@ -37,5 +35,3 @@
 	- Tìm hiểu nơi đặt mạch, quy trình chế tạo 
 	- Các bước đặt cần thiết
 	- Lựa chọn có đóng linh kiện hay không
-	- 
-#### Loại mạch 
