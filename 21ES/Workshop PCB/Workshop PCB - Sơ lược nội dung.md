@@ -31,6 +31,3 @@
 - Tìm hiểu nơi đặt mạch, quy trình chế tạo 
 - Các bước đặt cần thiết
 - Lựa chọn có đóng linh kiện hay khônjg
-
-
-##

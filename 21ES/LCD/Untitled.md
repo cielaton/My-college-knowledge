@@ -34,5 +34,9 @@
 - 3h chiều mai.
 
 # Hùng biện
-Không có người phụ họa
+Không có người phụ họa.
 
+# workshop
+- 8h ngày 4/5/2024
+- C303 - 304
+- Dự kiến: 70 người chưa tính btc

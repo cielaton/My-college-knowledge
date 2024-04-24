@@ -70,7 +70,8 @@
     "//21ES/21ES/Workshop PCB",
     "//Working",
     "//Learning",
-    "//21ES"
+    "//21ES",
+    "//21ES/21ES/LCD"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
