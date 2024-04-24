@@ -1,5 +1,5 @@
 # Feedback FC
-- Duy: Quyết định thuê tài ngoài sớm hơn.
+- Duy: Quyết định thuê tài ngoài sớm hơn. Bài đăng có cờ giải nhưng cuối cùng lại không phát.
 - Hưng: Vấn đề vệ sinh (chai nước, nhất là vào lúc kết thúc). Thiếu nhân sự dọn dẹp. Mâu thuẫn giữa các đội (vấn đề tài chính, chi tiêu, nên làm rõ sớm hơn). Thêm bình luận viên.
 - Lan: Vấn đề đi nhậu. Phân công chụp ảnh không đồng đều.
 - Phước: 
@@ -19,7 +19,20 @@
 	- Chụp ảnh: Khong quan tâm, nói gì nói.
 	- Nhân sự còn bị động: Đặc biệt là trật tự.
 	- Truyền thông: Sắp xếp công việc chưa hợp lý về nhiều mặt.
+	- Thiếu hụt nhân sự: 
 
 # Cắm trại
 - Khảo sát:
 	- Vấn đề di chuyển: Khó kiểm soát nên đi gần.
+
+# Tự hào bản sắc
+- Dự kiến: 5/5
+- Không đủ nhân sự, yêu cầu mỗi lớp 80%.
+- Cân nhắc mức thưởng khuyến khích.
+
+# Quay cái gì đó
+- 3h chiều mai.
+
+# Hùng biện
+Không có người phụ họa
+
