@@ -3,7 +3,7 @@
 - So sánh với các loại mạch khác.
 - Tổng quan quy trình chế tạo.
 	-  Sơ đồ mạch
-	-  Triển khai trên ứng dụng pcb design (kicad, altium, proteus, eagle, ...).
+	-  Triển khai trên ứng dụng pcb design (**kicad**, altium, proteus, eagle, ...).
 	- Nếu làm thủ công: Thiết kế đơn giản.
 		- In mạch lên giấy in mạch.
 		- Là lên miếng đồng
@@ -13,7 +13,7 @@
 		- Phủ lớp bảo vệ
 	- Nếu gửi gia công công nghiệp: Đáp ứng các yêu cầu, quy chuẩn sản xuất.
 #### Giới thiệu phần mềm:
-##### Kicad
+###### Kicad
 - Tạo dự án
 - Vẽ sơ đồ mạch.
 - Chọn linh kiện + footprint.
@@ -25,7 +25,7 @@
 - Simulate (optional).
 - Giới thiệu thêm cách add thư viện, plugin nếu cần thiết.
 - Thực hành
-####  Gia công thủ công (giới thiệu):
+#### Gia công thủ công (giới thiệu):
 - Chia ra mỗi trạng thái mạch cho mỗi quá trình.
 #### Gia công công nghiệp (giới thiệu):
 - Tìm hiểu nơi đặt mạch, quy trình chế tạo 
