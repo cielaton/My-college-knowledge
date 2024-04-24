@@ -4,14 +4,6 @@
 - Tổng quan quy trình chế tạo.
 	-  Sơ đồ mạch
 	-  Triển khai trên ứng dụng pcb design (kicad, altium, proteus, eagle, ...).
-		- Vẽ sơ đồ mạch.
-		- Chọn linh kiện + footprint.
-			-  Chọn linh kiện cắm (Indip)
-			-  Linh kiện dán (SMD)
-		- Sắp xếp linh kiện + đóng khối.
-		- Đi dây.
-		- Thêm ký hiệu + signature (optional).
-		- Simulate (optional).
 	- Nếu làm thủ công: Thiết kế đơn giản.
 		- In mạch lên giấy in mạch.
 		- Là lên miếng đồng
@@ -23,7 +15,14 @@
 #### Giới thiệu phần mềm:
 - Kicad:
 	- Tạo dự án
-	- Áp dụng các bước triển khai trên mạch nguồn.
+	-  Vẽ sơ đồ mạch.
+	-  Chọn linh kiện + footprint.
+	-  Chọn linh kiện cắm (Indip)
+	-  Linh kiện dán (SMD)
+	- Sắp xếp linh kiện + đóng khối.
+	- Đi dây.
+	- Thêm ký hiệu + signature (optional).
+	- Simulate (optional).
 	- Giới thiệu thêm cách add thư viện, plugin nếu cần thiết.
 	- Thực hành
 ####  Gia công thủ công (giới thiệu):

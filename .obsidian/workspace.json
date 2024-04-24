@@ -42,7 +42,7 @@
       {
         "id": "f372fa0be789290b",
         "type": "tabs",
-        "dimension": 52.88844621513944,
+        "dimension": 56.37450199203188,
         "children": [
           {
             "id": "9f1e38fcebc82a6a",
@@ -107,7 +107,7 @@
       {
         "id": "2ef7a3f21d3be403",
         "type": "tabs",
-        "dimension": 47.11155378486056,
+        "dimension": 43.625498007968126,
         "children": [
           {
             "id": "21a132be76e67910",
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 397.5
   },
   "right": {
     "id": "38fad986ac2c2ce1",
@@ -229,10 +229,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "141e52c3a2ccd38a",
+  "active": "9607d3cc37b465d9",
   "lastOpenFiles": [
-    "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
     "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
+    "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
     "Learning/Year 2 - Semester 1/Year 2 - Semester 1.md",
     "Learning/Learning.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
