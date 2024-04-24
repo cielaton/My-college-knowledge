@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b35c51582879427",
+        "id": "a786d80195e53b5c",
         "type": "tabs",
         "children": [
           {
-            "id": "60e7c06e177b3f3e",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor"
-              }
-            }
-          },
-          {
-            "id": "141e52c3a2ccd38a",
+            "id": "c9140e69e9feb1ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,8 +218,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9607d3cc37b465d9",
+  "active": "c9140e69e9feb1ce",
   "lastOpenFiles": [
+    "Learning/Year 2 - Semester 1/Electronics and Devices/Electronics and Devices.md",
+    "Learning/Year 2 - Semester 1/Electronics and Devices/Solid-State diodes and Diode circuits/Analysis of diodes operating in the breakdown region/Analysis of diodes operating in the breakdown region.md",
+    "Learning/Year 2 - Semester 1/Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
     "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
     "Learning/Year 2 - Semester 1/Year 2 - Semester 1.md",
@@ -267,9 +259,6 @@
     "Learning/Year 3 - Semester 2/STM32/Final project/Final project.md",
     "Learning/Year 3 - Semester 2/STM32/Final project",
     "Learning/Year 3 - Semester 2/STM32/Midterm/Midterm.md",
-    "Learning/Year 3 - Semester 2/STM32/Midterm.md",
-    "Learning/Year 3 - Semester 2/STM32/STM32.md",
-    "Learning/Year 3 - Semester 2/STM32/.md",
     "Learning/Year 3 - Semester 2/STM32/Midterm",
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab",
     "Learning/Year 3 - Semester 2/Verilog",
