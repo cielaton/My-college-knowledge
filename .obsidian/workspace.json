@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
+                "file": "21ES/LCD/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
+                "file": "21ES/LCD/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md"
+                "file": "21ES/LCD/Untitled.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
+                "file": "21ES/LCD/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,10 +220,13 @@
   },
   "active": "c9140e69e9feb1ce",
   "lastOpenFiles": [
+    "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
+    "21ES/LCD/Untitled.md",
+    "21ES/LCD/LCD.md",
+    "21ES/LCD",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Electronics and Devices.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Solid-State diodes and Diode circuits/Analysis of diodes operating in the breakdown region/Analysis of diodes operating in the breakdown region.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Solid-State diodes and Diode circuits/Solid-State diodes and Diode circuits.md",
-    "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
     "Learning/Year 2 - Semester 1/Year 2 - Semester 1.md",
     "Learning/Learning.md",
@@ -256,16 +259,13 @@
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(4).svg",
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(3).svg",
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(2).svg",
-    "Learning/Year 3 - Semester 2/STM32/Final project/Final project.md",
     "Learning/Year 3 - Semester 2/STM32/Final project",
-    "Learning/Year 3 - Semester 2/STM32/Midterm/Midterm.md",
     "Learning/Year 3 - Semester 2/STM32/Midterm",
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab",
     "Learning/Year 3 - Semester 2/Verilog",
     "Learning/Year 3 - Semester 2/STM32",
     "Learning/Year 3 - Semester 2/Signal and System",
     "Spaces/Home",
-    "Spaces",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
