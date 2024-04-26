@@ -105,7 +105,6 @@ Module I2C PCF8754 được sử dụng để làm trung gian kết nối giữa
 >- Thiết bị sẽ liên tục cập nhật dữ liệu về vị trí lên màn hình LCD, đồng thời gửi dữ liệu về server và so sánh.
 >- Nếu người dùng đi quá xa khỏi vị trí tham chiếu, server sẽ gửi cảnh báo về ứng dụng.
 
-
 # Design
 - Block diagram
 - Pseudo code
@@ -119,7 +118,9 @@ Module I2C PCF8754 được sử dụng để làm trung gian kết nối giữa
 - Có tiêu chí
 - Test case
 - Nhiều lần
-- 
+
+# Thuyết trình NMEA
+
 
 ## Reference
 
