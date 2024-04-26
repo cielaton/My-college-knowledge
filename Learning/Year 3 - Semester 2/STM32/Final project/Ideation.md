@@ -106,6 +106,21 @@ Module I2C PCF8754 được sử dụng để làm trung gian kết nối giữa
 >- Nếu người dùng đi quá xa khỏi vị trí tham chiếu, server sẽ gửi cảnh báo về ứng dụng.
 
 
+# Design
+- Block diagram
+- Pseudo code
+- Flowchart
+- Schematic
+- Với truyền nhận dữ liệu: Giản đồ sequence (diagram)
+- Function decomposition 
+
+# Prototype
+# Thực hiện thử nghiệm
+- Có tiêu chí
+- Test case
+- Nhiều lần
+- 
+
 ## Reference
 
 [^1]:: http://www.fidis.net/resources/fidis-deliverables/mobility-and-identity/int-d1110001/doc/10/
