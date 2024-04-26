@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21ES/LCD/Untitled.md",
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21ES/LCD/Untitled.md",
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21ES/LCD/Untitled.md"
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21ES/LCD/Untitled.md",
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,9 +219,10 @@
   },
   "active": "c9140e69e9feb1ce",
   "lastOpenFiles": [
+    "Learning/Year 3 - Semester 2/STM32/Final project/Final project.md",
+    "21ES/LCD/Untitled.md",
     "21ES/LCD/LCD.md",
     "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
-    "21ES/LCD/Untitled.md",
     "21ES/LCD",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Electronics and Devices.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Solid-State diodes and Diode circuits/Analysis of diodes operating in the breakdown region/Analysis of diodes operating in the breakdown region.md",
@@ -255,7 +255,6 @@
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412222022.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412131318.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412131103.png",
-    "Learning/Year 3 - Semester 2/Signal and Systems/Signal and Systems.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(4).svg",
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(3).svg",
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(2).svg",
