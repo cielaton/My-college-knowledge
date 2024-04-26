@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md"
+                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
+                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +219,8 @@
   },
   "active": "c9140e69e9feb1ce",
   "lastOpenFiles": [
+    "21ES/Workshop PCB/Workshop PCB.md",
+    "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/Final project.md",
     "21ES/LCD/Untitled.md",
     "21ES/LCD/LCD.md",
@@ -230,8 +232,6 @@
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Physical structure of the bipolar transistor/Physical structure of the bipolar transistor.md",
     "Learning/Year 2 - Semester 1/Year 2 - Semester 1.md",
     "Learning/Learning.md",
-    "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
-    "21ES/Workshop PCB/Workshop PCB.md",
     "21ES/Workshop PCB",
     "21ES/Untitled.md",
     "21ES/Họp chủ nhiệm/Kỳ 1, năm 3.md",

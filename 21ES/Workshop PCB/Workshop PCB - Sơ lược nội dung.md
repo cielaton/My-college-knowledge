@@ -6,7 +6,7 @@
 	-  Triển khai trên ứng dụng pcb design (**kicad**, altium, proteus, eagle, ...).
 	- Nếu làm thủ công: Thiết kế đơn giản.
 		- In mạch lên giấy in mạch.
-		- Là lên miếng đồng
+		- Là (bằng bàn là) lên miếng đồng
 		- Ngâm hóa chất
 		- Khoan lỗ 
 		- Hàn linh kiện
@@ -17,8 +17,7 @@
 - Tạo dự án
 - Vẽ sơ đồ mạch.
 - Chọn linh kiện + footprint.
-- Chọn linh kiện cắm (Indip)
-- Linh kiện dán (SMD)
+- Chọn linh kiện cắm (Indip) hoặc linh kiện dán (SMD)
 - Sắp xếp linh kiện + đóng khối.
 - Đi dây.
 - Thêm ký hiệu + signature (optional).
