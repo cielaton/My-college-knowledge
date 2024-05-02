@@ -124,7 +124,7 @@ Module I2C PCF8754 được sử dụng để làm trung gian kết nối giữa
 ## Reference
 
 [^1]:: http://www.fidis.net/resources/fidis-deliverables/mobility-and-identity/int-d1110001/doc/10/
-[^2]: https://www.gpsworld.com/what-exactly-is-gps-nmea-data/
+[^2]: https://www.gpsworld.com/what-exactly-is-gps-nmea-data/https://www.gpsworld.com/what-exactly-is-gps-nmea-data/
 [^3]: https://www.proe.vn/l76x-multi-gnss-module-gps-bds-qzss
 [^4]: https://tapit.vn/giao-tiep-stm32f103c8t6-voi-lcd-16x2-thong-qua-module-i2c/
 [^5]: https://car.mybk.vn/threads/stm32-dung-vi-dieu-khien-stm32f4-giao-tiep-voi-man-hinh-lcd.337/
