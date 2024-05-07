@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum computer - What can be done to improve.md",
+                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum computer - What can be done to improve.md",
+                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum computer - What can be done to improve.md"
+                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum computer - What can be done to improve.md",
+                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,11 +232,11 @@
   },
   "active": "393b24c6c50e34d6",
   "lastOpenFiles": [
+    "21ES/Workshop PCB/Workshop PCB.md",
     "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
     "Quantum computer - What can be done to improve.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/Final project.md",
-    "21ES/Workshop PCB/Workshop PCB.md",
     "21ES/LCD/Untitled.md",
     "21ES/LCD/LCD.md",
     "21ES/LCD",
