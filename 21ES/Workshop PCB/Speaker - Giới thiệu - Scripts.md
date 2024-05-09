@@ -20,3 +20,5 @@ Chúng ta sẽ so sánh một chút với mạch Breadboard, một loại mạch
 Tất cả những lý do trên cho ta thấy được PCB chiếm ưu thế trong các dự án dài hạn hoặc cần độ tin cậy cao vì nó mang lại độ bền, độ nhỏ gọn và tính ổn định hiệu quả. Ngoài ra, PCB còn cung cấp cho ta khả năng thiết kế và điều chỉnh cấu trúc mạch một cách chính xác, khiến chúng phù hợp với các dự án phức tạp.
 
 ### Ứng dụng
+Vì các ưu điểm vượt trội trên, PCB được ứng dụng rất rộng rãi trong mọi lĩnh vực có liên quan đến điện tử.
+- Điện tử dân dụng: Đây là lĩnh vực đễ dàng liên hệ nhất vì nó phổ biến và có ở xung quanh chúng ta. Từ các thiết bị di động như điện thoại, radio cầm tay, cho đến máy tính bàn, laptop. Cả các thiết bị giải trí như loa cũng cần có các bo mạch xử lý
