@@ -24,4 +24,9 @@ Vì các ưu điểm vượt trội trên, PCB được ứng dụng rất rộn
 - Điện tử dân dụng: Đây là lĩnh vực đễ dàng liên hệ nhất vì nó phổ biến và có ở xung quanh chúng ta. Từ các thiết bị di động như điện thoại, radio cầm tay, cho đến máy tính bàn, laptop. Cả các thiết bị giải trí như loa cũng cần có các bo mạch xử lý.
 - Công nghiệp: Lĩnh vưc này yêu cầu các bo mạch có khả năng hỗ trợ các thiết bị công suất cao và bền bỉ, PCB là lựa chọn tốt nhất cho điều này. Bao gồm Máy lắp ráp, bộ nguồn, thiết bị đo lường, ...
 - Y tế: Đây là nhóm ngành yêu cầu các bo mạch có tiêu chuẩn và độ tin cậy cao do ảnh hưởng đến sức khỏe. Bao gồm máy chụp X-quang, máy đo đường huyết, đo nhịp tim, máy phẫu thuật, ...
-- Sản xuất ô tô: Môi trường mà các bo mạch này hoạt động sẽ có yêu cầu về khả năng chịu được độ rung cao. 
+- Sản xuất ô tô: Môi trường mà các bo mạch này hoạt động sẽ có yêu cầu về khả năng chịu được độ rung cao. Cần sử dụng một số chất liệu đặc biệt để tạo nên các PCB dùng trong các hệ thống điều khiển và xử lý tuyến đường, hệ thống tự lái, hệ thống định vị, ...
+
+### Cấu tạo:
+![[Pasted image 20240509155144.png]]
+- Đây là hình vẽ mô phỏng cấu trúc của một mạch in cơ bản, bao gồm 2 lớp đồng ở mặt trên và mặt dưới
+- 
