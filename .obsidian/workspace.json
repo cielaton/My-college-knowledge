@@ -138,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,11 +226,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f1e38fcebc82a6a",
+  "active": "21a132be76e67910",
   "lastOpenFiles": [
+    "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
     "21ES/Workshop PCB/Pasted image 20240509155144.png",
     "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
-    "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
     "21ES/Workshop PCB/Workshop PCB.md",
     "Quantum computer - What can be done to improve.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
@@ -270,7 +266,6 @@
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412131103.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(4).svg",
     "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(3).svg",
-    "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(2).svg",
     "Learning/Year 3 - Semester 2/STM32/Final project",
     "Learning/Year 3 - Semester 2/STM32/Midterm",
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab",

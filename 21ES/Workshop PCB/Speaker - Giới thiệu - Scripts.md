@@ -32,5 +32,5 @@ Vì các ưu điểm vượt trội trên, PCB được ứng dụng rất rộn
 - Lớp nền: Chất liệu cơ bản, thường là sợi thủy tinh, cung cấp độ cứng và hỗ trợ cho các lớp khác.
 - Lớp đồng: Lớp kim loại dẫn điện, tạo thành các đường dẫn và các điểm hàn cho linh kiện.
 - Lớp che phủ: Chất liệu cách điện, bảo vệ các đường dẫn và linh kiện khỏi bụi bẩn, hơi ẩm và các tác nhân bên ngoài. Thường là nhựa thông pha xăng thơm.
-- Lỗ khoan: Sử dụng để gắn vít, định vị linh kiện hoặc tạo kết nối giữa các lớp.
+- Lỗ khoan: Sử dụng để gắn vít, định vị linh kiện hoặc tạo kết nối giữa các lớp. Trong hình minh họa là mạch 2 lớp, một số vị trí lỗ khoan có thể được nối đồng từ mặt trên xuống mặt dưới, tạo nên tính linh hoạt trong thiết kế.
 - Silk screen: Đánh dấu các đường dẫn và vị trí cần gắn linh kiện.
