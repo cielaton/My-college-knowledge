@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md"
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,8 +232,9 @@
   },
   "active": "393b24c6c50e34d6",
   "lastOpenFiles": [
-    "21ES/Workshop PCB/Workshop PCB.md",
     "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
+    "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
+    "21ES/Workshop PCB/Workshop PCB.md",
     "Quantum computer - What can be done to improve.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/Final project.md",
@@ -259,7 +260,6 @@
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/The i-v characteristics of the bipolar transistor/Output characteristics/Output characteristics.md",
-    "21ES/Họp khoa/Nội quy C117.md",
     "21ES/Họp khoa",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412002628.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240413001654.png",
