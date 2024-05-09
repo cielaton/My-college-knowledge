@@ -22,5 +22,6 @@ Tất cả những lý do trên cho ta thấy được PCB chiếm ưu thế tro
 ### Ứng dụng
 Vì các ưu điểm vượt trội trên, PCB được ứng dụng rất rộng rãi trong mọi lĩnh vực có liên quan đến điện tử.
 - Điện tử dân dụng: Đây là lĩnh vực đễ dàng liên hệ nhất vì nó phổ biến và có ở xung quanh chúng ta. Từ các thiết bị di động như điện thoại, radio cầm tay, cho đến máy tính bàn, laptop. Cả các thiết bị giải trí như loa cũng cần có các bo mạch xử lý.
-- Công nghiệp: Lĩnh vưc này yêu cầu các bo mạch có khả năng hỗ trợ các thiết bị công suất cao và bền bỉ, PCB là lựa chọn tốt nhất cho điều này.
-- 
+- Công nghiệp: Lĩnh vưc này yêu cầu các bo mạch có khả năng hỗ trợ các thiết bị công suất cao và bền bỉ, PCB là lựa chọn tốt nhất cho điều này. Bao gồm Máy lắp ráp, bộ nguồn, thiết bị đo lường, ...
+- Y tế: Đây là nhóm ngành yêu cầu các bo mạch có tiêu chuẩn và độ tin cậy cao do ảnh hưởng đến sức khỏe. Bao gồm máy chụp X-quang, máy đo đường huyết, đo nhịp tim, máy phẫu thuật, ...
+- Sản xuất ô tô: Môi trường mà các bo mạch này hoạt động sẽ có yêu cầu về khả năng chịu được độ rung cao. 
