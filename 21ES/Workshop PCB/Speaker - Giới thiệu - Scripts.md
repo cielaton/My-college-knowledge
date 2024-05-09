@@ -9,3 +9,14 @@ PCB viết tắt cho Printed Circuit Board, được dịch ra là bảng mạch
 Đây là một tấm vật liệu cách điện, thường được làm từ sợi thủy tinh, phủ lên một lớp kim loại dẫn điện như đồng. Trên bề mặt của lớp kim loại này sẽ được “in” các đường dẫn điện và các vị trí để gắn các linh kiện điện tử.
 Như các bạn có thể thấy trên hình, con trở tại đây có một chân được nối đến chiếc tụ gốm bên cạnh, một lát nữa thôi các bạn sẽ hiểu được cách mà chúng ta có thể tạo ra các đường nối gọn gàng như vậy trong quá trình thực hành.
 
+### Tại sao lại là mạch in?
+Chúng ta sẽ so sánh một chút với mạch Breadboard, một loại mạch mà gần như không ai trong các bạn là không biết.
+
+- Cấu trúc: PCB có cấu trúc như đã nêu ra ở phần khái niệm, còn breadboard là bo mạch có chứa các lỗ được nối dẫn điện, chúng hoàn toàn khác nhau về mặt cấu trúc.
+- PCB yêu cầu hàn để tạo kết nối giữa các linh kiện với bo mạch, còn breadboard được sinh ra để dùng dây cắm vì cấu trúc có các lỗ dẫn điện.
+- PCB cho chúng ta khả năng tạo ra những loại mạch có độ phức tạp và tính chính xác cao, trong khi đó Breadboard chỉ phù hợp với các dự án đơn giản.
+- Vì các linh kiện được hàn chắc vào mạch nên PCB cho ta sự kết nối an toàn và ổn định, trong khi đó nếu các bạn đã từng thực hành trên breadboard, chắc chắn đã từng ít nhất một lần gặp trường hợp dây cắm bị lỏng khiến cho tín hiệu và sự kết nối bị chập chờn.
+
+Tất cả những lý do trên cho ta thấy được PCB chiếm ưu thế trong các dự án dài hạn hoặc cần độ tin cậy cao vì nó mang lại độ bền, độ nhỏ gọn và tính ổn định hiệu quả. Ngoài ra, PCB còn cung cấp cho ta khả năng thiết kế và điều chỉnh cấu trúc mạch một cách chính xác, khiến chúng phù hợp với các dự án phức tạp.
+
+### Ứng dụng
