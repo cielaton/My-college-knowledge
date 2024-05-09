@@ -29,4 +29,8 @@ Vì các ưu điểm vượt trội trên, PCB được ứng dụng rất rộn
 ### Cấu tạo:
 ![[Pasted image 20240509155144.png]]
 - Đây là hình vẽ mô phỏng cấu trúc của một mạch in cơ bản, bao gồm 2 lớp đồng ở mặt trên và mặt dưới
-- 
+- Lớp nền: Chất liệu cơ bản, thường là sợi thủy tinh, cung cấp độ cứng và hỗ trợ cho các lớp khác.
+- Lớp đồng: Lớp kim loại dẫn điện, tạo thành các đường dẫn và các điểm hàn cho linh kiện.
+- Lớp che phủ: Chất liệu cách điện, bảo vệ các đường dẫn và linh kiện khỏi bụi bẩn, hơi ẩm và các tác nhân bên ngoài. Thường là nhựa thông pha xăng thơm.
+- Lỗ khoan: Sử dụng để gắn vít, định vị linh kiện hoặc tạo kết nối giữa các lớp.
+- Silk screen: Đánh dấu các đường dẫn và vị trí cần gắn linh kiện.
