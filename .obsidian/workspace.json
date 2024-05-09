@@ -138,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md"
+              }
             }
           },
           {
@@ -176,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,11 +230,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21a132be76e67910",
+  "active": "393b24c6c50e34d6",
   "lastOpenFiles": [
+    "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
     "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
     "21ES/Workshop PCB/Pasted image 20240509155144.png",
-    "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
     "21ES/Workshop PCB/Workshop PCB.md",
     "Quantum computer - What can be done to improve.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
