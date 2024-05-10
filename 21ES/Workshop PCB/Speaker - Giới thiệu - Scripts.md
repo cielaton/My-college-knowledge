@@ -42,3 +42,8 @@ Việc thiết kế mạch in được hỗ trợ bởi rất nhiều ứng dụ
 - Proteus: Đây có lẽ là phần mềm quen thuộc nhất đối với đa số người tham dự tại đây vì mọi người đã không ít thì nhiều nghe đến hoặc sử dụng nó cho các môn học liên quan đến điện tử.
 - **KiCad**: Đây là phần mềm miễn phí, mã nguồn mở, lại còn hỗ trợ đa nền tảng như Windows, MacOs, Linux, ... Khiến cho đây trở thành phần mềm phù hợp cho đại đa số người dùng, đặc biệt là những bạn mới tiếp cận với việc thiết kế mạch in.
 
+### Mạch cấp nguồn 5V DC 
+Đây là loại mạch rất phổ biến và cần thiết trong các thiết bị điện tử. Tụi mình lựa chọn loại mạch này vì cấu trúc dễ thiết kế và đa số các bạn sẽ gặp và làm việc với loại mạch này trong quá trình học tập hoặc làm dự án. Tất nhiên đây chỉ là một phiên bản tinh gọn và cơ bản nhất có thể để truyền tải thông tin cho buổi workshop hôm nay được tốt nhất, để có thể đưa vào sử dụng thì còn cần rất rất nhiều linh kiện, thành phần phức tạp cũng như các cấu trúc khác. Lấy ví dụ như con IC 
+##### Các thành phần chính: 
+- Terminal: Về cơ bản đây là nơi để nối nguồn hoặc các linh kiện bên ngoài vào mạch của chúng ta, nghĩ đến nó như 2 đầu dây hở mạch.
+- Diode cầu: 
