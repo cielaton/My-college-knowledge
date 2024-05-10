@@ -43,7 +43,8 @@ Việc thiết kế mạch in được hỗ trợ bởi rất nhiều ứng dụ
 - **KiCad**: Đây là phần mềm miễn phí, mã nguồn mở, lại còn hỗ trợ đa nền tảng như Windows, MacOs, Linux, ... Khiến cho đây trở thành phần mềm phù hợp cho đại đa số người dùng, đặc biệt là những bạn mới tiếp cận với việc thiết kế mạch in.
 
 ### Mạch cấp nguồn 5V DC 
-Đây là loại mạch rất phổ biến và cần thiết trong các thiết bị điện tử. Tụi mình lựa chọn loại mạch này vì cấu trúc dễ thiết kế và đa số các bạn sẽ gặp và làm việc với loại mạch này trong quá trình học tập hoặc làm dự án. Tất nhiên đây chỉ là một phiên bản tinh gọn và cơ bản nhất có thể để truyền tải thông tin cho buổi workshop hôm nay được tốt nhất, để có thể đưa vào sử dụng thì còn cần rất rất nhiều linh kiện, thành phần phức tạp cũng như các cấu trúc khác. Lấy ví dụ như con IC 
+Đây là loại mạch rất phổ biến và cần thiết trong các thiết bị điện tử. Tụi mình lựa chọn loại mạch này vì cấu trúc dễ thiết kế và đa số các bạn sẽ gặp và làm việc với loại mạch này trong quá trình học tập hoặc làm dự án. Tất nhiên đây chỉ là một phiên bản tinh gọn và cơ bản nhất có thể để truyền tải thông tin cho buổi workshop hôm nay được tốt nhất, để có thể đưa vào sử dụng thì còn cần rất rất nhiều linh kiện, thành phần phức tạp cũng như các cấu trúc khác. Lấy ví dụ như 7805, bản thân chiếc IC này đã được tích hợp rất nhiều thành phần mạch điện bên trong để giảm thiểu việc người dùng phải thiết kế từ đầu, chỉ cần mua về và gắn vào mạch là xong.
 ##### Các thành phần chính: 
 - Terminal: Về cơ bản đây là nơi để nối nguồn hoặc các linh kiện bên ngoài vào mạch của chúng ta, nghĩ đến nó như 2 đầu dây hở mạch.
-- Diode cầu: 
+- Diode cầu: Đây là thành phần chỉnh lưu, đóng vai trò biến điện áp AC tại đầu vào thành điện áp DC ở đầu ra.
+- Tụ điện (hóa):  
