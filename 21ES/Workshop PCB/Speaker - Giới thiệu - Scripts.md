@@ -34,7 +34,7 @@ Vì các ưu điểm vượt trội trên, PCB được ứng dụng rất rộn
 - Lớp che phủ: Chất liệu cách điện, bảo vệ các đường dẫn và linh kiện khỏi bụi bẩn, hơi ẩm và các tác nhân bên ngoài. Thường là nhựa thông pha xăng thơm.
 - Lỗ khoan: Sử dụng để gắn vít, định vị linh kiện hoặc tạo kết nối giữa các lớp. Trong hình minh họa là mạch 2 lớp, một số vị trí lỗ khoan có thể được nối đồng từ mặt trên xuống mặt dưới, tạo nên tính linh hoạt trong thiết kế.
 - Silk screen: Đánh dấu các đường dẫn và vị trí cần gắn linh kiện.
-
+Ngoài ra còn có các loại mạch với cấu trúc 4 - 6 - 8 lớp, nhưng nó quá phức tạp cho workshop ngày hôm nay. Chúng ta sẽ chỉ thiết kế và thực hành cho mạch in 1 lớp.
 ### Thiết kế
 Việc thiết kế mạch in được hỗ trợ bởi rất nhiều ứng dụng:
 - Altium Designer: Một trong những phần mềm phổ biến và mạnh mẽ nhất hiện nay. Có khả năng xuất tệp thống kê linh kiện điện tử, đi dây theo thuật toán tối ưu và phân tích lắp ráp linh kiện hoàn chỉnh.
@@ -57,3 +57,5 @@ Việc thiết kế mạch in được hỗ trợ bởi rất nhiều ứng dụ
 Đặt vào 2 terminal ở bên tay trái một điện áp xoay chiều (yêu cầu trong khoảng từ 8 - 20V hiệu dụng vì L7805 chỉ có thể hoạt động trong khoảng này, có thể sử dụng máy biến áp nếu muốn cấp điện trực tiếp từ ổ điện dân dụng). Điện áp sau khi ra khỏi mạch chỉnh lưu sẽ trở thành điện áp một chiều, nhưng vẫn còn giữ cấu trúc dao động như cũ. Chúng ta cần một chiếc tụ mắc song song tại vị trí này, vì tụ điện có vai trò lưu trữ năng lượng, nên nó sẽ góp phần ổn định điện áp đầu ra tại mạch chỉnh lưu. (Sẽ giải thích chi tiết khi vẽ hình). 
 Sau khi đã có được mức điện áp ổn định, L7805 sẽ phát huy tác dụng của mình và đưa mức điện áp về xấp xỉ 5V, kết hợp với tụ chống nhiễu, chúng ta sẽ có được mức điện áp ổn định ở đầu ra và sẵn sàng nối với các thiết bị khác tại terminal bên phải.
 ![[Pasted image 20240510150151.png]]
+
+![[Pasted image 20240510150223.png]]

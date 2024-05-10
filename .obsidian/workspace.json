@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9140e69e9feb1ce",
+            "id": "393b24c6c50e34d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
-                "mode": "preview",
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "393b24c6c50e34d6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "21ES/Workshop PCB/Pasted image 20240510150151.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21ES/Workshop PCB/Pasted image 20240510150151.png",
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21ES/Workshop PCB/Pasted image 20240510150151.png"
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md"
               }
             }
           },
@@ -177,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21ES/Workshop PCB/Pasted image 20240510150151.png",
+                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,9 +219,10 @@
   },
   "active": "9f1e38fcebc82a6a",
   "lastOpenFiles": [
-    "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
+    "21ES/Workshop PCB/Pasted image 20240510150223.png",
     "21ES/Workshop PCB/Pasted image 20240510150151.png",
     "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
+    "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
     "21ES/Workshop PCB/Pasted image 20240509155144.png",
     "21ES/Workshop PCB/Workshop PCB.md",
     "Quantum computer - What can be done to improve.md",
