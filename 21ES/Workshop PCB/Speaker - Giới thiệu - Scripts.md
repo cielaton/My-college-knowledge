@@ -47,4 +47,13 @@ Việc thiết kế mạch in được hỗ trợ bởi rất nhiều ứng dụ
 ##### Các thành phần chính: 
 - Terminal: Về cơ bản đây là nơi để nối nguồn hoặc các linh kiện bên ngoài vào mạch của chúng ta, nghĩ đến nó như 2 đầu dây hở mạch.
 - Diode cầu: Đây là thành phần chỉnh lưu, đóng vai trò biến điện áp AC tại đầu vào thành điện áp DC ở đầu ra.
-- Tụ điện (hóa):  
+- Tụ điện (hóa):
+	- Tụ đầu tiên phía truớc L7805 có chức năng ổn định điện áp sau khi sang mạch chỉnh lưu.
+	- Tụ thứ hai sau 7805: Có chức năng lọc nhiễu cho điện áp đầu ra.
+- L7805: Đây là một mạch ổn áp tích hợp, có vai trò ổn định điện áp đầu ra ở mức 5V bất kể điện áp đầu vào thay đổi như thế nào đi nữa. 
+- Trờ và LED: Có vai trò kiểm tra xem liệu có dòng điện chạy qua các vị trí quan trọng trong mạch hay không.
+
+##### Nguyên lí hoạt động: 
+Đặt vào 2 terminal ở bên tay trái một điện áp xoay chiều (yêu cầu trong khoảng từ 8 - 20V hiệu dụng vì L7805 chỉ có thể hoạt động trong khoảng này, có thể sử dụng máy biến áp nếu muốn cấp điện trực tiếp từ ổ điện dân dụng). Điện áp sau khi ra khỏi mạch chỉnh lưu sẽ trở thành điện áp một chiều, nhưng vẫn còn giữ cấu trúc dao động như cũ. Chúng ta cần một chiếc tụ mắc song song tại vị trí này, vì tụ điện có vai trò lưu trữ năng lượng, nên nó sẽ góp phần ổn định điện áp đầu ra tại mạch chỉnh lưu. (Sẽ giải thích chi tiết khi vẽ hình). 
+Sau khi đã có được mức điện áp ổn định, L7805 sẽ phát huy tác dụng của mình và đưa mức điện áp về xấp xỉ 5V, kết hợp với tụ chống nhiễu, chúng ta sẽ có được mức điện áp ổn định ở đầu ra và sẵn sàng nối với các thiết bị khác tại terminal bên phải.
+![[Pasted image 20240510150151.png]]
