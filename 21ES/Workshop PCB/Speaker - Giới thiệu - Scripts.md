@@ -35,3 +35,4 @@ Vì các ưu điểm vượt trội trên, PCB được ứng dụng rất rộn
 - Lỗ khoan: Sử dụng để gắn vít, định vị linh kiện hoặc tạo kết nối giữa các lớp. Trong hình minh họa là mạch 2 lớp, một số vị trí lỗ khoan có thể được nối đồng từ mặt trên xuống mặt dưới, tạo nên tính linh hoạt trong thiết kế.
 - Silk screen: Đánh dấu các đường dẫn và vị trí cần gắn linh kiện.
 
+### Thiết kế
