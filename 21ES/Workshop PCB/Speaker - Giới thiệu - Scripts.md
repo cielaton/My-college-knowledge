@@ -36,3 +36,6 @@ Vì các ưu điểm vượt trội trên, PCB được ứng dụng rất rộn
 - Silk screen: Đánh dấu các đường dẫn và vị trí cần gắn linh kiện.
 
 ### Thiết kế
+Việc thiết kế mạch in được hỗ trợ bởi rất nhiều ứng dụng:
+- Altium Designer: Một trong những phần mềm nổi tiếng và mạnh mẽ nhất hiện nay. Có khả năng xuất tệp thống kê linh kiện điện tử, đi dây theo thuật toán tối ưu và phân tích lắp ráp linh kiện hoàn chỉnh.
+- 
