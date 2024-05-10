@@ -38,4 +38,7 @@ Vì các ưu điểm vượt trội trên, PCB được ứng dụng rất rộn
 ### Thiết kế
 Việc thiết kế mạch in được hỗ trợ bởi rất nhiều ứng dụng:
 - Altium Designer: Một trong những phần mềm phổ biến và mạnh mẽ nhất hiện nay. Có khả năng xuất tệp thống kê linh kiện điện tử, đi dây theo thuật toán tối ưu và phân tích lắp ráp linh kiện hoàn chỉnh.
-- Eagle: Là một trong số những phần mềm thiết kế của tập đoàn nổi tiếng Autodesk. Ngoài việc có đầy đủ các tín
+- Eagle: Là một trong số những phần mềm thiết kế của tập đoàn nổi tiếng Autodesk. Ngoài việc có đầy đủ các tính năng cần thiết cho việc thiết kế mạch in, Eagle còn hỗ trợ tính đồng bộ với các ứng dụng của hãng.
+- Proteus: Đây có lẽ là phần mềm quen thuộc nhất đối với đa số người tham dự tại đây vì mọi người đã không ít thì nhiều nghe đến hoặc sử dụng nó cho các môn học liên quan đến điện tử.
+- **KiCad**: Đây là phần mềm miễn phí, mã nguồn mở, lại còn hỗ trợ đa nền tảng như Windows, MacOs, Linux, ... Khiến cho đây trở thành phần mềm phù hợp cho đại đa số người dùng, đặc biệt là những bạn mới tiếp cận với việc thiết kế mạch in.
+
