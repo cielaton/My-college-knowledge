@@ -291,4 +291,20 @@ template <class T> T recursiveProduct(T arr[], int n) {
   return arr[n - 1] * recursiveProduct(arr, n-1);
 }
 ```
-Tham số truyền vào y như cũ, đối với cách đệ quy hoạt động thì mấy đư
+Tham số truyền vào y như cũ, đối với cách đệ quy hoạt động thì mấy đứa có thể tìm hiểu thêm, thậm chí search cái bài tính tích của mảng dùng đệ quy nó cũng ra á, vì giải thích bằng chữ rất khó hình dung nên anh khuyến khích nên google.
+Chúng ta test trong hàm main:
+```cpp
+int main() {
+  int arr[5] = {2, 2, 3, 4, 5};
+  int n = 5;
+
+  cout << "Iterative: " << iterativeProduct(arr, 5) << endl;
+  cout << "Recursive: " << recursiveProduct(arr, 5) << endl;
+}
+```
+Ở đây có thể khai báo thêm mảng float nữa vì mục đích của template là có thể sử dụng hàm với nhiều kiểu dữ liệu khác nhau.
+
+---
+### Một số nội dung cần chú ý khi ôn tập
+- Các nội dung cơ bản về Class: Khai báo, Constructor, Destructor, private với public, accessor và mutator, khai báo object, ....
+- Static, copy constructor, operator over
