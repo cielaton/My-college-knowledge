@@ -198,7 +198,7 @@ using namespace std;
 
 int main() {
   try {
-    Vehicle vehicleArr[2] = {Vehicle(2, "name1", 10), Vehicle( 1, "name2", 20)};
+    Vehicle vehicleArr[2] = {Vehicle(2, "name1", 10), Car(5, 1, "name2", 20)};
     cout << "the car name before change: " << vehicleArr[1].getName() << endl;
     vehicleArr[1].setName("nameafterchange");
     cout << "The Car name before change: " << vehicleArr[1].getName() << endl;
@@ -210,3 +210,85 @@ int main() {
 }
 ```
 Ở đây đề kêu viết array của 10 Vehicle nhưng anh lười nên viết 2 thôi, nếu mấy đứa muốn làm như này khi vào thi thì nhớ comment sang bên cạnh kiểu "để tiết kiệm thời gian nên em...", thầy dễ lắm. 
+Anh khai báo biến vehicleArr với kiểu dữ liệu là Vehicle, nhưng vì Car kế thừa từ Vehicle nên có thể gán vào mảng này một cách hợp lệ. 
+Tiếp theo thì show cách hàm getName, setName và nạp chồng toán tử == hoạt động.
+Exception mình throw ra khi khởi tạo object, tức là lúc mình khai báo cái vehicleArr, nên mình nhét nó vào trong block **try**. Sau đó **catch** cái exception được throw ra với tham số là **char const \*mgs**, mấy đứa lưu ý là trong slide thầy không có **const**, nhưng anh compile bị lỗi vì nó báo kiểu dữ liệu khi throw có **const**, mấy đứa vào thi thì skip đoạn này cũng được.
+
+Lưu ý là anh nhét hết tất cả vào trong block **try** bởi vì nếu chỉ nhét mỗi dòng khai báo hàm vào đó thôi, thì khi mình viết như kiểu
+```cpp
+#include "car.cpp"
+#include "vehicle.cpp"
+#include <iostream>
+using namespace std;
+
+int main() {
+  try {
+    Vehicle vehicleArr[2] = {Vehicle(2, "name1", 10), Car(5, 1, "name2", 20)};
+
+  } catch (char const *msg) {
+    cout << msg;
+  }
+    cout << "the car name before change: " << vehicleArr[1].getName() << endl;
+    vehicleArr[1].setName("nameafterchange");
+    cout << "The Car name before change: " << vehicleArr[1].getName() << endl;
+    cout << "Is the weight of vehicle 1 equal to the car?: "
+         << (vehicleArr[0] == vehicleArr[1]) << endl;
+}
+```
+C++ sẽ không tìm được biến vehicleArr vì nó được khai báo bên trong 1 block (try á), trong khi mình lại gọi nó ra ở ngoài block (nơi nó không tồn tại). Nên lưu ý là không viết kiểu này được nhé cẩn thận kẻo nhầm.
+
+### Problem 2:
+```cpp
+#include <iostream>
+
+using namespace std;
+
+template <class T> T iterativeProduct(T arr[], int n) {
+  T result = 1;
+  for (int i = 0; i < n; i++) {
+    result *= arr[i];
+  }
+  return result;
+}
+
+template <class T> T recursiveProduct(T arr[], int n) {
+  if (n == 0)
+    return 1;
+  return arr[n - 1] * recursiveProduct(arr, n-1);
+}
+
+int main() {
+  int arr[5] = {2, 2, 3, 4, 5};
+  int n = 5;
+
+  cout << "Iterative: " << iterativeProduct(arr, 5) << endl;
+  cout << "Recursive: " << recursiveProduct(arr, 5) << endl;
+}
+
+```
+Bài này yêu cầu mình viết hàm sử dụng template. Đầu tiên khai báo template theo cú pháp sau, lưu ý là mỗi lần khai báo template chỉ sử dụng được cho 1 hàm thôi, viết hàm sau thì phải khai báo lại.
+```cpp
+template <class T>
+```
+Sau đó sử dụng T làm kiểu dữ liệu chung trong lúc định nghĩa hàm.
+Chúng ta có hàm tính tích của mảng sử dụng vòng lặp:
+```cpp
+template <class T> T iterativeProduct(T arr[], int n) {
+  T result = 1;
+  for (int i = 0; i < n; i++) {
+    result *= arr[i];
+  }
+  return result;
+}
+```
+Truyền vào hàm tham số gồm mảng và độ lớn mảng. Biến result ban đầu là 1, mỗi lần lặp qua mảng thì nhân result với chính giá trị tương ứng của mảng, và cuối cùng là trả về result.
+
+Chúng ta có hàm tính tích của mảng sử dụng đệ quy:
+```cpp
+template <class T> T recursiveProduct(T arr[], int n) {
+  if (n == 0)
+    return 1;
+  return arr[n - 1] * recursiveProduct(arr, n-1);
+}
+```
+Tham số truyền vào y như cũ, đối với cách đệ quy hoạt động thì mấy đư
