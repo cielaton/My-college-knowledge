@@ -5,3 +5,4 @@
 Define class Car inherits from class Vehicle. It has the following member:
 - Variable nbSeats (an integer), accessor and mutator for this variable. Mutator throws an exception if nbSeats is negative.
 - Constructor throws an exception if nbSeats is negative.
+Write tg
