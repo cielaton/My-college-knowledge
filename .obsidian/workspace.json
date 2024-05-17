@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2a72ca718012d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,12 +230,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f1e38fcebc82a6a",
+  "active": "d2a72ca718012d58",
   "lastOpenFiles": [
+    "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
+    "Untitled.md",
     "21ES/Workshop PCB/Pasted image 20240510150223.png",
     "21ES/Workshop PCB/Pasted image 20240510150151.png",
     "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
-    "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
     "21ES/Workshop PCB/Pasted image 20240509155144.png",
     "21ES/Workshop PCB/Workshop PCB.md",
     "Quantum computer - What can be done to improve.md",
@@ -258,7 +271,6 @@
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412222022.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412131318.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412131103.png",
-    "Learning/Year 3 - Semester 2/STM32/Final project/GPS-device.drawio(4).svg",
     "Learning/Year 3 - Semester 2/STM32/Final project",
     "Learning/Year 3 - Semester 2/STM32/Midterm",
     "Learning/Year 3 - Semester 2/Signal and Systems/Lab",
