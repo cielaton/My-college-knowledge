@@ -43,7 +43,7 @@ public:
 
 #endif // !VEHICLE
 ```
-Ở đây chúng ta khai báo class Vehicle như bình thường, với các biến đã được cho trước trong đề. Trong đề có câu "Constructor accepts some arguments" thì có thể viết constructor nhận tất cả tham số cũng được, miễn là có throw exception khi một trong số các tham số đưa vào constructor không đạt yêu cầu. Ngoài ra nên viết thêm constructor mặc định nữa (nên, không bắt buộc). Lưu ý cách khai báo đối với dạng câu operator overloading là phải có keyword **operator**, phải có tham số **const vehicle &obj** để chỉ tham số bên tay phải của toán tử.
+Ở đây chúng ta khai báo class Vehicle như bình thường, với các biến đã được cho trước trong đề. Trong đề có câu "Constructor accepts some arguments" thì có thể viết constructor nhận tất cả tham số cũng được, miễn là có throw exception khi một trong số các tham số đưa vào constructor không đạt yêu cầu. Ngoài ra nên viết thêm constructor mặc định nữa (thật ra thì cứ viết luôn để khi viết constructor cho class kế thừa nó tiện hơn). Lưu ý cách khai báo đối với dạng câu operator overloading là phải có keyword **operator**, phải có tham số **const vehicle &obj** để chỉ tham số bên tay phải của toán tử.
 
 ##### Vehicle.cpp
 ```cpp
@@ -94,5 +94,119 @@ bool Vehicle::operator==(const Vehicle &obj) {
 
 ```
 - Đối với constructor mặc định, chúng ta gán các giá trị mặc định vào các biến của class.
-- Đối với constructor có các tham số, chúng ta đọc yêu cầu đề khi nào thì nên throw ra exception và thực hiện theo. Ở đây anh check chung cho cả 3 tham số luôn, chỉ cần sai 1 trong 3 là sẽ cho ra exception. Nếu
-- 
+```cpp
+Vehicle::Vehicle() {
+  ID = 0;
+  name = "";
+  weight = 0;
+}
+```
+- Đối với constructor có các tham số, chúng ta đọc yêu cầu đề khi nào thì nên throw ra exception và thực hiện theo. Ở đây anh check chung cho cả 3 tham số luôn, chỉ cần sai 1 trong 3 là sẽ cho ra exception. Nếu không lỗi thì gán giá trị vào bình thường.
+```cpp
+Vehicle::Vehicle(int IDVal, string nameVal, float weightVal) {
+  if (IDVal < 0 || weightVal < 0 || nameVal == "") {
+    throw("Error: The input value is invalid");
+  }
+  ID = IDVal;
+  name = nameVal;
+  weight = weightVal;
+}
+```
+- Đối với các hàm set, cũng throw ra exception mỗi khi tham số truyền vào bị sai yêu cầu.
+- Các hàm set thì viết như bình thường.
+- Đối với hàm nạp chồng toán tử, vì đề chỉ yêu cầu so sánh khi hai giá trị weight bằng nhau, nên chỉ cần viết return ngắn gọn như sau:
+```cpp
+bool Vehicle::operator==(const Vehicle &obj) {
+  return weight == obj.weight;
+}
+```
+	Lưu ý obj là object phía bên phải khi so sánh.
+
+
+##### Car.h
+```cpp
+#ifndef CAR
+#define CAR
+
+#include "vehicle.h"
+
+class Car : public Vehicle {
+private:
+  int nbSeats;
+
+public:
+  Car(int seat, int IDVal, string nameVal, float weightVal)
+      : Vehicle(IDVal, nameVal, weightVal) {
+    if (seat < 0) {
+      throw "Error: The seat number is invalid";
+    }
+    nbSeats = seat;
+  }
+
+  void setNbSeats(int seat) ;
+  int getNbSeats();
+};
+
+#endif // !CAR
+
+```
+
+Class Car được kế thừa từ class Vehicle, và mặc định chúng ta cứ xài luôn kế thừa với keyword là public:
+```cpp
+class Car : public Vehicle {};
+```
+Đối với constructor của class Car, mấy đứa có thể không truyền tham số vào Vehicle như kiểu:
+```cpp
+Car(int seat) {};
+```
+Khi này constructor mặc định của Vehicle sẽ được gọi để tạo object cho Car.
+Còn nếu muốn truyền các tham số cụ thể cho cả Vehicle thông qua Car thì:
+```cpp
+Car(int seat, int IDVal, string nameVal, float weightVal)
+      : Vehicle(IDVal, nameVal, weightVal) {
+    if (seat < 0) {
+      throw "Error: The seat number is invalid";
+    }
+    nbSeats = seat;
+  }
+```
+Ở đây các giá trị IDVal, nameVal, weightVal từ Car sẽ được truyền xuống Vehicle, đồng thời check nếu như tham số truyền vào nbSeats bé hơn 0 thì throw exception, nếu không thì gán giá trị vào biến nbSeats.
+Viết accessor and mutator cho nbSeats như bình thường.
+
+##### Car.cpp
+```cpp
+#include "car.h"
+
+void Car::setNbSeats(int seat) {
+  if (seat < 0) {
+    throw "Error: The seat number is invalid";
+  }
+  nbSeats = seat;
+}
+
+int Car::getNbSeats() { return nbSeats; }
+
+```
+Ở đây chỉ lưu ý throw exception nếu tham số truyền vào nbSeats bé hơn 0 khi viết hàm mutator thôi.
+
+##### main.h
+```cpp
+#include "car.cpp"
+#include "vehicle.cpp"
+#include <iostream>
+using namespace std;
+
+int main() {
+  try {
+    Vehicle vehicleArr[2] = {Vehicle(2, "name1", 10), Vehicle( 1, "name2", 20)};
+    cout << "the car name before change: " << vehicleArr[1].getName() << endl;
+    vehicleArr[1].setName("nameafterchange");
+    cout << "The Car name before change: " << vehicleArr[1].getName() << endl;
+    cout << "Is the weight of vehicle 1 equal to the car?: "
+         << (vehicleArr[0] == vehicleArr[1]) << endl;
+  } catch (char const *msg) {
+    cout << msg;
+  }
+}
+```
+Ở đây đề kêu viết array của 10 Vehicle nhưng anh lười nên viết 2 thôi, nếu mấy đứa muốn làm như này khi vào thi thì nhớ comment sang bên cạnh kiểu "để tiết kiệm thời gian nên em...", thầy dễ lắm. 
