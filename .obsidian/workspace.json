@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "21ES/TA/Giải đề cuối kỳ + Nội dung ôn tập.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "21ES/TA/Giải đề cuối kỳ + Nội dung ôn tập.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "21ES/TA/Giải đề cuối kỳ + Nội dung ôn tập.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "21ES/TA/Giải đề cuối kỳ + Nội dung ôn tập.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,8 +232,10 @@
   },
   "active": "d2a72ca718012d58",
   "lastOpenFiles": [
-    "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
     "Untitled.md",
+    "21ES/TA/Giải đề cuối kỳ + Nội dung ôn tập.md",
+    "21ES/TA",
+    "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
     "21ES/Workshop PCB/Pasted image 20240510150223.png",
     "21ES/Workshop PCB/Pasted image 20240510150151.png",
     "21ES/Workshop PCB/Workshop PCB - Sơ lược nội dung.md",
@@ -263,7 +264,6 @@
     "Learning/Year 2 - Semester 2/Discrete mathematics/Functions, Sequences, and Relations/Functions, Sequences, and Relations.md",
     "Learning/Year 2 - Semester 2/Discrete mathematics/Discrete mathematics.md",
     "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/Bipolar junction transistors.md",
-    "Learning/Year 2 - Semester 1/Electronics and Devices/Bipolar junction transistors/The pnp transistor/The pnp transistor.md",
     "21ES/Họp khoa",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412002628.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240413001654.png",
@@ -278,7 +278,6 @@
     "Learning/Year 3 - Semester 2/Verilog",
     "Learning/Year 3 - Semester 2/STM32",
     "Learning/Year 3 - Semester 2/Signal and System",
-    "Spaces/Home",
     "Index.canvas",
     "Probability and Statistics for Engineering/Lesson 1/Populations, Samples and Processes/Untitled.canvas",
     "LoRa/Untitled.canvas",
