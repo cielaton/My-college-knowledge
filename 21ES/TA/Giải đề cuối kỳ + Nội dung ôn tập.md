@@ -291,7 +291,7 @@ template <class T> T recursiveProduct(T arr[], int n) {
   return arr[n - 1] * recursiveProduct(arr, n-1);
 }
 ```
-Tham số truyền vào y như cũ, đối với cách đệ quy hoạt động thì mấy đứa có thể tìm hiểu thêm, thậm chí search cái bài tính tích của mảng dùng đệ quy nó cũng ra á, vì giải thích bằng chữ rất khó hình dung nên anh khuyến khích nên google.
+Tham số truyền vào y như cũ, đối với cách đệ quy hoạt động thì mấy đứa có thể tìm hiểu thêm, thậm chí search cái bài tính tích của mảng dùng đệ quy nó cũng ra á, vì giải thích bằng chữ rất khó hình dung nên anh khuyến khích nên google. Hoặc xem cái ví dụ factorial trong slide.
 Chúng ta test trong hàm main:
 ```cpp
 int main() {
@@ -307,4 +307,7 @@ int main() {
 ---
 ### Một số nội dung cần chú ý khi ôn tập
 - Các nội dung cơ bản về Class: Khai báo, Constructor, Destructor, private với public, accessor và mutator, khai báo object, ....
-- Static, copy constructor, operator over
+- Static, copy constructor, operator overloading.
+- Inheritance (chỉ dùng public), (pure) virtual function, abstract class.
+- Exception, template.
+- Recursion (có thể ra hoặc không, ôn cho chắc).
