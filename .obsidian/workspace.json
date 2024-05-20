@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21ES/TA/Giải đề cuối kỳ + Nội dung ôn tập.md",
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21ES/TA/Giải đề cuối kỳ + Nội dung ôn tập.md",
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21ES/TA/Giải đề cuối kỳ + Nội dung ôn tập.md"
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21ES/TA/Giải đề cuối kỳ + Nội dung ôn tập.md",
+                "file": "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,8 +232,8 @@
   },
   "active": "d2a72ca718012d58",
   "lastOpenFiles": [
-    "Untitled.md",
     "21ES/TA/Giải đề cuối kỳ + Nội dung ôn tập.md",
+    "Untitled.md",
     "21ES/TA",
     "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
     "21ES/Workshop PCB/Pasted image 20240510150223.png",
