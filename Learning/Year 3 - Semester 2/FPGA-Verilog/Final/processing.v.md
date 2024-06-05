@@ -40,3 +40,9 @@ We access the corresponding value in temp_BMP variable by indexing using:
 if (~HRESET) currentState <= ST_IDLE;
 ```
 Here, we are using ~HRESET instead of !HRESET.
+
+### Data counting
+```verilog
+assign ctrl_done = (pixelDataCount == 196607) ? 1'b1 : 1'b0;
+```
+The **196607** value indicates the maximum index of the entire image pixels. Since we are processing 2 pixels at the same time, it will be `768*512/2 = 196607`
