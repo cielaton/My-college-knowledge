@@ -23,3 +23,5 @@ We access the corresponding value in temp_BMP variable by indexing using:
 - `WIDTH*3`: To skip the entire column of one row.
 - `WIDTH*3*(HEIGHT-i-1)`: To skip the number of rows specified by **i**, here we are accessing from bottom to top so we will use the subtraction.
 - `+3*j+0`: The corresponding value of Red, Green or Blue indexed by **j**.
+
+### FSM for reading 
