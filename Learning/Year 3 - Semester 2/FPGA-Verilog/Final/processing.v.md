@@ -1,3 +1,14 @@
+### Variable declairation
+```verilog
+reg [ 9:0] rowIndex;
+reg [10:0] colIndex;
+reg [18:0] pixelDataCount;
+```
+The size of each variable cover the maximum value it can handle:
+- rowIndex: 512
+- colIndex: 768
+- pixelDataCount: 196607
+
 ### Reading data from input file
 ```verilog
 if (start == 1'b1) begin
