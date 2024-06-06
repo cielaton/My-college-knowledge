@@ -1,0 +1,1 @@
+In module declaration, using parameter `OUTPUT_FILE` instead of `INFILE` in the document.

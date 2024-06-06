@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Year 3 - Semester 2/FPGA-Verilog/Final/processing.v.md",
+                "file": "Learning/Year 3 - Semester 2/FPGA-Verilog/Final/image_write.v.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
+                "file": "Learning/Year 3 - Semester 2/FPGA-Verilog/Final/image_write.v.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md"
+                "file": "Learning/Year 3 - Semester 2/FPGA-Verilog/Final/image_write.v.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21ES/Workshop PCB/Speaker - Giới thiệu - Scripts.md",
+                "file": "Learning/Year 3 - Semester 2/FPGA-Verilog/Final/image_write.v.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,9 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21a132be76e67910",
+  "active": "d2a72ca718012d58",
   "lastOpenFiles": [
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Final/processing.v.md",
+    "Learning/Year 3 - Semester 2/FPGA-Verilog/Final/image_write.v.md",
     "Learning/Year 3 - Semester 2/STM32/Final project/Ideation.md",
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Final/.md",
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Final",
@@ -265,7 +265,6 @@
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Hierarchical Modeling Concepts/Hierarchical Modeling Concepts.md",
     "Learning/Year 3 - Semester 2/FPGA-Verilog/Basic Verilog topics/Basic Verilog topics.md",
     "Learning/Year 2 - Semester 2/Discrete mathematics/Functions, Sequences, and Relations/Functions/Functions.md",
-    "Learning/Year 2 - Semester 2/Discrete mathematics/Functions, Sequences, and Relations/Functions, Sequences, and Relations.md",
     "21ES/Họp khoa",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240412002628.png",
     "Learning/Year 3 - Semester 2/STM32/Final project/Pasted image 20240413001654.png",
