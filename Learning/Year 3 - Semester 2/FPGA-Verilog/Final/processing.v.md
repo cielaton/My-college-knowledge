@@ -46,3 +46,18 @@ Here, we are using ~HRESET instead of !HRESET.
 assign ctrl_done = (pixelDataCount == 196607) ? 1'b1 : 1'b0;
 ```
 The **196607** value indicates the maximum index of the entire image pixels. Since we are processing 2 pixels at the same time, it will be `768*512/2 = 196607`
+
+### IMAGE PROCESSING
+##### BRIGHTNESS ADDITION
+Optimized from 
+```verilog
+tempConBriR0 = tempRedValue[WIDTH*rowIndex+colIndex] + BRIGHTNESS_VALUE;
+	if (tempConBriR0 > 255) DATA_R0 = 255;
+	else DATA_R0 = tempRedValue[WIDTH*rowIndex+colIndex] + BRIGHTNESS_VALUE;
+```
+To
+```verilog
+tempConBriR0 = tempRedValue[WIDTH*rowIndex+colIndex] + BRIGHTNESS_VALUE;
+    if (tempConBriR0 > 255) DATA_R0 = 255;
+    else DATA_R0 = tempConBriR0;
+```
