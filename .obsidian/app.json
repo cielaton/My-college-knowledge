@@ -56,10 +56,10 @@
   "promptDelete": false,
   "showLineNumber": true,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "0",
+    "margin": "2",
     "downscalePercent": 100
   },
   "attachmentFolderPath": "Bipolar junction transistors/The transport model for the npn transistor",
