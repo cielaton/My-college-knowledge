@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "2ef7a3f21d3be403",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "21ES/LCD/Họp/31-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "21ES/LCD/Họp/31-07.md"
+              }
             }
           },
           {
@@ -163,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "21ES/LCD/Họp/31-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
